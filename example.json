@@ -1,0 +1,28 @@
+{
+  "toulouse": [
+    {
+      "type": "metro",
+      "name": "ligne A",
+      "stations": [
+        {
+          "name": "Station exemple",
+          "correspondance": {
+            "metro": [
+              "ligne B"
+            ],
+            "tram": [
+              "tram T1"
+            ],
+            "bus": [
+              "bus 1",
+              "bus 2"
+            ],
+            "gare": [
+              "Gare exemple"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

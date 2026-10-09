@@ -1,0 +1,8422 @@
+{
+  "Tisséo": [
+    {
+      "type": "metro",
+      "name": "ligne A",
+      "stations": [
+        {
+          "name": "Basso Cambo",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 117",
+              "bus 18",
+              "bus 21",
+              "bus 25",
+              "bus 46",
+              "bus 48",
+              "bus 49",
+              "bus 50",
+              "bus 53",
+              "bus 58",
+              "bus 85",
+              "bus 87",
+              "bus L11",
+              "bus L14",
+              "bus L4"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bellefontaine",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus L14"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Reynerie",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Mirail-Université",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus L14"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bagatelle",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 13"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Mermoz",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 13"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Fontaine Lestang",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 13"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Arènes",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T1"
+            ],
+            "bus": [
+              "bus 18",
+              "bus 34",
+              "bus 67",
+              "bus L14",
+              "bus L2",
+              "bus L3"
+            ],
+            "gare": [
+              "Saint-Cyprien Arènes"
+            ]
+          }
+        },
+        {
+          "name": "Patte d'Oie",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 45",
+              "bus 66",
+              "bus L14"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint Cyprien - République",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 13",
+              "bus 45",
+              "bus 66",
+              "bus L14",
+              "bus VILLE"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Esquirol",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 44",
+              "bus L4"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Capitole",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Jean Jaurès",
+          "correspondance": {
+            "metro": [
+              "ligne B"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 15",
+              "bus 23",
+              "bus AERO",
+              "bus CIMTR",
+              "bus L1",
+              "bus L14",
+              "bus L9",
+              "bus VILLE"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Marengo-SNCF",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus CIMTR",
+              "bus L14",
+              "bus L8"
+            ],
+            "gare": [
+              "Toulouse Matabiau"
+            ]
+          }
+        },
+        {
+          "name": "Jolimont",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 37",
+              "bus CIMTR"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Roseraie",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 139",
+              "bus L12"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Argoulets",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 19",
+              "bus 33",
+              "bus 43",
+              "bus 76"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Balma-Gramont",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 101",
+              "bus 102",
+              "bus 103",
+              "bus 20",
+              "bus 51",
+              "bus 68",
+              "bus 72",
+              "bus 83",
+              "bus 84"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#db001b"
+    },
+    {
+      "type": "metro",
+      "name": "ligne B",
+      "stations": [
+        {
+          "name": "Ramonville",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 111",
+              "bus 112",
+              "bus 27",
+              "bus 37",
+              "bus 79",
+              "bus L6"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Université Paul Sabatier",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 115",
+              "bus 34",
+              "bus 44",
+              "bus 54",
+              "bus 56",
+              "bus 81",
+              "bus 82",
+              "bus L7"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Faculté de Pharmacie",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 44",
+              "bus L7"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Rangueil",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 80",
+              "bus L12"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saouzelong",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 44"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint Agne-SNCF",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 115",
+              "bus 34"
+            ],
+            "gare": [
+              "Saint-Agne"
+            ]
+          }
+        },
+        {
+          "name": "Empalot",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 44",
+              "bus 54",
+              "bus L5"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "St-Michel - Marcel Langer",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus L4"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Palais de Justice",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T1"
+            ],
+            "bus": [
+              "bus 66",
+              "bus L4"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Carmes",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 44",
+              "bus L4",
+              "bus VILLE"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "François Verdier",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus L9"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Jean Jaurès",
+          "correspondance": {
+            "metro": [
+              "ligne A"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 15",
+              "bus 23",
+              "bus AERO",
+              "bus CIMTR",
+              "bus L1",
+              "bus L14",
+              "bus L9",
+              "bus VILLE"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Jeanne d'Arc",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 15",
+              "bus 23",
+              "bus 29",
+              "bus 39",
+              "bus 45",
+              "bus 70",
+              "bus AERO",
+              "bus CIMTR",
+              "bus L1",
+              "bus L14",
+              "bus L9"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Compans-Caffarelli",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 45",
+              "bus 63",
+              "bus AERO",
+              "bus L1",
+              "bus L14"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Canal du Midi",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 15",
+              "bus 70",
+              "bus CIMTR"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Minimes - Claude Nougaro",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 29"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Barrière de Paris",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 110",
+              "bus 15",
+              "bus 29",
+              "bus 41"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "La Vache",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 169",
+              "bus 59",
+              "bus 69",
+              "bus L10"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Trois Cocus",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 41",
+              "bus 60"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Borderouge",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 114",
+              "bus 19",
+              "bus 26",
+              "bus 33",
+              "bus 40",
+              "bus 41",
+              "bus 42",
+              "bus 73",
+              "bus L12"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#ffdd00"
+    }
+  ],
+  "Ilévia": [
+    {
+      "type": "metro",
+      "name": "ligne M1",
+      "stations": [
+        {
+          "name": "4 Cantons Stade P. Mauroy",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Cité Scientifique",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus N1"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Triolo",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "V. D'Ascq Hotel De Ville",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 18",
+              "bus 32",
+              "bus C2",
+              "bus CO1",
+              "bus CO3",
+              "bus N1"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Pont De Bois",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 32",
+              "bus 34",
+              "bus C2",
+              "bus CO3",
+              "bus E4",
+              "bus E4F",
+              "bus L6",
+              "bus N1"
+            ],
+            "gare": [
+              "Pont de bois"
+            ]
+          }
+        },
+        {
+          "name": "Square Flandres",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus N1"
+            ],
+            "gare": [
+              "Hellemmes"
+            ]
+          }
+        },
+        {
+          "name": "Mairie D'Hellemmes",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus C7",
+              "bus N1"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Marbrerie",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus N1"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Fives",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus N1"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Madeleine Caulier",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus N1"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gare Lille Flandres",
+          "correspondance": {
+            "metro": [
+              "ligne M2"
+            ],
+            "tram": [
+              "tram TRAM"
+            ],
+            "bus": [
+              "bus 10",
+              "bus 14",
+              "bus 50",
+              "bus 51",
+              "bus 86",
+              "bus 88",
+              "bus E1",
+              "bus E5",
+              "bus L1",
+              "bus L5",
+              "bus L90",
+              "bus L91",
+              "bus N1"
+            ],
+            "gare": [
+              "Lille Flandres"
+            ]
+          }
+        },
+        {
+          "name": "Rihour",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus P1"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "République Beaux-Arts",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 14",
+              "bus 18",
+              "bus C1",
+              "bus L1",
+              "bus L5",
+              "bus N1"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gambetta",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Wazemmes",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Porte Des Postes",
+          "correspondance": {
+            "metro": [
+              "ligne M2"
+            ],
+            "tram": [],
+            "bus": [
+              "bus C1",
+              "bus L5",
+              "bus L7",
+              "bus L92"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Chu - Centre O. Lambret",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 10",
+              "bus S52"
+            ],
+            "gare": [
+              "Lille Centre Hospitalier Régional"
+            ]
+          }
+        },
+        {
+          "name": "Chu - Eurasanté",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 55",
+              "bus 58",
+              "bus C1",
+              "bus CO1",
+              "bus CO2",
+              "bus F10",
+              "bus F17",
+              "bus L2",
+              "bus L92",
+              "bus S24",
+              "bus S35",
+              "bus S52"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#FDC41F"
+    },
+    {
+      "type": "metro",
+      "name": "ligne M2",
+      "stations": [
+        {
+          "name": "C.H. Dron",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 38",
+              "bus C3"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bourgogne",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 38"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Pont De Neuville",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Phalempins",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Colbert",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Tourcoing Centre",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram TRAM"
+            ],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gare De Tourcoing",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Carliers",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Mercure",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 33",
+              "bus C6"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Alsace Plaine Images",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gare Jean Lebas Roubaix",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 30",
+              "bus 33",
+              "bus C5"
+            ],
+            "gare": [
+              "Roubaix"
+            ]
+          }
+        },
+        {
+          "name": "Roubaix Grand Place",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Eurotéléport",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram TRAM"
+            ],
+            "bus": [
+              "bus 31",
+              "bus 33",
+              "bus 34",
+              "bus 36",
+              "bus 72",
+              "bus L3",
+              "bus L4",
+              "bus L8",
+              "bus L9",
+              "bus MWR",
+              "bus P5",
+              "bus S44"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Roubaix Charles De Gaulle",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Epeule Montesquieu",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Mairie De Croix",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 36"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Croix Centre",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 32"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Wasquehal Hôtel De Ville",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 30",
+              "bus P4",
+              "bus S59"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Wasquehal Pavé De Lille",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram TRAM"
+            ],
+            "bus": [
+              "bus S59",
+              "bus S77"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Jean Jaurès",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 32",
+              "bus S77"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Les Prés Edgard Pisani",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus E4",
+              "bus E4F",
+              "bus F19",
+              "bus F20"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Fort De Mons",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus C2",
+              "bus C7",
+              "bus L6"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Mairie De Mons",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus C7",
+              "bus CO3"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Mons Sarts",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus C7"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint Maurice Pellevoisin",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus E1"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gare Lille Europe",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram TRAM"
+            ],
+            "bus": [
+              "bus 10",
+              "bus 14",
+              "bus 50",
+              "bus 51",
+              "bus 86",
+              "bus 88",
+              "bus E1",
+              "bus L5",
+              "bus L90",
+              "bus L91",
+              "bus N1"
+            ],
+            "gare": [
+              "Lille Europe"
+            ]
+          }
+        },
+        {
+          "name": "Gare Lille Flandres",
+          "correspondance": {
+            "metro": [
+              "ligne M1"
+            ],
+            "tram": [
+              "tram TRAM"
+            ],
+            "bus": [
+              "bus 10",
+              "bus 14",
+              "bus 50",
+              "bus 51",
+              "bus 86",
+              "bus 88",
+              "bus E1",
+              "bus E5",
+              "bus L1",
+              "bus L5",
+              "bus L90",
+              "bus L91",
+              "bus N1"
+            ],
+            "gare": [
+              "Lille Flandres"
+            ]
+          }
+        },
+        {
+          "name": "Mairie De Lille",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Lille Grand Palais",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 18"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Porte De Valenciennes",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 18",
+              "bus 52"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Porte De Douai",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Porte D'Arras",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 14",
+              "bus C1"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Porte Des Postes",
+          "correspondance": {
+            "metro": [
+              "ligne M1"
+            ],
+            "tram": [],
+            "bus": [
+              "bus C1",
+              "bus L5",
+              "bus L7",
+              "bus L92"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Montebello",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Cormontaigne",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus C1",
+              "bus L5"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Port De Lille",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bois Blancs",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 18"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Canteleu Euratechnologies",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Lomme-Lambersart",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 10"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Pont Supérieur",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 10"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Mitterie",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus F13"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Maison Des Enfants",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus A4",
+              "bus CO3",
+              "bus S23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bourg",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus CO3"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint Philibert",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 53",
+              "bus 61",
+              "bus 61F",
+              "bus 62",
+              "bus 62F",
+              "bus 64",
+              "bus 64F",
+              "bus 65",
+              "bus 65F",
+              "bus 75",
+              "bus 75F",
+              "bus 76",
+              "bus 80",
+              "bus CO2",
+              "bus F18",
+              "bus L99"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#E30613"
+    }
+  ],
+  "RTM": [
+    {
+      "type": "metro",
+      "name": "ligne M1",
+      "stations": [
+        {
+          "name": "La Rose",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Frais Vallon",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Malpassé",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Just",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Chartreux",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Cinq Avenues Longchamp",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Réformés Canebière",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Charles",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": [
+              "Marseille Saint-Charles"
+            ]
+          }
+        },
+        {
+          "name": "Colbert",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Vieux-Port",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Estrangin",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Castellane",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Baille",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "La Timone",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "La Blancarde",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": [
+              "Marseille Blancarde"
+            ]
+          }
+        },
+        {
+          "name": "Louis Armand",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Barnabé",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "La Fourragère",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#009FE3"
+    },
+    {
+      "type": "metro",
+      "name": "ligne M2",
+      "stations": [
+        {
+          "name": "Gèze",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bougainville",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "National",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Désirée Clary",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Joliette",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Jules Guesde",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Charles",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": [
+              "Marseille Saint-Charles"
+            ]
+          }
+        },
+        {
+          "name": "Noailles",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Notre-Dame du Mont",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Castellane",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Périer",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Rond-Point du Prado",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Sainte-Marguerite Dromel",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#E30613"
+    }
+  ],
+  "STAR": [
+    {
+      "type": "metro",
+      "name": "ligne a",
+      "stations": [
+        {
+          "name": "J.F. Kennedy",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Villejean-Université",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Pontchaillou",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Anatole France",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": [
+              "Pontchaillou"
+            ]
+          }
+        },
+        {
+          "name": "Sainte-Anne",
+          "correspondance": {
+            "metro": [
+              "ligne b"
+            ],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "République",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Charles de Gaulle",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gares",
+          "correspondance": {
+            "metro": [
+              "ligne b"
+            ],
+            "tram": [],
+            "bus": [],
+            "gare": [
+              "Rennes"
+            ]
+          }
+        },
+        {
+          "name": "Jacques Cartier",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Clemenceau",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Henri Fréville",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Italie",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Triangle",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Le Blosne",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "La Poterie",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#EE1D23"
+    },
+    {
+      "type": "metro",
+      "name": "ligne b",
+      "stations": [
+        {
+          "name": "Cesson - Viasilva",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Atalante",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Beaulieu - Université",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Joliot-Curie - Chateaubriand",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Les Gayeulles",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gros-Chêne",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Jules Ferry",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Sainte-Anne",
+          "correspondance": {
+            "metro": [
+              "ligne a"
+            ],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Germain",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gares",
+          "correspondance": {
+            "metro": [
+              "ligne a"
+            ],
+            "tram": [],
+            "bus": [],
+            "gare": [
+              "Rennes"
+            ]
+          }
+        },
+        {
+          "name": "Colombier",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Mabilais",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Cleunay",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "La Courrouze",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Jacques - Gaîté",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#00893E"
+    }
+  ],
+  "IDFM": [
+    {
+      "type": "metro",
+      "name": "ligne 1",
+      "stations": [
+        {
+          "name": "La Défense",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T2"
+            ],
+            "bus": [
+              "bus 141",
+              "bus 144",
+              "bus 159",
+              "bus 174",
+              "bus 178",
+              "bus 258",
+              "bus 275",
+              "bus 276",
+              "bus 278",
+              "bus 360",
+              "bus 5432",
+              "bus 73",
+              "bus 7820",
+              "bus 7821",
+              "bus 7822",
+              "bus 7823",
+              "bus 7824",
+              "bus 7825",
+              "bus N24",
+              "bus U"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Esplanade de la Défense",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus EOLIEN"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Pont de Neuilly",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 157",
+              "bus 158",
+              "bus 174",
+              "bus 176",
+              "bus 43",
+              "bus 73",
+              "bus 93",
+              "bus N11",
+              "bus N153",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Les Sablons",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 73",
+              "bus N11",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Neuilly - Porte Maillot",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T3b"
+            ],
+            "bus": [
+              "bus 244",
+              "bus 73",
+              "bus 82",
+              "bus A01 PPM",
+              "bus N11",
+              "bus N151",
+              "bus N153",
+              "bus N24",
+              "bus PC"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Argentine",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 73",
+              "bus N11",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Charles de Gaulle - Étoile",
+          "correspondance": {
+            "metro": [
+              "ligne 2",
+              "ligne 6"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 22",
+              "bus 30",
+              "bus 31",
+              "bus 341",
+              "bus 52",
+              "bus 6",
+              "bus 73",
+              "bus 92",
+              "bus N11",
+              "bus N151",
+              "bus N153",
+              "bus N24",
+              "bus N53"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "George V",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 73",
+              "bus N11",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Franklin D. Roosevelt",
+          "correspondance": {
+            "metro": [
+              "ligne 9"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 28",
+              "bus 32",
+              "bus 42",
+              "bus 73",
+              "bus 80",
+              "bus 93",
+              "bus N01",
+              "bus N02",
+              "bus N11",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Champs-Élysées - Clemenceau",
+          "correspondance": {
+            "metro": [
+              "ligne 13"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 42",
+              "bus 73",
+              "bus 93",
+              "bus N11",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Concorde",
+          "correspondance": {
+            "metro": [
+              "ligne 12",
+              "ligne 8"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 42",
+              "bus 45",
+              "bus 72",
+              "bus 73",
+              "bus 84",
+              "bus 94",
+              "bus N11",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Tuileries",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 68",
+              "bus 72",
+              "bus N11",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Palais Royal - Musée du Louvre",
+          "correspondance": {
+            "metro": [
+              "ligne 7"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 27",
+              "bus 39",
+              "bus 67",
+              "bus 68",
+              "bus 69",
+              "bus 72",
+              "bus 95",
+              "bus N11",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Louvre - Rivoli",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 67",
+              "bus 69",
+              "bus 72",
+              "bus 74",
+              "bus 85",
+              "bus N11",
+              "bus N15",
+              "bus N16",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Châtelet",
+          "correspondance": {
+            "metro": [
+              "ligne 11",
+              "ligne 14",
+              "ligne 4",
+              "ligne 7"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 38",
+              "bus 47",
+              "bus 58",
+              "bus 67",
+              "bus 69",
+              "bus 70",
+              "bus 72",
+              "bus 74",
+              "bus 75",
+              "bus 76",
+              "bus 85",
+              "bus 96",
+              "bus N11",
+              "bus N12",
+              "bus N122",
+              "bus N123",
+              "bus N13",
+              "bus N14",
+              "bus N15",
+              "bus N16",
+              "bus N21",
+              "bus N22",
+              "bus N23",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Hôtel de Ville",
+          "correspondance": {
+            "metro": [
+              "ligne 11"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 67",
+              "bus 69",
+              "bus 70",
+              "bus 72",
+              "bus 75",
+              "bus 76",
+              "bus 96",
+              "bus N11",
+              "bus N16",
+              "bus N21"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Paul (Le Marais)",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 69",
+              "bus 76",
+              "bus 96",
+              "bus N11",
+              "bus N16"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bastille",
+          "correspondance": {
+            "metro": [
+              "ligne 5",
+              "ligne 8"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 29",
+              "bus 69",
+              "bus 76",
+              "bus 86",
+              "bus 87",
+              "bus 91",
+              "bus N01",
+              "bus N02",
+              "bus N11",
+              "bus N16"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gare de Lyon",
+          "correspondance": {
+            "metro": [
+              "ligne 14"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 24",
+              "bus 29",
+              "bus 57",
+              "bus 61",
+              "bus 63",
+              "bus 72",
+              "bus 77",
+              "bus 87",
+              "bus 91",
+              "bus D",
+              "bus N01",
+              "bus N02",
+              "bus N11",
+              "bus N130",
+              "bus N131",
+              "bus N132",
+              "bus N133",
+              "bus N134",
+              "bus N137",
+              "bus N139",
+              "bus N16",
+              "bus N31",
+              "bus N32",
+              "bus N33",
+              "bus N34",
+              "bus N35",
+              "bus R"
+            ],
+            "gare": [
+              "Paris Gare de Lyon Hall 1 - 2"
+            ]
+          }
+        },
+        {
+          "name": "Reuilly - Diderot",
+          "correspondance": {
+            "metro": [
+              "ligne 8"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 215",
+              "bus 46",
+              "bus 57",
+              "bus N11"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Nation",
+          "correspondance": {
+            "metro": [
+              "ligne 2",
+              "ligne 6",
+              "ligne 9"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 215",
+              "bus 26",
+              "bus 351",
+              "bus 56",
+              "bus 57",
+              "bus 71",
+              "bus 86",
+              "bus N11"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Porte de Vincennes",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T3a",
+              "tram T3b"
+            ],
+            "bus": [
+              "bus 215",
+              "bus 351",
+              "bus 86",
+              "bus CHARONNE",
+              "bus N11"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Mandé",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 325",
+              "bus 86",
+              "bus N11"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bérault",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 325",
+              "bus 56",
+              "bus N11",
+              "bus N33"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Château de Vincennes",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 112",
+              "bus 114",
+              "bus 115",
+              "bus 118",
+              "bus 124",
+              "bus 210",
+              "bus 318",
+              "bus 325",
+              "bus 46",
+              "bus 56",
+              "bus N11",
+              "bus N33"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#FFBE00"
+    },
+    {
+      "type": "metro",
+      "name": "ligne 10",
+      "stations": [
+        {
+          "name": "Gare d'Austerlitz",
+          "correspondance": {
+            "metro": [
+              "ligne 5"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 215",
+              "bus 24",
+              "bus 57",
+              "bus 61",
+              "bus 63",
+              "bus 89",
+              "bus 91",
+              "bus C",
+              "bus N01",
+              "bus N02",
+              "bus N131",
+              "bus N133",
+              "bus N31"
+            ],
+            "gare": [
+              "Paris Austerlitz"
+            ]
+          }
+        },
+        {
+          "name": "Jussieu",
+          "correspondance": {
+            "metro": [
+              "ligne 7"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 67",
+              "bus 89"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Cardinal Lemoine",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 47",
+              "bus 75",
+              "bus 89",
+              "bus N15",
+              "bus N22"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Maubert - Mutualité",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 47",
+              "bus 63",
+              "bus 86",
+              "bus 87",
+              "bus N15",
+              "bus N22"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Cluny - La Sorbonne",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 47",
+              "bus 63",
+              "bus 75",
+              "bus 86",
+              "bus 87",
+              "bus N15",
+              "bus N22"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Odéon",
+          "correspondance": {
+            "metro": [
+              "ligne 4"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 58",
+              "bus 63",
+              "bus 70",
+              "bus 86",
+              "bus 87",
+              "bus 96",
+              "bus N12",
+              "bus N13"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Mabillon",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 63",
+              "bus 70",
+              "bus 86",
+              "bus 87",
+              "bus 96",
+              "bus N12",
+              "bus N13"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Sèvres - Babylone",
+          "correspondance": {
+            "metro": [
+              "ligne 12"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 63",
+              "bus 68",
+              "bus 70",
+              "bus 83",
+              "bus 84",
+              "bus 86",
+              "bus 94"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Vaneau",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 70",
+              "bus 86"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Duroc",
+          "correspondance": {
+            "metro": [
+              "ligne 13"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 28",
+              "bus 70",
+              "bus 82",
+              "bus 86",
+              "bus 89",
+              "bus 92"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Ségur",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "La Motte-Picquet - Grenelle",
+          "correspondance": {
+            "metro": [
+              "ligne 6",
+              "ligne 8"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 6",
+              "bus 80"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Avenue Émile Zola",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus N12",
+              "bus N61"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Charles Michels",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 42",
+              "bus 70",
+              "bus 88",
+              "bus N12",
+              "bus N61"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Javel",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 30",
+              "bus 62",
+              "bus 88",
+              "bus N160"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Église d'Auteuil",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 22",
+              "bus 52",
+              "bus 62"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Michel-Ange - Auteuil",
+          "correspondance": {
+            "metro": [
+              "ligne 9"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 52",
+              "bus 62"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Porte d'Auteuil",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 123",
+              "bus 241",
+              "bus 32",
+              "bus 52",
+              "bus 88",
+              "bus PC"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Boulogne Jean Jaurès",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 123",
+              "bus 52"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Boulogne Pont de Saint-Cloud",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 126",
+              "bus 160",
+              "bus 175",
+              "bus 260",
+              "bus 467",
+              "bus 5117",
+              "bus 52",
+              "bus 6246",
+              "bus 72"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#DC9600"
+    },
+    {
+      "type": "metro",
+      "name": "ligne 11",
+      "stations": [
+        {
+          "name": "Mairie des Lilas",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 105",
+              "bus 48",
+              "bus N12",
+              "bus N23",
+              "bus P'TIT BUS",
+              "bus TILLBUS"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Serge Gainsbourg",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 105",
+              "bus N12",
+              "bus N23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Romainville - Carnot",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 105",
+              "bus 129",
+              "bus 318",
+              "bus 322",
+              "bus N12",
+              "bus N23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Montreuil - Hôpital",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 129",
+              "bus 301",
+              "bus 76",
+              "bus Titus 1"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "La Dhuys",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 102",
+              "bus 124"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Coteaux Beauclair",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 245"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Rosny Bois Perrier",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 102",
+              "bus 145",
+              "bus 221",
+              "bus 245",
+              "bus 346",
+              "bus E"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#6E491E"
+    },
+    {
+      "type": "metro",
+      "name": "ligne 12",
+      "stations": [
+        {
+          "name": "Mairie d'Aubervilliers",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 150",
+              "bus 170",
+              "bus N43"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Aimé Césaire",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 139",
+              "bus 35",
+              "bus N43"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Front Populaire",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 139",
+              "bus 239"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Porte de la Chapelle",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T3b"
+            ],
+            "bus": [
+              "bus 153",
+              "bus 252",
+              "bus 302",
+              "bus 350",
+              "bus 38",
+              "bus N143",
+              "bus N147",
+              "bus N43",
+              "bus NEY-FLA"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Marx Dormoy",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 302",
+              "bus 35",
+              "bus 38",
+              "bus 60",
+              "bus N43"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Marcadet - Poissonniers",
+          "correspondance": {
+            "metro": [
+              "ligne 4"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 302",
+              "bus 31",
+              "bus 56",
+              "bus 60",
+              "bus 85",
+              "bus N14",
+              "bus N44"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Jules Joffrin",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 31",
+              "bus 40",
+              "bus 60",
+              "bus 80",
+              "bus 85"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Lamarck - Caulaincourt",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 40",
+              "bus 80"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Abbesses",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 40"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Pigalle",
+          "correspondance": {
+            "metro": [
+              "ligne 2"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 30",
+              "bus 40",
+              "bus 54",
+              "bus N01",
+              "bus N02"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Georges",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 40",
+              "bus 74"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Notre-Dame-de-Lorette",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 26",
+              "bus 32",
+              "bus 40",
+              "bus 43",
+              "bus 45",
+              "bus 74"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Trinité - d'Estienne d'Orves",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 26",
+              "bus 43",
+              "bus 68",
+              "bus N01"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gare Saint-Lazare",
+          "correspondance": {
+            "metro": [
+              "ligne 13",
+              "ligne 14",
+              "ligne 3"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 21",
+              "bus 22",
+              "bus 26",
+              "bus 27",
+              "bus 28",
+              "bus 29",
+              "bus 32",
+              "bus 42",
+              "bus 43",
+              "bus 66",
+              "bus 80",
+              "bus 94",
+              "bus 95",
+              "bus A",
+              "bus J",
+              "bus L",
+              "bus N01",
+              "bus N02",
+              "bus N15",
+              "bus N150",
+              "bus N151",
+              "bus N152",
+              "bus N153",
+              "bus N154",
+              "bus N155",
+              "bus N16",
+              "bus N51",
+              "bus N52",
+              "bus N53"
+            ],
+            "gare": [
+              "Paris Saint-Lazare"
+            ]
+          }
+        },
+        {
+          "name": "Madeleine",
+          "correspondance": {
+            "metro": [
+              "ligne 14",
+              "ligne 8"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 42",
+              "bus 45",
+              "bus 52",
+              "bus 84",
+              "bus 94"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Concorde",
+          "correspondance": {
+            "metro": [
+              "ligne 1",
+              "ligne 8"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 42",
+              "bus 45",
+              "bus 72",
+              "bus 73",
+              "bus 84",
+              "bus 94",
+              "bus N11",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Assemblée Nationale",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 63",
+              "bus 73",
+              "bus 83",
+              "bus 84",
+              "bus 87",
+              "bus 94",
+              "bus N01",
+              "bus N02"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Solférino",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 63",
+              "bus 68",
+              "bus 69",
+              "bus 83",
+              "bus 84",
+              "bus 87",
+              "bus 94",
+              "bus N02"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Rue du Bac",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 63",
+              "bus 68",
+              "bus 69",
+              "bus 83",
+              "bus 84",
+              "bus 87",
+              "bus 94"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Sèvres - Babylone",
+          "correspondance": {
+            "metro": [
+              "ligne 10"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 63",
+              "bus 68",
+              "bus 70",
+              "bus 83",
+              "bus 84",
+              "bus 86",
+              "bus 94"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Rennes",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 39",
+              "bus 68",
+              "bus 83",
+              "bus 89",
+              "bus 94",
+              "bus 95",
+              "bus 96",
+              "bus N01",
+              "bus N02",
+              "bus N12",
+              "bus N13"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Notre-Dame-des-Champs",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 58",
+              "bus 68",
+              "bus 82"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gare Montparnasse",
+          "correspondance": {
+            "metro": [
+              "ligne 13",
+              "ligne 4",
+              "ligne 6"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 28",
+              "bus 39",
+              "bus 58",
+              "bus 82",
+              "bus 88",
+              "bus 89",
+              "bus 91",
+              "bus 92",
+              "bus 94",
+              "bus 95",
+              "bus 96",
+              "bus N",
+              "bus N01",
+              "bus N02",
+              "bus N12",
+              "bus N13",
+              "bus N160",
+              "bus N161",
+              "bus N162",
+              "bus N61",
+              "bus N62",
+              "bus N63",
+              "bus N66"
+            ],
+            "gare": [
+              "Paris Montparnasse Hall 1 - 2",
+              "Paris Montparnasse Vaugirard"
+            ]
+          }
+        },
+        {
+          "name": "Falguière",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 28",
+              "bus 82",
+              "bus 89",
+              "bus 92"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Pasteur",
+          "correspondance": {
+            "metro": [
+              "ligne 6"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 39",
+              "bus 70",
+              "bus 89",
+              "bus 95",
+              "bus Traverse"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Volontaires",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 39",
+              "bus 70",
+              "bus 89",
+              "bus N13",
+              "bus N62",
+              "bus Traverse"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Vaugirard",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 39",
+              "bus 70",
+              "bus 80",
+              "bus 88",
+              "bus N13",
+              "bus N62",
+              "bus Traverse"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Convention",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 39",
+              "bus 62",
+              "bus 80",
+              "bus N13",
+              "bus N62",
+              "bus Traverse"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Porte de Versailles",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T2",
+              "tram T3a"
+            ],
+            "bus": [
+              "bus 3754",
+              "bus 80"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Corentin Celton",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 126",
+              "bus 189",
+              "bus 394",
+              "bus N62",
+              "bus TUVIM CV"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Mairie d'Issy",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 123",
+              "bus 169",
+              "bus 190",
+              "bus 290",
+              "bus 323",
+              "bus N13",
+              "bus TUVIM CV",
+              "bus TUVIM EP",
+              "bus TUVIM ISG"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#00643C"
+    },
+    {
+      "type": "metro",
+      "name": "ligne 13",
+      "stations": [
+        {
+          "name": "Saint-Denis - Université",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 1611",
+              "bus 168",
+              "bus 253",
+              "bus 255",
+              "bus 256",
+              "bus 268",
+              "bus 353",
+              "bus 356"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Basilique de Saint-Denis",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T1"
+            ],
+            "bus": [
+              "bus 240",
+              "bus 253",
+              "bus 255",
+              "bus N44"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Denis - Porte de Paris",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T8"
+            ],
+            "bus": [
+              "bus 153",
+              "bus 170",
+              "bus 239",
+              "bus 253",
+              "bus 255",
+              "bus 353",
+              "bus N143",
+              "bus N44"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Carrefour Pleyel",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 139",
+              "bus 255",
+              "bus 274",
+              "bus 9517",
+              "bus N44"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Mairie de Saint-Ouen",
+          "correspondance": {
+            "metro": [
+              "ligne 14"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 137",
+              "bus 140",
+              "bus 166",
+              "bus 173",
+              "bus 237",
+              "bus 274",
+              "bus 85",
+              "bus AUDONIE",
+              "bus N14",
+              "bus N44"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Garibaldi",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 137",
+              "bus 237",
+              "bus AUDONIE",
+              "bus N14",
+              "bus N44"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Porte de Saint-Ouen",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T3b"
+            ],
+            "bus": [
+              "bus 21",
+              "bus 341",
+              "bus BATIGNO"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Guy Môquet",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 31",
+              "bus BATIGNO"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "La Fourche",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 54",
+              "bus 74",
+              "bus N15",
+              "bus N51"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Place de Clichy",
+          "correspondance": {
+            "metro": [
+              "ligne 2"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 30",
+              "bus 54",
+              "bus 68",
+              "bus 74",
+              "bus 80",
+              "bus 95",
+              "bus N01",
+              "bus N02",
+              "bus N15",
+              "bus N51"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Liège",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 68",
+              "bus N01"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gare Saint-Lazare",
+          "correspondance": {
+            "metro": [
+              "ligne 12",
+              "ligne 14",
+              "ligne 3"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 21",
+              "bus 22",
+              "bus 26",
+              "bus 27",
+              "bus 28",
+              "bus 29",
+              "bus 32",
+              "bus 42",
+              "bus 43",
+              "bus 66",
+              "bus 80",
+              "bus 94",
+              "bus 95",
+              "bus A",
+              "bus J",
+              "bus L",
+              "bus N01",
+              "bus N02",
+              "bus N15",
+              "bus N150",
+              "bus N151",
+              "bus N152",
+              "bus N153",
+              "bus N154",
+              "bus N155",
+              "bus N16",
+              "bus N51",
+              "bus N52",
+              "bus N53"
+            ],
+            "gare": [
+              "Paris Saint-Lazare"
+            ]
+          }
+        },
+        {
+          "name": "Miromesnil",
+          "correspondance": {
+            "metro": [
+              "ligne 9"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 22",
+              "bus 28",
+              "bus 32",
+              "bus 43",
+              "bus 52",
+              "bus 80",
+              "bus 84",
+              "bus 93",
+              "bus N01",
+              "bus N02",
+              "bus N53"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Champs-Élysées - Clemenceau",
+          "correspondance": {
+            "metro": [
+              "ligne 1"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 42",
+              "bus 73",
+              "bus 93",
+              "bus N11",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Invalides",
+          "correspondance": {
+            "metro": [
+              "ligne 8"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 63",
+              "bus 83",
+              "bus 87",
+              "bus 93",
+              "bus N01",
+              "bus N02"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Varenne",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-François-Xavier",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 82",
+              "bus 86",
+              "bus 92"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Duroc",
+          "correspondance": {
+            "metro": [
+              "ligne 10"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 28",
+              "bus 70",
+              "bus 82",
+              "bus 86",
+              "bus 89",
+              "bus 92"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gare Montparnasse",
+          "correspondance": {
+            "metro": [
+              "ligne 12",
+              "ligne 4",
+              "ligne 6"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 28",
+              "bus 39",
+              "bus 58",
+              "bus 82",
+              "bus 88",
+              "bus 89",
+              "bus 91",
+              "bus 92",
+              "bus 94",
+              "bus 95",
+              "bus 96",
+              "bus N",
+              "bus N01",
+              "bus N02",
+              "bus N12",
+              "bus N13",
+              "bus N160",
+              "bus N161",
+              "bus N162",
+              "bus N61",
+              "bus N62",
+              "bus N63",
+              "bus N66"
+            ],
+            "gare": [
+              "Paris Montparnasse Hall 1 - 2",
+              "Paris Montparnasse Vaugirard"
+            ]
+          }
+        },
+        {
+          "name": "Gaîté",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 58",
+              "bus 59",
+              "bus 88",
+              "bus 92",
+              "bus N63",
+              "bus N66"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Pernety",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 58",
+              "bus 59",
+              "bus N63"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Plaisance",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 59",
+              "bus 62",
+              "bus N63"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Porte de Vanves",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T3a"
+            ],
+            "bus": [
+              "bus 191",
+              "bus 3754",
+              "bus 58",
+              "bus 59",
+              "bus 95",
+              "bus N63"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Malakoff - Plateau de Vanves",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus N63"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Malakoff - Rue Étienne Dolet",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 191",
+              "bus 391",
+              "bus HIRO",
+              "bus N63"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Châtillon - Montrouge",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T6"
+            ],
+            "bus": [
+              "bus 194",
+              "bus 323",
+              "bus 388",
+              "bus 68",
+              "bus 7805",
+              "bus AMIBUS",
+              "bus MONTBUS",
+              "bus N63",
+              "bus N66"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#82C8E6"
+    },
+    {
+      "type": "metro",
+      "name": "ligne 14",
+      "stations": [
+        {
+          "name": "Aéroport d’Orly (Terminaux 1-2-3)",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram ORLYVAL"
+            ],
+            "bus": [
+              "bus 183",
+              "bus 4121",
+              "bus 480",
+              "bus 5154",
+              "bus 9112",
+              "bus N131",
+              "bus N139",
+              "bus Orly"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Thiais - Orly (Pont de Rungis)",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 183",
+              "bus 319",
+              "bus 382",
+              "bus 396",
+              "bus 482",
+              "bus C",
+              "bus N22",
+              "bus N31"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Chevilly-Larue (Marché International)",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T7"
+            ],
+            "bus": [
+              "bus 183",
+              "bus 192",
+              "bus 319",
+              "bus 396",
+              "bus 9112",
+              "bus N22",
+              "bus N31",
+              "bus N71",
+              "bus TVM"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "L'Haÿ-les-Roses",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 131",
+              "bus 286"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Villejuif - Gustave Roussy",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 162",
+              "bus 380"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Hôpital Bicêtre",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 125",
+              "bus 186",
+              "bus 323"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Maison Blanche",
+          "correspondance": {
+            "metro": [
+              "ligne 7"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 193",
+              "bus 47",
+              "bus BIEVRES",
+              "bus N15",
+              "bus N22"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Olympiades",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 62",
+              "bus 64",
+              "bus 83"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bibliothèque François Mitterrand",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 132",
+              "bus 25",
+              "bus 325",
+              "bus 62",
+              "bus 64",
+              "bus 71",
+              "bus 89",
+              "bus C",
+              "bus N131",
+              "bus N133"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Cour Saint-Emilion",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bercy",
+          "correspondance": {
+            "metro": [
+              "ligne 6"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 215",
+              "bus 24",
+              "bus 71",
+              "bus 77",
+              "bus 87",
+              "bus N32",
+              "bus N35"
+            ],
+            "gare": [
+              "Paris Bercy Bourg. Pays d'Auv."
+            ]
+          }
+        },
+        {
+          "name": "Gare de Lyon",
+          "correspondance": {
+            "metro": [
+              "ligne 1"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 24",
+              "bus 29",
+              "bus 57",
+              "bus 61",
+              "bus 63",
+              "bus 72",
+              "bus 77",
+              "bus 87",
+              "bus 91",
+              "bus D",
+              "bus N01",
+              "bus N02",
+              "bus N11",
+              "bus N130",
+              "bus N131",
+              "bus N132",
+              "bus N133",
+              "bus N134",
+              "bus N137",
+              "bus N139",
+              "bus N16",
+              "bus N31",
+              "bus N32",
+              "bus N33",
+              "bus N34",
+              "bus N35",
+              "bus R"
+            ],
+            "gare": [
+              "Paris Gare de Lyon Hall 1 - 2"
+            ]
+          }
+        },
+        {
+          "name": "Châtelet",
+          "correspondance": {
+            "metro": [
+              "ligne 1",
+              "ligne 11",
+              "ligne 4",
+              "ligne 7"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 38",
+              "bus 47",
+              "bus 58",
+              "bus 67",
+              "bus 69",
+              "bus 70",
+              "bus 72",
+              "bus 74",
+              "bus 75",
+              "bus 76",
+              "bus 85",
+              "bus 96",
+              "bus N11",
+              "bus N12",
+              "bus N122",
+              "bus N123",
+              "bus N13",
+              "bus N14",
+              "bus N15",
+              "bus N16",
+              "bus N21",
+              "bus N22",
+              "bus N23",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Pyramides",
+          "correspondance": {
+            "metro": [
+              "ligne 7"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 27",
+              "bus 68",
+              "bus 95"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Madeleine",
+          "correspondance": {
+            "metro": [
+              "ligne 12",
+              "ligne 8"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 42",
+              "bus 45",
+              "bus 52",
+              "bus 84",
+              "bus 94"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gare Saint-Lazare",
+          "correspondance": {
+            "metro": [
+              "ligne 12",
+              "ligne 13",
+              "ligne 3"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 21",
+              "bus 22",
+              "bus 26",
+              "bus 27",
+              "bus 28",
+              "bus 29",
+              "bus 32",
+              "bus 42",
+              "bus 43",
+              "bus 66",
+              "bus 80",
+              "bus 94",
+              "bus 95",
+              "bus A",
+              "bus J",
+              "bus L",
+              "bus N01",
+              "bus N02",
+              "bus N15",
+              "bus N150",
+              "bus N151",
+              "bus N152",
+              "bus N153",
+              "bus N154",
+              "bus N155",
+              "bus N16",
+              "bus N51",
+              "bus N52",
+              "bus N53"
+            ],
+            "gare": [
+              "Paris Saint-Lazare"
+            ]
+          }
+        },
+        {
+          "name": "Pont Cardinet",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 163",
+              "bus 28",
+              "bus 31",
+              "bus 66",
+              "bus 94",
+              "bus A",
+              "bus BATIGNO",
+              "bus J",
+              "bus L"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Porte de Clichy",
+          "correspondance": {
+            "metro": [
+              "ligne 13"
+            ],
+            "tram": [
+              "tram T3b"
+            ],
+            "bus": [
+              "bus 13",
+              "bus 163",
+              "bus 173",
+              "bus 28",
+              "bus 54",
+              "bus 74",
+              "bus N15",
+              "bus N51"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Ouen",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 138",
+              "bus 173",
+              "bus 174",
+              "bus 274",
+              "bus 341",
+              "bus 66"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Mairie de Saint-Ouen",
+          "correspondance": {
+            "metro": [
+              "ligne 13"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 137",
+              "bus 140",
+              "bus 166",
+              "bus 173",
+              "bus 237",
+              "bus 274",
+              "bus 85",
+              "bus AUDONIE",
+              "bus N14",
+              "bus N44"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Denis - Pleyel",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 139",
+              "bus 255",
+              "bus 9517",
+              "bus D"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#640082"
+    },
+    {
+      "type": "metro",
+      "name": "ligne 2",
+      "stations": [
+        {
+          "name": "Porte Dauphine",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T3b"
+            ],
+            "bus": [
+              "bus 63",
+              "bus PC"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Victor Hugo",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 52",
+              "bus 82"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Charles de Gaulle - Étoile",
+          "correspondance": {
+            "metro": [
+              "ligne 1",
+              "ligne 6"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 22",
+              "bus 30",
+              "bus 31",
+              "bus 341",
+              "bus 52",
+              "bus 6",
+              "bus 73",
+              "bus 92",
+              "bus N11",
+              "bus N151",
+              "bus N153",
+              "bus N24",
+              "bus N53"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Ternes",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 30",
+              "bus 31",
+              "bus 43"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Courcelles",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 30",
+              "bus 84"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Monceau",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 30"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Villiers",
+          "correspondance": {
+            "metro": [
+              "ligne 3"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 30",
+              "bus N16",
+              "bus N52"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Rome",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 28",
+              "bus 30",
+              "bus 66",
+              "bus 94"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Place de Clichy",
+          "correspondance": {
+            "metro": [
+              "ligne 13"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 30",
+              "bus 54",
+              "bus 68",
+              "bus 74",
+              "bus 80",
+              "bus 95",
+              "bus N01",
+              "bus N02",
+              "bus N15",
+              "bus N51"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Blanche",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 30",
+              "bus 54",
+              "bus 68",
+              "bus 74",
+              "bus N01",
+              "bus N02"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Pigalle",
+          "correspondance": {
+            "metro": [
+              "ligne 12"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 30",
+              "bus 40",
+              "bus 54",
+              "bus N01",
+              "bus N02"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Anvers",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 54",
+              "bus N01",
+              "bus N02"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Barbès - Rochechouart",
+          "correspondance": {
+            "metro": [
+              "ligne 4"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 2",
+              "bus 31",
+              "bus 54",
+              "bus 56",
+              "bus 85",
+              "bus N01",
+              "bus N02",
+              "bus N14",
+              "bus N44"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "La Chapelle",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 2",
+              "bus 302",
+              "bus 35",
+              "bus 38",
+              "bus 45",
+              "bus 48",
+              "bus N43",
+              "bus NEY-FLA"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Stalingrad",
+          "correspondance": {
+            "metro": [
+              "ligne 5",
+              "ligne 7"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 2",
+              "bus 45",
+              "bus 48",
+              "bus 54",
+              "bus N42",
+              "bus NEY-FLA"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Jaurès",
+          "correspondance": {
+            "metro": [
+              "ligne 5",
+              "ligne 7B"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 2",
+              "bus 26",
+              "bus 48",
+              "bus N13",
+              "bus N41",
+              "bus N42",
+              "bus N45"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Colonel Fabien",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 2",
+              "bus 46",
+              "bus 75"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Belleville",
+          "correspondance": {
+            "metro": [
+              "ligne 11"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 2",
+              "bus 20",
+              "bus 71",
+              "bus N12",
+              "bus N23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Couronnes",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 2",
+              "bus 20",
+              "bus 71",
+              "bus 96",
+              "bus N12",
+              "bus N23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Ménilmontant",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 2",
+              "bus 20",
+              "bus 71",
+              "bus 96",
+              "bus N12",
+              "bus N23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Père Lachaise",
+          "correspondance": {
+            "metro": [
+              "ligne 3"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 2",
+              "bus 61",
+              "bus 69",
+              "bus 71",
+              "bus N16",
+              "bus N34"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Philippe Auguste",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 71"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Alexandre Dumas",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 76"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Avron",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 57"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Nation",
+          "correspondance": {
+            "metro": [
+              "ligne 1",
+              "ligne 6",
+              "ligne 9"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 215",
+              "bus 26",
+              "bus 351",
+              "bus 56",
+              "bus 57",
+              "bus 71",
+              "bus 86",
+              "bus N11"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#0055C8"
+    },
+    {
+      "type": "metro",
+      "name": "ligne 3",
+      "stations": [
+        {
+          "name": "Porte de Champerret",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T3b"
+            ],
+            "bus": [
+              "bus 163",
+              "bus 164",
+              "bus 165",
+              "bus 92",
+              "bus 93",
+              "bus N16",
+              "bus N52"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Péreire Levallois",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 163",
+              "bus 341",
+              "bus 84",
+              "bus 92",
+              "bus 93",
+              "bus N152",
+              "bus N16",
+              "bus N52"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Wagram",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 31",
+              "bus 93"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Malesherbes",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Villiers",
+          "correspondance": {
+            "metro": [
+              "ligne 2"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 30",
+              "bus N16",
+              "bus N52"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Europe",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 28",
+              "bus 66",
+              "bus 80",
+              "bus 94",
+              "bus 95",
+              "bus N02",
+              "bus N15",
+              "bus N16",
+              "bus N51",
+              "bus N52"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gare Saint-Lazare",
+          "correspondance": {
+            "metro": [
+              "ligne 12",
+              "ligne 13",
+              "ligne 14"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 21",
+              "bus 22",
+              "bus 26",
+              "bus 27",
+              "bus 28",
+              "bus 29",
+              "bus 32",
+              "bus 42",
+              "bus 43",
+              "bus 66",
+              "bus 80",
+              "bus 94",
+              "bus 95",
+              "bus A",
+              "bus J",
+              "bus L",
+              "bus N01",
+              "bus N02",
+              "bus N15",
+              "bus N150",
+              "bus N151",
+              "bus N152",
+              "bus N153",
+              "bus N154",
+              "bus N155",
+              "bus N16",
+              "bus N51",
+              "bus N52",
+              "bus N53"
+            ],
+            "gare": [
+              "Paris Saint-Lazare"
+            ]
+          }
+        },
+        {
+          "name": "Havre - Caumartin",
+          "correspondance": {
+            "metro": [
+              "ligne 9"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 21",
+              "bus 27",
+              "bus 29",
+              "bus 32",
+              "bus 42",
+              "bus 66",
+              "bus 94",
+              "bus 95",
+              "bus N15",
+              "bus N16"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Opéra",
+          "correspondance": {
+            "metro": [
+              "ligne 7",
+              "ligne 8"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 21",
+              "bus 27",
+              "bus 29",
+              "bus 32",
+              "bus 45",
+              "bus 52",
+              "bus 66",
+              "bus 68",
+              "bus 95",
+              "bus N15",
+              "bus N16"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Quatre Septembre",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 29",
+              "bus 39",
+              "bus 74",
+              "bus 85",
+              "bus N15",
+              "bus N16"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bourse",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 29",
+              "bus 39",
+              "bus 74",
+              "bus 85",
+              "bus N15",
+              "bus N16"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Sentier",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 39"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Réaumur - Sébastopol",
+          "correspondance": {
+            "metro": [
+              "ligne 4"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 38",
+              "bus 39",
+              "bus N12",
+              "bus N13",
+              "bus N14",
+              "bus N23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Arts et Métiers",
+          "correspondance": {
+            "metro": [
+              "ligne 11"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 75",
+              "bus N12",
+              "bus N23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Temple",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 75",
+              "bus N12",
+              "bus N23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "République",
+          "correspondance": {
+            "metro": [
+              "ligne 11",
+              "ligne 5",
+              "ligne 8",
+              "ligne 9"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 56",
+              "bus 75",
+              "bus 91",
+              "bus N01",
+              "bus N02",
+              "bus N12",
+              "bus N141",
+              "bus N142",
+              "bus N23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Parmentier",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 46",
+              "bus 96",
+              "bus N12",
+              "bus N23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Rue Saint-Maur",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Père Lachaise",
+          "correspondance": {
+            "metro": [
+              "ligne 2"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 2",
+              "bus 61",
+              "bus 69",
+              "bus 71",
+              "bus N16",
+              "bus N34"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gambetta",
+          "correspondance": {
+            "metro": [
+              "ligne 3B"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 102",
+              "bus 26",
+              "bus 60",
+              "bus 61",
+              "bus 64",
+              "bus 69",
+              "bus CHARONNE",
+              "bus N16",
+              "bus N34"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Porte de Bagnolet",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T3b"
+            ],
+            "bus": [
+              "bus 102",
+              "bus 351",
+              "bus 57",
+              "bus 76",
+              "bus N141",
+              "bus N142",
+              "bus N16",
+              "bus N34"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gallieni",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 102",
+              "bus 122",
+              "bus 221",
+              "bus 318",
+              "bus 351",
+              "bus 76"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#6E6E00"
+    },
+    {
+      "type": "metro",
+      "name": "ligne 3B",
+      "stations": [
+        {
+          "name": "Gambetta",
+          "correspondance": {
+            "metro": [
+              "ligne 3"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 102",
+              "bus 26",
+              "bus 60",
+              "bus 61",
+              "bus 64",
+              "bus 69",
+              "bus CHARONNE",
+              "bus N16",
+              "bus N34"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Pelleport",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 102",
+              "bus 60",
+              "bus 61",
+              "bus 64",
+              "bus CHARONNE",
+              "bus N16",
+              "bus N34"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Fargeau",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 61",
+              "bus 64",
+              "bus 96"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Porte des Lilas",
+          "correspondance": {
+            "metro": [
+              "ligne 11"
+            ],
+            "tram": [
+              "tram T3b"
+            ],
+            "bus": [
+              "bus 105",
+              "bus 115",
+              "bus 170",
+              "bus 20",
+              "bus 249",
+              "bus 48",
+              "bus 61",
+              "bus 64",
+              "bus 96",
+              "bus N12",
+              "bus N23"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#82C8E6"
+    },
+    {
+      "type": "metro",
+      "name": "ligne 4",
+      "stations": [
+        {
+          "name": "Porte d'Orléans",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T3a"
+            ],
+            "bus": [
+              "bus 125",
+              "bus 126",
+              "bus 128",
+              "bus 187",
+              "bus 188",
+              "bus 194",
+              "bus 197",
+              "bus 299",
+              "bus 3754",
+              "bus 38",
+              "bus 388",
+              "bus 4502",
+              "bus 68",
+              "bus 7805",
+              "bus 9114",
+              "bus 9115",
+              "bus 9118",
+              "bus 92",
+              "bus BIEVRES",
+              "bus N122",
+              "bus N123",
+              "bus N14",
+              "bus N21",
+              "bus N66"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Alésia",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 38",
+              "bus 62",
+              "bus 68",
+              "bus 92",
+              "bus BIEVRES",
+              "bus N14",
+              "bus N21",
+              "bus N66"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Mouton-Duvernet",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 38",
+              "bus 68",
+              "bus N14",
+              "bus N21"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Denfert-Rochereau",
+          "correspondance": {
+            "metro": [
+              "ligne 6"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 216",
+              "bus 38",
+              "bus 59",
+              "bus 64",
+              "bus 68",
+              "bus 88",
+              "bus N122",
+              "bus N123",
+              "bus N14",
+              "bus N21"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Raspail",
+          "correspondance": {
+            "metro": [
+              "ligne 6"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 68"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Vavin",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 58",
+              "bus 68",
+              "bus 82",
+              "bus 91",
+              "bus N01",
+              "bus N02"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gare Montparnasse",
+          "correspondance": {
+            "metro": [
+              "ligne 12",
+              "ligne 13",
+              "ligne 6"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 28",
+              "bus 39",
+              "bus 58",
+              "bus 82",
+              "bus 88",
+              "bus 89",
+              "bus 91",
+              "bus 92",
+              "bus 94",
+              "bus 95",
+              "bus 96",
+              "bus N",
+              "bus N01",
+              "bus N02",
+              "bus N12",
+              "bus N13",
+              "bus N160",
+              "bus N161",
+              "bus N162",
+              "bus N61",
+              "bus N62",
+              "bus N63",
+              "bus N66"
+            ],
+            "gare": [
+              "Paris Montparnasse Hall 1 - 2",
+              "Paris Montparnasse Vaugirard"
+            ]
+          }
+        },
+        {
+          "name": "Saint-Placide",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 39",
+              "bus 89",
+              "bus 94",
+              "bus 95",
+              "bus 96",
+              "bus N01",
+              "bus N02",
+              "bus N12",
+              "bus N13"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Sulpice",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 39",
+              "bus 63",
+              "bus 70",
+              "bus 84",
+              "bus 86",
+              "bus 95",
+              "bus 96",
+              "bus N01",
+              "bus N02",
+              "bus N12",
+              "bus N13"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Germain-des-Prés",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 39",
+              "bus 63",
+              "bus 70",
+              "bus 86",
+              "bus 87",
+              "bus 95",
+              "bus 96",
+              "bus N01",
+              "bus N02",
+              "bus N12",
+              "bus N13"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Odéon",
+          "correspondance": {
+            "metro": [
+              "ligne 10"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 58",
+              "bus 63",
+              "bus 70",
+              "bus 86",
+              "bus 87",
+              "bus 96",
+              "bus N12",
+              "bus N13"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Michel Notre-Dame",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 27",
+              "bus 38",
+              "bus 58",
+              "bus 70",
+              "bus 87",
+              "bus 96",
+              "bus N12",
+              "bus N122",
+              "bus N123",
+              "bus N13",
+              "bus N14",
+              "bus N21"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Cité",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 38",
+              "bus 47",
+              "bus 58",
+              "bus 70",
+              "bus 75",
+              "bus 96",
+              "bus N12",
+              "bus N13",
+              "bus N14",
+              "bus N15",
+              "bus N21",
+              "bus N22"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Châtelet",
+          "correspondance": {
+            "metro": [
+              "ligne 1",
+              "ligne 11",
+              "ligne 14",
+              "ligne 7"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 38",
+              "bus 47",
+              "bus 58",
+              "bus 67",
+              "bus 69",
+              "bus 70",
+              "bus 72",
+              "bus 74",
+              "bus 75",
+              "bus 76",
+              "bus 85",
+              "bus 96",
+              "bus N11",
+              "bus N12",
+              "bus N122",
+              "bus N123",
+              "bus N13",
+              "bus N14",
+              "bus N15",
+              "bus N16",
+              "bus N21",
+              "bus N22",
+              "bus N23",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Les Halles",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Étienne Marcel",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 29",
+              "bus 38",
+              "bus N12",
+              "bus N13",
+              "bus N14",
+              "bus N23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Réaumur - Sébastopol",
+          "correspondance": {
+            "metro": [
+              "ligne 3"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 38",
+              "bus 39",
+              "bus N12",
+              "bus N13",
+              "bus N14",
+              "bus N23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Strasbourg - Saint-Denis",
+          "correspondance": {
+            "metro": [
+              "ligne 8",
+              "ligne 9"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 32",
+              "bus 38",
+              "bus 39",
+              "bus N13",
+              "bus N14"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Château d'Eau",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 32",
+              "bus 38",
+              "bus 39",
+              "bus N13",
+              "bus N14"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gare de l'Est",
+          "correspondance": {
+            "metro": [
+              "ligne 5",
+              "ligne 7"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 31",
+              "bus 32",
+              "bus 38",
+              "bus 39",
+              "bus 46",
+              "bus 54",
+              "bus 56",
+              "bus 91",
+              "bus B",
+              "bus E",
+              "bus H",
+              "bus N01",
+              "bus N02",
+              "bus N13",
+              "bus N14",
+              "bus N140",
+              "bus N141",
+              "bus N142",
+              "bus N143",
+              "bus N146",
+              "bus N147",
+              "bus N148",
+              "bus N41",
+              "bus N42",
+              "bus N43",
+              "bus N44",
+              "bus N45",
+              "bus P"
+            ],
+            "gare": [
+              "Paris Est"
+            ]
+          }
+        },
+        {
+          "name": "Gare du Nord",
+          "correspondance": {
+            "metro": [
+              "ligne 5"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 26",
+              "bus 302",
+              "bus 35",
+              "bus 38",
+              "bus 39",
+              "bus 43",
+              "bus 45",
+              "bus 48",
+              "bus 54",
+              "bus 91",
+              "bus B",
+              "bus D",
+              "bus H",
+              "bus K",
+              "bus N140",
+              "bus N143",
+              "bus N147",
+              "bus N148",
+              "bus N43"
+            ],
+            "gare": [
+              "Paris Gare du Nord"
+            ]
+          }
+        },
+        {
+          "name": "Barbès - Rochechouart",
+          "correspondance": {
+            "metro": [
+              "ligne 2"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 2",
+              "bus 31",
+              "bus 54",
+              "bus 56",
+              "bus 85",
+              "bus N01",
+              "bus N02",
+              "bus N14",
+              "bus N44"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Château Rouge",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 31",
+              "bus 56",
+              "bus N14",
+              "bus N44"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Marcadet - Poissonniers",
+          "correspondance": {
+            "metro": [
+              "ligne 12"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 302",
+              "bus 31",
+              "bus 56",
+              "bus 60",
+              "bus 85",
+              "bus N14",
+              "bus N44"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Simplon",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 56",
+              "bus 85",
+              "bus N14",
+              "bus N44"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Porte de Clignancourt",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T3b"
+            ],
+            "bus": [
+              "bus 137",
+              "bus 166",
+              "bus 255",
+              "bus 341",
+              "bus 56",
+              "bus 85",
+              "bus N14",
+              "bus N44"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#A0006E"
+    },
+    {
+      "type": "metro",
+      "name": "ligne 5",
+      "stations": [
+        {
+          "name": "Campo-Formio",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 57",
+              "bus 67"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Marcel",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 24",
+              "bus 57",
+              "bus 91",
+              "bus N01",
+              "bus N02",
+              "bus N31"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gare d'Austerlitz",
+          "correspondance": {
+            "metro": [
+              "ligne 10"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 215",
+              "bus 24",
+              "bus 57",
+              "bus 61",
+              "bus 63",
+              "bus 89",
+              "bus 91",
+              "bus C",
+              "bus N01",
+              "bus N02",
+              "bus N131",
+              "bus N133",
+              "bus N31"
+            ],
+            "gare": [
+              "Paris Austerlitz"
+            ]
+          }
+        },
+        {
+          "name": "Quai de la Rapée",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 24",
+              "bus 57",
+              "bus 61",
+              "bus 63",
+              "bus 72",
+              "bus 77",
+              "bus 91",
+              "bus N01",
+              "bus N02",
+              "bus N31"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bastille",
+          "correspondance": {
+            "metro": [
+              "ligne 1",
+              "ligne 8"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 29",
+              "bus 69",
+              "bus 76",
+              "bus 86",
+              "bus 87",
+              "bus 91",
+              "bus N01",
+              "bus N02",
+              "bus N11",
+              "bus N16"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bréguet-Sabin",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Richard-Lenoir",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 69"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Oberkampf",
+          "correspondance": {
+            "metro": [
+              "ligne 9"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 56",
+              "bus 96"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "République",
+          "correspondance": {
+            "metro": [
+              "ligne 11",
+              "ligne 3",
+              "ligne 8",
+              "ligne 9"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 56",
+              "bus 75",
+              "bus 91",
+              "bus N01",
+              "bus N02",
+              "bus N12",
+              "bus N141",
+              "bus N142",
+              "bus N23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Jacques Bonsergent",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 56",
+              "bus 91",
+              "bus N01",
+              "bus N02"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gare de l'Est",
+          "correspondance": {
+            "metro": [
+              "ligne 4",
+              "ligne 7"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 31",
+              "bus 32",
+              "bus 38",
+              "bus 39",
+              "bus 46",
+              "bus 54",
+              "bus 56",
+              "bus 91",
+              "bus B",
+              "bus E",
+              "bus H",
+              "bus N01",
+              "bus N02",
+              "bus N13",
+              "bus N14",
+              "bus N140",
+              "bus N141",
+              "bus N142",
+              "bus N143",
+              "bus N146",
+              "bus N147",
+              "bus N148",
+              "bus N41",
+              "bus N42",
+              "bus N43",
+              "bus N44",
+              "bus N45",
+              "bus P"
+            ],
+            "gare": [
+              "Paris Est"
+            ]
+          }
+        },
+        {
+          "name": "Gare du Nord",
+          "correspondance": {
+            "metro": [
+              "ligne 4"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 26",
+              "bus 302",
+              "bus 35",
+              "bus 38",
+              "bus 39",
+              "bus 43",
+              "bus 45",
+              "bus 48",
+              "bus 54",
+              "bus 91",
+              "bus B",
+              "bus D",
+              "bus H",
+              "bus K",
+              "bus N140",
+              "bus N143",
+              "bus N147",
+              "bus N148",
+              "bus N43"
+            ],
+            "gare": [
+              "Paris Gare du Nord"
+            ]
+          }
+        },
+        {
+          "name": "Stalingrad",
+          "correspondance": {
+            "metro": [
+              "ligne 2",
+              "ligne 7"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 2",
+              "bus 45",
+              "bus 48",
+              "bus 54",
+              "bus N42",
+              "bus NEY-FLA"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Jaurès",
+          "correspondance": {
+            "metro": [
+              "ligne 2",
+              "ligne 7B"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 2",
+              "bus 26",
+              "bus 48",
+              "bus N13",
+              "bus N41",
+              "bus N42",
+              "bus N45"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Laumière",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 60"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Ourcq",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 71",
+              "bus N13",
+              "bus N41",
+              "bus N45"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Porte de Pantin",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T3b"
+            ],
+            "bus": [
+              "bus 151",
+              "bus 170",
+              "bus 75",
+              "bus N13",
+              "bus N41",
+              "bus N45"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Hoche",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 330",
+              "bus 75",
+              "bus N41",
+              "bus N45",
+              "bus P'TIT BUS"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Église de Pantin",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 145",
+              "bus 147",
+              "bus 245",
+              "bus 61",
+              "bus N45"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bobigny - Pantin - Raymond Queneau",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 145",
+              "bus 147",
+              "bus 318",
+              "bus 330",
+              "bus N45"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bobigny - Pablo Picasso",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T1"
+            ],
+            "bus": [
+              "bus 146",
+              "bus 148",
+              "bus 234",
+              "bus 251",
+              "bus 301",
+              "bus 322",
+              "bus 615",
+              "bus 620",
+              "bus 9301",
+              "bus E",
+              "bus N13",
+              "bus N41",
+              "bus N45"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#FF5A00"
+    },
+    {
+      "type": "metro",
+      "name": "ligne 6",
+      "stations": [
+        {
+          "name": "Charles de Gaulle - Étoile",
+          "correspondance": {
+            "metro": [
+              "ligne 1",
+              "ligne 2"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 22",
+              "bus 30",
+              "bus 31",
+              "bus 341",
+              "bus 52",
+              "bus 6",
+              "bus 73",
+              "bus 92",
+              "bus N11",
+              "bus N151",
+              "bus N153",
+              "bus N24",
+              "bus N53"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Kléber",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Boissière",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 22",
+              "bus 30",
+              "bus 6",
+              "bus 82"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Trocadéro",
+          "correspondance": {
+            "metro": [
+              "ligne 9"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 22",
+              "bus 30",
+              "bus 32",
+              "bus 6",
+              "bus 63",
+              "bus N53"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Passy",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 32",
+              "bus 6"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bir-Hakeim",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 30",
+              "bus 6"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Dupleix",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 42",
+              "bus 6"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "La Motte-Picquet - Grenelle",
+          "correspondance": {
+            "metro": [
+              "ligne 10",
+              "ligne 8"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 6",
+              "bus 80"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Cambronne",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 6",
+              "bus 80",
+              "bus N12",
+              "bus N61"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Sèvres-Lecourbe",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 39",
+              "bus 70",
+              "bus 89",
+              "bus N12",
+              "bus N13",
+              "bus N61",
+              "bus N62"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Pasteur",
+          "correspondance": {
+            "metro": [
+              "ligne 12"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 39",
+              "bus 70",
+              "bus 89",
+              "bus 95",
+              "bus Traverse"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gare Montparnasse",
+          "correspondance": {
+            "metro": [
+              "ligne 12",
+              "ligne 13",
+              "ligne 4"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 28",
+              "bus 39",
+              "bus 58",
+              "bus 82",
+              "bus 88",
+              "bus 89",
+              "bus 91",
+              "bus 92",
+              "bus 94",
+              "bus 95",
+              "bus 96",
+              "bus N",
+              "bus N01",
+              "bus N02",
+              "bus N12",
+              "bus N13",
+              "bus N160",
+              "bus N161",
+              "bus N162",
+              "bus N61",
+              "bus N62",
+              "bus N63",
+              "bus N66"
+            ],
+            "gare": [
+              "Paris Montparnasse Hall 1 - 2",
+              "Paris Montparnasse Vaugirard"
+            ]
+          }
+        },
+        {
+          "name": "Edgar Quinet",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Raspail",
+          "correspondance": {
+            "metro": [
+              "ligne 4"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 68"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Denfert-Rochereau",
+          "correspondance": {
+            "metro": [
+              "ligne 4"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 216",
+              "bus 38",
+              "bus 59",
+              "bus 64",
+              "bus 68",
+              "bus 88",
+              "bus N122",
+              "bus N123",
+              "bus N14",
+              "bus N21"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Jacques",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Glacière",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 64"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Corvisart",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 64"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Place d'Italie",
+          "correspondance": {
+            "metro": [
+              "ligne 5",
+              "ligne 7"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 27",
+              "bus 47",
+              "bus 57",
+              "bus 59",
+              "bus 61",
+              "bus 64",
+              "bus 67",
+              "bus 83",
+              "bus N139",
+              "bus N15",
+              "bus N22",
+              "bus N31"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Nationale",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 27",
+              "bus 61",
+              "bus 83",
+              "bus N31"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Chevaleret",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 61"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Quai de la Gare",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 215",
+              "bus 325",
+              "bus 61",
+              "bus 71",
+              "bus 89",
+              "bus N131",
+              "bus N133"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bercy",
+          "correspondance": {
+            "metro": [
+              "ligne 14"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 215",
+              "bus 24",
+              "bus 71",
+              "bus 77",
+              "bus 87",
+              "bus N32",
+              "bus N35"
+            ],
+            "gare": [
+              "Paris Bercy Bourg. Pays d'Auv."
+            ]
+          }
+        },
+        {
+          "name": "Dugommier",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 215",
+              "bus 71",
+              "bus 77",
+              "bus 87",
+              "bus N35"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Daumesnil",
+          "correspondance": {
+            "metro": [
+              "ligne 8"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 29",
+              "bus 46",
+              "bus 64",
+              "bus 71",
+              "bus N33"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bel-Air",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Picpus",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 29",
+              "bus 56"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Nation",
+          "correspondance": {
+            "metro": [
+              "ligne 1",
+              "ligne 2",
+              "ligne 9"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 215",
+              "bus 26",
+              "bus 351",
+              "bus 56",
+              "bus 57",
+              "bus 71",
+              "bus 86",
+              "bus N11"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#82DC73"
+    },
+    {
+      "type": "metro",
+      "name": "ligne 7",
+      "stations": [
+        {
+          "name": "Villejuif - Louis Aragon",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T7"
+            ],
+            "bus": [
+              "bus 162",
+              "bus 172",
+              "bus 180",
+              "bus 185",
+              "bus 286",
+              "bus 380",
+              "bus N15",
+              "bus N22",
+              "bus V7"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Villejuif Paul Vaillant-Couturier",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 162",
+              "bus 185",
+              "bus N15",
+              "bus N22",
+              "bus V7"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Villejuif Léo Lagrange",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 185",
+              "bus N15",
+              "bus N22",
+              "bus V7"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Le Kremlin-Bicêtre",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 125",
+              "bus 131",
+              "bus 185",
+              "bus 47",
+              "bus N15",
+              "bus N22"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Maison Blanche",
+          "correspondance": {
+            "metro": [
+              "ligne 14"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 193",
+              "bus 47",
+              "bus BIEVRES",
+              "bus N15",
+              "bus N22"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Tolbiac",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 47",
+              "bus 62",
+              "bus BIEVRES",
+              "bus N15",
+              "bus N22"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Place d'Italie",
+          "correspondance": {
+            "metro": [
+              "ligne 5",
+              "ligne 6"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 27",
+              "bus 47",
+              "bus 57",
+              "bus 59",
+              "bus 61",
+              "bus 64",
+              "bus 67",
+              "bus 83",
+              "bus N139",
+              "bus N15",
+              "bus N22",
+              "bus N31"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Les Gobelins",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 24",
+              "bus 27",
+              "bus 47",
+              "bus 59",
+              "bus 83",
+              "bus 91",
+              "bus N01",
+              "bus N02",
+              "bus N15",
+              "bus N22"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Censier - Daubenton",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 24",
+              "bus 47",
+              "bus N15",
+              "bus N22"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Place Monge",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 47",
+              "bus N15",
+              "bus N22"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Jussieu",
+          "correspondance": {
+            "metro": [
+              "ligne 10"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 67",
+              "bus 89"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Sully - Morland",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 67",
+              "bus 72",
+              "bus 86",
+              "bus 87"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Pont Marie (Cité des Arts)",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 67",
+              "bus 72"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Châtelet",
+          "correspondance": {
+            "metro": [
+              "ligne 1",
+              "ligne 11",
+              "ligne 14",
+              "ligne 4"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 38",
+              "bus 47",
+              "bus 58",
+              "bus 67",
+              "bus 69",
+              "bus 70",
+              "bus 72",
+              "bus 74",
+              "bus 75",
+              "bus 76",
+              "bus 85",
+              "bus 96",
+              "bus N11",
+              "bus N12",
+              "bus N122",
+              "bus N123",
+              "bus N13",
+              "bus N14",
+              "bus N15",
+              "bus N16",
+              "bus N21",
+              "bus N22",
+              "bus N23",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Pont Neuf",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 27",
+              "bus 58",
+              "bus 67",
+              "bus 69",
+              "bus 70",
+              "bus 72",
+              "bus 74",
+              "bus 85",
+              "bus N11",
+              "bus N15",
+              "bus N16",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Palais Royal - Musée du Louvre",
+          "correspondance": {
+            "metro": [
+              "ligne 1"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 27",
+              "bus 39",
+              "bus 67",
+              "bus 68",
+              "bus 69",
+              "bus 72",
+              "bus 95",
+              "bus N11",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Pyramides",
+          "correspondance": {
+            "metro": [
+              "ligne 14"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 21",
+              "bus 27",
+              "bus 68",
+              "bus 95"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Opéra",
+          "correspondance": {
+            "metro": [
+              "ligne 3",
+              "ligne 8"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 21",
+              "bus 27",
+              "bus 29",
+              "bus 32",
+              "bus 45",
+              "bus 52",
+              "bus 66",
+              "bus 68",
+              "bus 95",
+              "bus N15",
+              "bus N16"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Chaussée d'Antin - La Fayette",
+          "correspondance": {
+            "metro": [
+              "ligne 9"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 32",
+              "bus 45",
+              "bus 68"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Le Peletier",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 40",
+              "bus 45",
+              "bus 74",
+              "bus 85"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Cadet",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 26",
+              "bus 32",
+              "bus 43",
+              "bus 45",
+              "bus 85"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Poissonnière",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 39"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Gare de l'Est",
+          "correspondance": {
+            "metro": [
+              "ligne 4",
+              "ligne 5"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 31",
+              "bus 32",
+              "bus 38",
+              "bus 39",
+              "bus 46",
+              "bus 54",
+              "bus 56",
+              "bus 91",
+              "bus B",
+              "bus E",
+              "bus H",
+              "bus N01",
+              "bus N02",
+              "bus N13",
+              "bus N14",
+              "bus N140",
+              "bus N141",
+              "bus N142",
+              "bus N143",
+              "bus N146",
+              "bus N147",
+              "bus N148",
+              "bus N41",
+              "bus N42",
+              "bus N43",
+              "bus N44",
+              "bus N45",
+              "bus P"
+            ],
+            "gare": [
+              "Paris Est"
+            ]
+          }
+        },
+        {
+          "name": "Château Landon",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 26",
+              "bus 46",
+              "bus 54",
+              "bus N13",
+              "bus N41",
+              "bus N42",
+              "bus N45"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Louis Blanc",
+          "correspondance": {
+            "metro": [
+              "ligne 7B"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 26",
+              "bus 46",
+              "bus 54",
+              "bus N13",
+              "bus N41",
+              "bus N42",
+              "bus N45"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Stalingrad",
+          "correspondance": {
+            "metro": [
+              "ligne 2",
+              "ligne 5"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 2",
+              "bus 45",
+              "bus 48",
+              "bus 54",
+              "bus N42",
+              "bus NEY-FLA"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Riquet",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 54",
+              "bus N42"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Crimée",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 54",
+              "bus N42"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Corentin Cariou",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 60",
+              "bus 71",
+              "bus N42"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Porte de la Villette",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T3b"
+            ],
+            "bus": [
+              "bus 139",
+              "bus 150",
+              "bus 152",
+              "bus 71",
+              "bus A04 VIL",
+              "bus N140",
+              "bus N42"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Aubervilliers - Pantin - Quatre Chemins",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 150",
+              "bus 152",
+              "bus 170",
+              "bus 249",
+              "bus 330",
+              "bus N42"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Fort d'Aubervilliers",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 152",
+              "bus 173",
+              "bus 234",
+              "bus 248",
+              "bus 250",
+              "bus 330",
+              "bus 609",
+              "bus N42"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "La Courneuve - 8 Mai 1945",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T1"
+            ],
+            "bus": [
+              "bus 152",
+              "bus 173",
+              "bus 607",
+              "bus 609",
+              "bus N42"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#FF82B4"
+    },
+    {
+      "type": "metro",
+      "name": "ligne 7B",
+      "stations": [
+        {
+          "name": "Louis Blanc",
+          "correspondance": {
+            "metro": [
+              "ligne 7"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 26",
+              "bus 46",
+              "bus 54",
+              "bus N13",
+              "bus N41",
+              "bus N42",
+              "bus N45"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Jaurès",
+          "correspondance": {
+            "metro": [
+              "ligne 2",
+              "ligne 5"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 2",
+              "bus 26",
+              "bus 48",
+              "bus N13",
+              "bus N41",
+              "bus N42",
+              "bus N45"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bolivar",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 26"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Buttes Chaumont",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 71"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Botzaris",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 48",
+              "bus 60",
+              "bus 71"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Place des Fêtes",
+          "correspondance": {
+            "metro": [
+              "ligne 11"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 48",
+              "bus 60"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Pré-Saint-Gervais",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 48"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#82DC73"
+    },
+    {
+      "type": "metro",
+      "name": "ligne 8",
+      "stations": [
+        {
+          "name": "Daumesnil",
+          "correspondance": {
+            "metro": [
+              "ligne 6"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 29",
+              "bus 46",
+              "bus 64",
+              "bus 71",
+              "bus N33"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Montgallet",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 46"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Reuilly - Diderot",
+          "correspondance": {
+            "metro": [
+              "ligne 1"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 215",
+              "bus 46",
+              "bus 57",
+              "bus N11"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Faidherbe - Chaligny",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 46",
+              "bus 86"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Ledru-Rollin",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 61",
+              "bus 76",
+              "bus 86",
+              "bus N16",
+              "bus N34"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bastille",
+          "correspondance": {
+            "metro": [
+              "ligne 1",
+              "ligne 5"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 29",
+              "bus 69",
+              "bus 76",
+              "bus 86",
+              "bus 87",
+              "bus 91",
+              "bus N01",
+              "bus N02",
+              "bus N11",
+              "bus N16"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Chemin Vert",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 29",
+              "bus 69",
+              "bus 91",
+              "bus N01",
+              "bus N02"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Sébastien - Froissart",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Filles du Calvaire",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 91",
+              "bus 96",
+              "bus N01",
+              "bus N02"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "République",
+          "correspondance": {
+            "metro": [
+              "ligne 11",
+              "ligne 3",
+              "ligne 5",
+              "ligne 9"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 56",
+              "bus 75",
+              "bus 91",
+              "bus N01",
+              "bus N02",
+              "bus N12",
+              "bus N141",
+              "bus N142",
+              "bus N23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Strasbourg - Saint-Denis",
+          "correspondance": {
+            "metro": [
+              "ligne 4",
+              "ligne 9"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 32",
+              "bus 38",
+              "bus 39",
+              "bus N13",
+              "bus N14"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bonne Nouvelle",
+          "correspondance": {
+            "metro": [
+              "ligne 9"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 32",
+              "bus 39"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Grands Boulevards",
+          "correspondance": {
+            "metro": [
+              "ligne 9"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 32",
+              "bus 39",
+              "bus 74",
+              "bus 85",
+              "bus N15",
+              "bus N16"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Richelieu - Drouot",
+          "correspondance": {
+            "metro": [
+              "ligne 9"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 32",
+              "bus 39",
+              "bus 45",
+              "bus 74",
+              "bus 85",
+              "bus N15",
+              "bus N16"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Opéra",
+          "correspondance": {
+            "metro": [
+              "ligne 3",
+              "ligne 7"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 21",
+              "bus 27",
+              "bus 29",
+              "bus 32",
+              "bus 45",
+              "bus 52",
+              "bus 66",
+              "bus 68",
+              "bus 95",
+              "bus N15",
+              "bus N16"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Madeleine",
+          "correspondance": {
+            "metro": [
+              "ligne 12",
+              "ligne 14"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 42",
+              "bus 45",
+              "bus 52",
+              "bus 84",
+              "bus 94"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Concorde",
+          "correspondance": {
+            "metro": [
+              "ligne 1",
+              "ligne 12"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 42",
+              "bus 45",
+              "bus 72",
+              "bus 73",
+              "bus 84",
+              "bus 94",
+              "bus N11",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Invalides",
+          "correspondance": {
+            "metro": [
+              "ligne 13"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 63",
+              "bus 83",
+              "bus 87",
+              "bus 93",
+              "bus N01",
+              "bus N02"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "La Tour-Maubourg",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 28",
+              "bus 69"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "École Militaire",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 28",
+              "bus 80",
+              "bus 82",
+              "bus 86",
+              "bus 92"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "La Motte-Picquet - Grenelle",
+          "correspondance": {
+            "metro": [
+              "ligne 10",
+              "ligne 6"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 6",
+              "bus 80"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Commerce",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "name": "Félix Faure",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 70",
+              "bus 88",
+              "bus Traverse"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Boucicaut",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 62"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Lourmel",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 42"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Balard",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T3a"
+            ],
+            "bus": [
+              "bus 169",
+              "bus 30",
+              "bus 3754",
+              "bus 39",
+              "bus 42",
+              "bus 88",
+              "bus N13",
+              "bus N161",
+              "bus N162",
+              "bus N62"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#D282BE"
+    },
+    {
+      "type": "metro",
+      "name": "ligne 9",
+      "stations": [
+        {
+          "name": "Porte de Montreuil",
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T3b"
+            ],
+            "bus": [
+              "bus 202",
+              "bus 215",
+              "bus 351",
+              "bus 57",
+              "bus CHARONNE"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Maraîchers",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 26",
+              "bus 57",
+              "bus 64"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Buzenval",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 57",
+              "bus CHARONNE"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Nation",
+          "correspondance": {
+            "metro": [
+              "ligne 1",
+              "ligne 2",
+              "ligne 6"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 215",
+              "bus 26",
+              "bus 351",
+              "bus 56",
+              "bus 57",
+              "bus 71",
+              "bus 86",
+              "bus N11"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Rue des Boulets",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 56"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Charonne",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 56",
+              "bus 76"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Voltaire",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 46",
+              "bus 56",
+              "bus 61",
+              "bus 69",
+              "bus N16",
+              "bus N34"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Ambroise",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 46",
+              "bus 56"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Oberkampf",
+          "correspondance": {
+            "metro": [
+              "ligne 5"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 56",
+              "bus 96"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "République",
+          "correspondance": {
+            "metro": [
+              "ligne 11",
+              "ligne 3",
+              "ligne 5",
+              "ligne 8"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 56",
+              "bus 75",
+              "bus 91",
+              "bus N01",
+              "bus N02",
+              "bus N12",
+              "bus N141",
+              "bus N142",
+              "bus N23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Strasbourg - Saint-Denis",
+          "correspondance": {
+            "metro": [
+              "ligne 4",
+              "ligne 8"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 32",
+              "bus 38",
+              "bus 39",
+              "bus N13",
+              "bus N14"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Bonne Nouvelle",
+          "correspondance": {
+            "metro": [
+              "ligne 8"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 32",
+              "bus 39"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Grands Boulevards",
+          "correspondance": {
+            "metro": [
+              "ligne 8"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 32",
+              "bus 39",
+              "bus 74",
+              "bus 85",
+              "bus N15",
+              "bus N16"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Richelieu - Drouot",
+          "correspondance": {
+            "metro": [
+              "ligne 8"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 32",
+              "bus 39",
+              "bus 45",
+              "bus 74",
+              "bus 85",
+              "bus N15",
+              "bus N16"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Chaussée d'Antin - La Fayette",
+          "correspondance": {
+            "metro": [
+              "ligne 7"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 32",
+              "bus 45",
+              "bus 68"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Havre - Caumartin",
+          "correspondance": {
+            "metro": [
+              "ligne 3"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 21",
+              "bus 27",
+              "bus 29",
+              "bus 32",
+              "bus 42",
+              "bus 66",
+              "bus 94",
+              "bus 95",
+              "bus N15",
+              "bus N16"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Augustin",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 20",
+              "bus 22",
+              "bus 28",
+              "bus 32",
+              "bus 43",
+              "bus 52",
+              "bus 80",
+              "bus 84",
+              "bus 93",
+              "bus N01",
+              "bus N02",
+              "bus N53"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Miromesnil",
+          "correspondance": {
+            "metro": [
+              "ligne 13"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 22",
+              "bus 28",
+              "bus 32",
+              "bus 43",
+              "bus 52",
+              "bus 80",
+              "bus 84",
+              "bus 93",
+              "bus N01",
+              "bus N02",
+              "bus N53"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Saint-Philippe-du-Roule",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 28",
+              "bus 32",
+              "bus 52",
+              "bus 80",
+              "bus 93"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Franklin D. Roosevelt",
+          "correspondance": {
+            "metro": [
+              "ligne 1"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 28",
+              "bus 32",
+              "bus 42",
+              "bus 73",
+              "bus 80",
+              "bus 93",
+              "bus N01",
+              "bus N02",
+              "bus N11",
+              "bus N24"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Alma - Marceau",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 42",
+              "bus 63",
+              "bus 72",
+              "bus 80",
+              "bus 92"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Iéna",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 32",
+              "bus 63",
+              "bus 82"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Trocadéro",
+          "correspondance": {
+            "metro": [
+              "ligne 6"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 22",
+              "bus 30",
+              "bus 32",
+              "bus 6",
+              "bus 63",
+              "bus N53"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Rue de la Pompe",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 52",
+              "bus 63"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "La Muette",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 22",
+              "bus 32",
+              "bus 52",
+              "bus 70",
+              "bus N53"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Ranelagh",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 22",
+              "bus 52",
+              "bus 70"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Jasmin",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 22"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Michel-Ange - Auteuil",
+          "correspondance": {
+            "metro": [
+              "ligne 10"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 52",
+              "bus 62"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Michel-Ange - Molitor",
+          "correspondance": {
+            "metro": [
+              "ligne 10"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 62"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Exelmans",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 62",
+              "bus 88"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Porte de Saint-Cloud",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 175",
+              "bus 189",
+              "bus 22",
+              "bus 289",
+              "bus 3754",
+              "bus 42",
+              "bus 62",
+              "bus 72",
+              "bus N12",
+              "bus N61",
+              "bus PC"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Marcel Sembat",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 123",
+              "bus 126",
+              "bus 175",
+              "bus 42",
+              "bus N12",
+              "bus N161",
+              "bus N162",
+              "bus N61",
+              "bus SUBB N"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Billancourt",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 389",
+              "bus N12",
+              "bus N61"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "name": "Pont de Sèvres",
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 169",
+              "bus 171",
+              "bus 179",
+              "bus 426",
+              "bus 467",
+              "bus 5117",
+              "bus 5153",
+              "bus 6140",
+              "bus 6142",
+              "bus 6145",
+              "bus N12",
+              "bus N61"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#D2D200"
+    }
+  ]
+}
