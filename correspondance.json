@@ -513,6 +513,7 @@
               "tram T1"
             ],
             "bus": [
+              "bus 44",
               "bus 66",
               "bus L4"
             ],
@@ -757,7 +758,18 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 63",
+              "bus 66",
+              "bus 68",
+              "bus 72",
+              "bus A2",
+              "bus F16",
+              "bus F4",
+              "bus N1",
+              "bus S46",
+              "bus S47"
+            ],
             "gare": []
           }
         },
@@ -787,7 +799,9 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus N1"
+            ],
             "gare": []
           }
         },
@@ -899,6 +913,8 @@
             "metro": [],
             "tram": [],
             "bus": [
+              "bus 52",
+              "bus C7",
               "bus N1"
             ],
             "gare": []
@@ -915,6 +931,7 @@
             "metro": [],
             "tram": [],
             "bus": [
+              "bus 50",
               "bus N1"
             ],
             "gare": []
@@ -1137,7 +1154,12 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 38",
+              "bus 82",
+              "bus A3",
+              "bus L8"
+            ],
             "gare": []
           }
         },
@@ -1165,7 +1187,14 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 35",
+              "bus 84",
+              "bus 87",
+              "bus E2",
+              "bus L4",
+              "bus P2"
+            ],
             "gare": []
           }
         },
@@ -1181,7 +1210,16 @@
             "tram": [
               "tram TRAM"
             ],
-            "bus": [],
+            "bus": [
+              "bus 30",
+              "bus 35",
+              "bus 38",
+              "bus 87",
+              "bus A1",
+              "bus E2",
+              "bus L4",
+              "bus L8"
+            ],
             "gare": []
           }
         },
@@ -1195,7 +1233,9 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus L4"
+            ],
             "gare": []
           }
         },
@@ -1209,7 +1249,11 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 30",
+              "bus 33",
+              "bus C6"
+            ],
             "gare": []
           }
         },
@@ -1240,7 +1284,9 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 33"
+            ],
             "gare": []
           }
         },
@@ -1331,7 +1377,9 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus C5"
+            ],
             "gare": []
           }
         },
@@ -1628,7 +1676,13 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 15",
+              "bus 52",
+              "bus 67",
+              "bus L1",
+              "bus N1"
+            ],
             "gare": []
           }
         },
@@ -1741,7 +1795,9 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 53"
+            ],
             "gare": []
           }
         },
@@ -1878,7 +1934,23 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 1",
+              "bus 142",
+              "bus 144",
+              "bus 2",
+              "bus 27",
+              "bus 3",
+              "bus 4",
+              "bus 42",
+              "bus 42T",
+              "bus 4B",
+              "bus 5",
+              "bus 62",
+              "bus 63",
+              "bus B3",
+              "bus BM1A"
+            ],
             "gare": []
           }
         },
@@ -1892,7 +1964,11 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 39",
+              "bus 6",
+              "bus B4"
+            ],
             "gare": []
           }
         },
@@ -1906,7 +1982,12 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 37",
+              "bus 38",
+              "bus 39",
+              "bus BM1A"
+            ],
             "gare": []
           }
         },
@@ -1920,7 +2001,11 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 53",
+              "bus 81",
+              "bus BM1A"
+            ],
             "gare": []
           }
         },
@@ -1934,7 +2019,14 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 42",
+              "bus 42T",
+              "bus 6",
+              "bus 67",
+              "bus 72",
+              "bus BM1A"
+            ],
             "gare": []
           }
         },
@@ -1948,7 +2040,12 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 42",
+              "bus 42T",
+              "bus 81",
+              "bus 88"
+            ],
             "gare": []
           }
         },
@@ -1961,8 +2058,17 @@
           ],
           "correspondance": {
             "metro": [],
-            "tram": [],
-            "bus": [],
+            "tram": [
+              "tram T2"
+            ],
+            "bus": [
+              "bus 33",
+              "bus 34",
+              "bus 49",
+              "bus 81",
+              "bus BM1A",
+              "bus N2"
+            ],
             "gare": []
           }
         },
@@ -1974,9 +2080,20 @@
             43.3023705
           ],
           "correspondance": {
-            "metro": [],
+            "metro": [
+              "ligne M2"
+            ],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 509",
+              "bus 52",
+              "bus 533",
+              "bus 56",
+              "bus 582",
+              "bus BM1A",
+              "bus BM2",
+              "bus N2"
+            ],
             "gare": [
               "Marseille Saint-Charles"
             ]
@@ -1992,7 +2109,18 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 29",
+              "bus 31",
+              "bus 32",
+              "bus 509",
+              "bus 530",
+              "bus 533",
+              "bus 89",
+              "bus B14",
+              "bus BM1A",
+              "bus N2"
+            ],
             "gare": []
           }
         },
@@ -2006,7 +2134,16 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 49",
+              "bus 55",
+              "bus 60",
+              "bus 82S",
+              "bus 83",
+              "bus BM1A",
+              "bus N1",
+              "bus N2"
+            ],
             "gare": []
           }
         },
@@ -2020,7 +2157,13 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 41",
+              "bus 54",
+              "bus 81",
+              "bus BM1A",
+              "bus N1"
+            ],
             "gare": []
           }
         },
@@ -2032,9 +2175,24 @@
             43.2861185
           ],
           "correspondance": {
-            "metro": [],
-            "tram": [],
-            "bus": [],
+            "metro": [
+              "ligne M2"
+            ],
+            "tram": [
+              "tram T3"
+            ],
+            "bus": [
+              "bus 19",
+              "bus 41",
+              "bus 50",
+              "bus 54",
+              "bus 73",
+              "bus 74",
+              "bus B1",
+              "bus BM1A",
+              "bus BM2",
+              "bus N1"
+            ],
             "gare": []
           }
         },
@@ -2048,7 +2206,11 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 54",
+              "bus BM1A",
+              "bus N1"
+            ],
             "gare": []
           }
         },
@@ -2062,7 +2224,19 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 12",
+              "bus 12B",
+              "bus 12S",
+              "bus 40",
+              "bus 52",
+              "bus 54",
+              "bus 540",
+              "bus 72",
+              "bus 91",
+              "bus BM1A",
+              "bus BM1B"
+            ],
             "gare": []
           }
         },
@@ -2075,8 +2249,14 @@
           ],
           "correspondance": {
             "metro": [],
-            "tram": [],
-            "bus": [],
+            "tram": [
+              "tram T1",
+              "tram T2"
+            ],
+            "bus": [
+              "bus 67",
+              "bus BM1B"
+            ],
             "gare": [
               "Marseille Blancarde"
             ]
@@ -2092,7 +2272,11 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 10",
+              "bus 67",
+              "bus BM1B"
+            ],
             "gare": []
           }
         },
@@ -2106,7 +2290,13 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 10",
+              "bus 67",
+              "bus 9",
+              "bus BM1B",
+              "bus S4"
+            ],
             "gare": []
           }
         },
@@ -2120,7 +2310,19 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 10",
+              "bus 107",
+              "bus 509",
+              "bus 7",
+              "bus 7B",
+              "bus 9",
+              "bus B4",
+              "bus B5",
+              "bus BM1B",
+              "bus S4",
+              "bus S5"
+            ],
             "gare": []
           }
         }
@@ -2141,8 +2343,20 @@
           ],
           "correspondance": {
             "metro": [],
-            "tram": [],
-            "bus": [],
+            "tram": [
+              "tram T3"
+            ],
+            "bus": [
+              "bus 25",
+              "bus 30",
+              "bus 36B",
+              "bus 38",
+              "bus 70",
+              "bus 98",
+              "bus B2",
+              "bus B4",
+              "bus BM2"
+            ],
             "gare": []
           }
         },
@@ -2156,7 +2370,15 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 28",
+              "bus 28B",
+              "bus 36",
+              "bus 36B",
+              "bus 535",
+              "bus 72",
+              "bus BM2"
+            ],
             "gare": []
           }
         },
@@ -2170,7 +2392,13 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 29",
+              "bus 530",
+              "bus 88",
+              "bus 89",
+              "bus BM2"
+            ],
             "gare": []
           }
         },
@@ -2184,7 +2412,10 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 29",
+              "bus 88"
+            ],
             "gare": []
           }
         },
@@ -2198,7 +2429,13 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 49",
+              "bus 55",
+              "bus 582",
+              "bus 82S",
+              "bus BM2"
+            ],
             "gare": []
           }
         },
@@ -2212,7 +2449,17 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 29",
+              "bus 31",
+              "bus 32",
+              "bus 530",
+              "bus 582",
+              "bus 82S",
+              "bus 89",
+              "bus B14",
+              "bus BM2"
+            ],
             "gare": []
           }
         },
@@ -2224,9 +2471,20 @@
             43.302284
           ],
           "correspondance": {
-            "metro": [],
+            "metro": [
+              "ligne M1"
+            ],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 509",
+              "bus 52",
+              "bus 533",
+              "bus 56",
+              "bus 582",
+              "bus BM1A",
+              "bus BM2",
+              "bus N2"
+            ],
             "gare": [
               "Marseille Saint-Charles"
             ]
@@ -2241,8 +2499,14 @@
           ],
           "correspondance": {
             "metro": [],
-            "tram": [],
-            "bus": [],
+            "tram": [
+              "tram T1",
+              "tram T2"
+            ],
+            "bus": [
+              "bus 81",
+              "bus BM2"
+            ],
             "gare": []
           }
         },
@@ -2256,7 +2520,11 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 74",
+              "bus 81",
+              "bus BM2"
+            ],
             "gare": []
           }
         },
@@ -2268,9 +2536,24 @@
             43.2851435
           ],
           "correspondance": {
-            "metro": [],
-            "tram": [],
-            "bus": [],
+            "metro": [
+              "ligne M1"
+            ],
+            "tram": [
+              "tram T3"
+            ],
+            "bus": [
+              "bus 18",
+              "bus 19",
+              "bus 41",
+              "bus 50",
+              "bus 518",
+              "bus 540",
+              "bus 73",
+              "bus 74",
+              "bus B1",
+              "bus BM2"
+            ],
             "gare": []
           }
         },
@@ -2284,7 +2567,15 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 19",
+              "bus 41",
+              "bus 73",
+              "bus 74",
+              "bus 86",
+              "bus B1",
+              "bus BM2"
+            ],
             "gare": []
           }
         },
@@ -2298,7 +2589,18 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 22",
+              "bus 22S",
+              "bus 23",
+              "bus 44",
+              "bus 45",
+              "bus 48",
+              "bus B1",
+              "bus B1E",
+              "bus BM2",
+              "bus N1"
+            ],
             "gare": []
           }
         },
@@ -2311,8 +2613,18 @@
           ],
           "correspondance": {
             "metro": [],
-            "tram": [],
-            "bus": [],
+            "tram": [
+              "tram T3"
+            ],
+            "bus": [
+              "bus 15",
+              "bus 15S",
+              "bus 16",
+              "bus 17",
+              "bus 24",
+              "bus 518",
+              "bus BM2"
+            ],
             "gare": []
           }
         }
@@ -2336,7 +2648,14 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 52",
+              "bus 65",
+              "bus 77",
+              "bus 81",
+              "bus 82",
+              "bus TTZ"
+            ],
             "gare": []
           }
         },
@@ -2350,7 +2669,25 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 12",
+              "bus 14",
+              "bus 152ex",
+              "bus 165ex",
+              "bus 178ex",
+              "bus 35",
+              "bus 52",
+              "bus 65",
+              "bus 68",
+              "bus 76",
+              "bus 77",
+              "bus 78",
+              "bus 81",
+              "bus 82",
+              "bus C4",
+              "bus E4",
+              "bus N1"
+            ],
             "gare": []
           }
         },
@@ -2378,7 +2715,13 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 10",
+              "bus 208",
+              "bus 507",
+              "bus C1",
+              "bus E4"
+            ],
             "gare": [
               "Pontchaillou"
             ]
@@ -2396,7 +2739,9 @@
               "ligne b"
             ],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus La Navette"
+            ],
             "gare": []
           }
         },
@@ -2410,7 +2755,41 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 11",
+              "bus 153ex",
+              "bus 154ex",
+              "bus 155ex",
+              "bus 156ex",
+              "bus 167ex",
+              "bus 50",
+              "bus 51",
+              "bus 52",
+              "bus 53",
+              "bus 54",
+              "bus 55",
+              "bus 56",
+              "bus 61",
+              "bus 62",
+              "bus 64",
+              "bus 67",
+              "bus 72",
+              "bus 77",
+              "bus 81",
+              "bus C1",
+              "bus C4",
+              "bus C5",
+              "bus C6",
+              "bus C7",
+              "bus E4",
+              "bus La Navette",
+              "bus N1",
+              "bus N2",
+              "bus N3",
+              "bus N4",
+              "bus N5",
+              "bus TTZ"
+            ],
             "gare": []
           }
         },
@@ -2424,7 +2803,15 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 54",
+              "bus 55",
+              "bus 56",
+              "bus C1",
+              "bus E4",
+              "bus N2",
+              "bus TTZ"
+            ],
             "gare": []
           }
         },
@@ -2440,7 +2827,17 @@
               "ligne b"
             ],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 11",
+              "bus 12",
+              "bus 208",
+              "bus 507",
+              "bus 510",
+              "bus C1",
+              "bus C2",
+              "bus C3",
+              "bus E4"
+            ],
             "gare": [
               "Rennes"
             ]
@@ -2456,7 +2853,13 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 12",
+              "bus C3",
+              "bus E4",
+              "bus N2",
+              "bus TTZ"
+            ],
             "gare": []
           }
         },
@@ -2470,7 +2873,12 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 13",
+              "bus 32",
+              "bus E4",
+              "bus N2"
+            ],
             "gare": []
           }
         },
@@ -2484,7 +2892,24 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 13",
+              "bus 159ex",
+              "bus 161ex",
+              "bus 172ex",
+              "bus 32",
+              "bus 37",
+              "bus 59",
+              "bus 61",
+              "bus 72",
+              "bus 74",
+              "bus 79",
+              "bus 80",
+              "bus C3",
+              "bus E4",
+              "bus N2",
+              "bus TTZ"
+            ],
             "gare": []
           }
         },
@@ -2498,7 +2923,10 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus N2",
+              "bus TTZ"
+            ],
             "gare": []
           }
         },
@@ -2512,7 +2940,14 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 13",
+              "bus 161ex",
+              "bus 61",
+              "bus E4",
+              "bus N2",
+              "bus TTZ"
+            ],
             "gare": []
           }
         },
@@ -2526,7 +2961,10 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus N2",
+              "bus TTZ"
+            ],
             "gare": []
           }
         },
@@ -2540,7 +2978,21 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 12",
+              "bus 13",
+              "bus 173ex",
+              "bus 175ex",
+              "bus 214",
+              "bus 62",
+              "bus 73",
+              "bus 75",
+              "bus C2",
+              "bus E4",
+              "bus N2",
+              "bus TTZ",
+              "bus Ts22"
+            ],
             "gare": []
           }
         }
@@ -2562,7 +3014,16 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 164ex",
+              "bus 34",
+              "bus 50",
+              "bus 64",
+              "bus 78",
+              "bus 83",
+              "bus C2",
+              "bus E4"
+            ],
             "gare": []
           }
         },
@@ -2576,7 +3037,12 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 164ex",
+              "bus 64",
+              "bus C4",
+              "bus N4"
+            ],
             "gare": []
           }
         },
@@ -2590,7 +3056,12 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 10",
+              "bus 14",
+              "bus 200",
+              "bus N4"
+            ],
             "gare": []
           }
         },
@@ -2604,7 +3075,12 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 201",
+              "bus 202",
+              "bus C5",
+              "bus N5"
+            ],
             "gare": []
           }
         },
@@ -2618,7 +3094,15 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 14",
+              "bus 51",
+              "bus 70",
+              "bus 71",
+              "bus 83",
+              "bus N5",
+              "bus TTZ"
+            ],
             "gare": []
           }
         },
@@ -2632,7 +3116,10 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 32",
+              "bus C3"
+            ],
             "gare": []
           }
         },
@@ -2646,7 +3133,13 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 10",
+              "bus C2",
+              "bus E4",
+              "bus N5",
+              "bus TTZ"
+            ],
             "gare": []
           }
         },
@@ -2662,7 +3155,9 @@
               "ligne a"
             ],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus La Navette"
+            ],
             "gare": []
           }
         },
@@ -2676,7 +3171,19 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 12",
+              "bus 507",
+              "bus C2",
+              "bus C3",
+              "bus C4",
+              "bus C6",
+              "bus E4",
+              "bus La Navette",
+              "bus N4",
+              "bus N5",
+              "bus TTZ"
+            ],
             "gare": []
           }
         },
@@ -2692,7 +3199,17 @@
               "ligne a"
             ],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 11",
+              "bus 12",
+              "bus 208",
+              "bus 507",
+              "bus 510",
+              "bus C1",
+              "bus C2",
+              "bus C3",
+              "bus E4"
+            ],
             "gare": [
               "Rennes"
             ]
@@ -2708,7 +3225,12 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus C5",
+              "bus C6",
+              "bus E4",
+              "bus N3"
+            ],
             "gare": []
           }
         },
@@ -2722,7 +3244,11 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 10",
+              "bus N3",
+              "bus TTZ"
+            ],
             "gare": []
           }
         },
@@ -2736,7 +3262,11 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 10",
+              "bus N3",
+              "bus TTZ"
+            ],
             "gare": []
           }
         },
@@ -2750,7 +3280,9 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus N3"
+            ],
             "gare": []
           }
         },
@@ -2764,7 +3296,18 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 13",
+              "bus 156ex",
+              "bus 245",
+              "bus 37",
+              "bus 510",
+              "bus C6",
+              "bus C7",
+              "bus C7ex",
+              "bus E4",
+              "bus N3"
+            ],
             "gare": []
           }
         }
@@ -2826,7 +3369,14 @@
             "metro": [],
             "tram": [],
             "bus": [
-              "bus EOLIEN"
+              "bus 157",
+              "bus 158",
+              "bus 174",
+              "bus 175",
+              "bus 176",
+              "bus 73",
+              "bus EOLIEN",
+              "bus N24"
             ],
             "gare": []
           }
@@ -3171,6 +3721,7 @@
             ],
             "tram": [],
             "bus": [
+              "bus 38",
               "bus 67",
               "bus 69",
               "bus 70",
@@ -3180,7 +3731,9 @@
               "bus 96",
               "bus N11",
               "bus N16",
-              "bus N21"
+              "bus N21",
+              "bus N22",
+              "bus N23"
             ],
             "gare": []
           }
@@ -3379,6 +3932,7 @@
             "metro": [],
             "tram": [],
             "bus": [
+              "bus 318",
               "bus 325",
               "bus 56",
               "bus N11",
@@ -3878,7 +4432,8 @@
             "bus": [
               "bus 105",
               "bus N12",
-              "bus N23"
+              "bus N23",
+              "bus TILLBUS"
             ],
             "gare": []
           }
@@ -4016,6 +4571,7 @@
             "bus": [
               "bus 139",
               "bus 35",
+              "bus 45",
               "bus N43"
             ],
             "gare": []
@@ -4558,6 +5114,10 @@
               "bus 70",
               "bus 89",
               "bus 95",
+              "bus N12",
+              "bus N13",
+              "bus N61",
+              "bus N62",
               "bus Traverse"
             ],
             "gare": []
@@ -4642,7 +5202,11 @@
             ],
             "bus": [
               "bus 3754",
-              "bus 80"
+              "bus 80",
+              "bus N13",
+              "bus N161",
+              "bus N162",
+              "bus N62"
             ],
             "gare": []
           }
@@ -5796,7 +6360,8 @@
               "bus 174",
               "bus 274",
               "bus 341",
-              "bus 66"
+              "bus 66",
+              "bus TUC"
             ],
             "gare": []
           }
@@ -6461,7 +7026,10 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 20",
+              "bus 93"
+            ],
             "gare": []
           }
         },
@@ -6581,6 +7149,7 @@
               "bus 29",
               "bus 32",
               "bus 42",
+              "bus 43",
               "bus 66",
               "bus 94",
               "bus 95",
@@ -7222,6 +7791,7 @@
             "tram": [],
             "bus": [
               "bus 39",
+              "bus 58",
               "bus 89",
               "bus 94",
               "bus 95",
@@ -7268,7 +7838,9 @@
             48.85347721656853
           ],
           "correspondance": {
-            "metro": [],
+            "metro": [
+              "ligne 10"
+            ],
             "tram": [],
             "bus": [
               "bus 39",
@@ -7640,6 +8212,7 @@
             "bus": [
               "bus 31",
               "bus 56",
+              "bus 85",
               "bus N14",
               "bus N44"
             ],
@@ -8275,7 +8848,9 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 6"
+            ],
             "gare": []
           }
         },
@@ -8333,7 +8908,8 @@
             "tram": [],
             "bus": [
               "bus 32",
-              "bus 6"
+              "bus 6",
+              "bus 72"
             ],
             "gare": []
           }
@@ -8450,6 +9026,10 @@
               "bus 70",
               "bus 89",
               "bus 95",
+              "bus N12",
+              "bus N13",
+              "bus N61",
+              "bus N62",
               "bus Traverse"
             ],
             "gare": []
@@ -8569,7 +9149,9 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 64"
+            ],
             "gare": []
           }
         },
@@ -9266,8 +9848,10 @@
             ],
             "tram": [],
             "bus": [
+              "bus 21",
               "bus 32",
               "bus 45",
+              "bus 66",
               "bus 68"
             ],
             "gare": []
@@ -9284,7 +9868,10 @@
             "metro": [],
             "tram": [],
             "bus": [
+              "bus 26",
+              "bus 32",
               "bus 40",
+              "bus 43",
               "bus 45",
               "bus 74",
               "bus 85"
@@ -9323,7 +9910,10 @@
             "metro": [],
             "tram": [],
             "bus": [
-              "bus 39"
+              "bus 26",
+              "bus 39",
+              "bus 43",
+              "bus 45"
             ],
             "gare": []
           }
@@ -9892,7 +10482,11 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 91",
+              "bus N01",
+              "bus N02"
+            ],
             "gare": []
           }
         },
@@ -10207,7 +10801,11 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 70",
+              "bus 88",
+              "bus Traverse"
+            ],
             "gare": []
           }
         },
@@ -10606,8 +11204,10 @@
             ],
             "tram": [],
             "bus": [
+              "bus 21",
               "bus 32",
               "bus 45",
+              "bus 66",
               "bus 68"
             ],
             "gare": []
@@ -10632,6 +11232,7 @@
               "bus 29",
               "bus 32",
               "bus 42",
+              "bus 43",
               "bus 66",
               "bus 94",
               "bus 95",
@@ -11093,7 +11694,13 @@
               "ligne D"
             ],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 115",
+              "bus 133",
+              "bus 99EX",
+              "bus C12",
+              "bus C9"
+            ],
             "gare": []
           }
         },
@@ -11110,6 +11717,7 @@
             "bus": [
               "bus 109",
               "bus 127",
+              "bus 133",
               "bus 59",
               "bus A32",
               "bus A71",
@@ -11242,7 +11850,8 @@
             "metro": [],
             "tram": [],
             "bus": [
-              "bus 69"
+              "bus 69",
+              "bus C23"
             ],
             "gare": []
           }
@@ -11402,8 +12011,14 @@
           ],
           "correspondance": {
             "metro": [],
-            "tram": [],
-            "bus": [],
+            "tram": [
+              "tram T1"
+            ],
+            "bus": [
+              "bus BRMB",
+              "bus C5",
+              "bus C9"
+            ],
             "gare": []
           }
         },
@@ -11548,7 +12163,15 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 165",
+              "bus 220",
+              "bus 245",
+              "bus 63",
+              "bus 88",
+              "bus BRMB",
+              "bus C10"
+            ],
             "gare": []
           }
         },
@@ -11811,7 +12434,13 @@
               "ligne A"
             ],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 115",
+              "bus 133",
+              "bus 99EX",
+              "bus C12",
+              "bus C9"
+            ],
             "gare": []
           }
         },
@@ -11865,7 +12494,9 @@
           "correspondance": {
             "metro": [],
             "tram": [],
-            "bus": [],
+            "bus": [
+              "bus 36"
+            ],
             "gare": []
           }
         },

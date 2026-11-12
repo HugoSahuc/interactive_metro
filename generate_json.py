@@ -20,6 +20,7 @@ NETWORKS = {
 }
 
 TRAIN_STATION_MAX_DISTANCE_METERS = 300
+TRANSIT_STOP_MAX_DISTANCE_METERS = 150
 EARTH_RADIUS_METERS = 6_371_000
 
 TRAM_ROUTE_TYPE = "0"
@@ -151,13 +152,16 @@ def build_network(gtfs_path, train_stations):
             parent_station_ids[stop_id] = stop.get("parent_station") or stop_id
 
         route_ids_by_station = defaultdict(set)
+        route_ids_by_stop = defaultdict(set)
         metro_station_sequences = defaultdict(list)
 
         for stop_time in read_gtfs_file(gtfs_zip, "stop_times.txt"):
             trip_id = stop_time["trip_id"]
             route_id = trip_route_ids[trip_id]
-            station_id = parent_station_ids[stop_time["stop_id"]]
+            stop_id = stop_time["stop_id"]
+            station_id = parent_station_ids[stop_id]
             route_ids_by_station[station_id].add(route_id)
+            route_ids_by_stop[stop_id].add(route_id)
 
             if trip_id in representative_trip_ids:
                 metro_route_id = representative_trip_ids[trip_id]
@@ -170,17 +174,26 @@ def build_network(gtfs_path, train_stations):
         stations = []
 
         for _, station_id in sorted(metro_station_sequences[route_id]):
+            station_position = station_positions[station_id]
+            station_route_ids = set(route_ids_by_station[station_id])
+            for stop_id, stop_position in station_positions.items():
+                if (
+                    distance_in_meters(station_position, stop_position)
+                    <= TRANSIT_STOP_MAX_DISTANCE_METERS
+                ):
+                    station_route_ids.update(route_ids_by_stop[stop_id])
+
             stations.append(
                 {
                     "id": station_id,
                     "name": station_names[station_id],
-                    "position": station_positions[station_id],
+                    "position": station_position,
                     "correspondance": build_correspondences(
-                        route_ids_by_station[station_id],
+                        station_route_ids,
                         route_id,
                         routes_by_id,
                         find_nearby_train_stations(
-                            station_positions[station_id],
+                            station_position,
                             train_stations,
                         ),
                     ),

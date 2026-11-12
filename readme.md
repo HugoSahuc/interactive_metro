@@ -49,7 +49,7 @@ Après avoir téléchargé ou actualisé les quatre archives :
 python generate_json.py
 ```
 
-Le script lit les GTFS, rapproche les stations de métro des gares situées à moins de 300 mètres et recrée `correspondance.json`. Chaque station contient aussi son identifiant GTFS et sa position `[longitude, latitude]` : ce fichier est ainsi la source unique des correspondances et des coordonnées.
+Le script lit les GTFS et recrée `correspondance.json`. Pour les transports urbains, il rassemble les lignes de métro, tram et bus desservant l’identifiant exact de la station ou un arrêt GTFS situé dans un rayon de 150 mètres. Les gares sont rapprochées séparément dans un rayon de 300 mètres. Chaque station contient aussi son identifiant GTFS et sa position `[longitude, latitude]` : ce fichier est ainsi la source unique des correspondances et des coordonnées.
 
 ## Générer le GeoJSON pour QGIS
 
