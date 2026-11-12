@@ -16,6 +16,7 @@ NETWORKS = {
     "RTM": BASE_DIR / "gtfs/mamp-rtm.gtfs.zip",
     "STAR": BASE_DIR / "gtfs/rennes_gtfs.zip",
     "IDFM": BASE_DIR / "gtfs/IDFM-gtfs.zip",
+    "TCL": BASE_DIR / "gtfs/TCL.zip",
 }
 
 TRAIN_STATION_MAX_DISTANCE_METERS = 300
@@ -171,7 +172,9 @@ def build_network(gtfs_path, train_stations):
         for _, station_id in sorted(metro_station_sequences[route_id]):
             stations.append(
                 {
+                    "id": station_id,
                     "name": station_names[station_id],
+                    "position": station_positions[station_id],
                     "correspondance": build_correspondences(
                         route_ids_by_station[station_id],
                         route_id,
@@ -185,6 +188,7 @@ def build_network(gtfs_path, train_stations):
             )
 
         line = {
+            "id": route_id,
             "type": "metro",
             "name": format_route_name(route),
             "stations": stations,

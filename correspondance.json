@@ -1,11 +1,17 @@
 {
   "Tisséo": [
     {
+      "id": "line:61",
       "type": "metro",
       "name": "ligne A",
       "stations": [
         {
+          "id": "stop_area:SA_206",
           "name": "Basso Cambo",
+          "position": [
+            1.3922732025928362,
+            43.570006466775496
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -30,7 +36,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1011",
           "name": "Bellefontaine",
+          "position": [
+            1.399138638652247,
+            43.56603030927127
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -41,7 +52,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1343",
           "name": "Reynerie",
+          "position": [
+            1.4019343413073106,
+            43.57022422254536
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -50,7 +66,12 @@
           }
         },
         {
+          "id": "stop_area:SA_545",
           "name": "Mirail-Université",
+          "position": [
+            1.4020974896932192,
+            43.57452993809097
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -61,7 +82,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1765",
           "name": "Bagatelle",
+          "position": [
+            1.4120745058425055,
+            43.579920487477445
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -72,7 +98,12 @@
           }
         },
         {
+          "id": "stop_area:SA_943",
           "name": "Mermoz",
+          "position": [
+            1.4154229751914347,
+            43.583445726159944
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -83,7 +114,12 @@
           }
         },
         {
+          "id": "stop_area:SA_4",
           "name": "Fontaine Lestang",
+          "position": [
+            1.4188704263954595,
+            43.58728128457657
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -94,7 +130,12 @@
           }
         },
         {
+          "id": "stop_area:SA_364",
           "name": "Arènes",
+          "position": [
+            1.4185358721074512,
+            43.59340941574715
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -114,7 +155,12 @@
           }
         },
         {
+          "id": "stop_area:SA_669",
           "name": "Patte d'Oie",
+          "position": [
+            1.423383692998773,
+            43.59627540314465
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -127,7 +173,12 @@
           }
         },
         {
+          "id": "stop_area:SA_275",
           "name": "Saint Cyprien - République",
+          "position": [
+            1.4310279110566653,
+            43.597893826320984
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -142,7 +193,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1033",
           "name": "Esquirol",
+          "position": [
+            1.4441051860078327,
+            43.60040948656996
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -154,7 +210,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1715",
           "name": "Capitole",
+          "position": [
+            1.445536873661795,
+            43.6044654665709
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -163,7 +224,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1707",
           "name": "Jean Jaurès",
+          "position": [
+            1.4490828635802229,
+            43.60592336728775
+          ],
           "correspondance": {
             "metro": [
               "ligne B"
@@ -183,7 +249,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1357",
           "name": "Marengo-SNCF",
+          "position": [
+            1.4555818138891057,
+            43.61030766680782
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -198,7 +269,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1517",
           "name": "Jolimont",
+          "position": [
+            1.4636667506517842,
+            43.61536573578763
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -210,7 +286,12 @@
           }
         },
         {
+          "id": "stop_area:SA_520",
           "name": "Roseraie",
+          "position": [
+            1.4695306054760222,
+            43.619712548226275
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -222,7 +303,12 @@
           }
         },
         {
+          "id": "stop_area:SA_25",
           "name": "Argoulets",
+          "position": [
+            1.4770862787896062,
+            43.624504939941296
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -236,7 +322,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1068",
           "name": "Balma-Gramont",
+          "position": [
+            1.482416884052139,
+            43.62852141490813
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -258,11 +349,17 @@
       "color": "#db001b"
     },
     {
+      "id": "line:69",
       "type": "metro",
       "name": "ligne B",
       "stations": [
         {
+          "id": "stop_area:SA_213",
           "name": "Ramonville",
+          "position": [
+            1.4771491174049718,
+            43.555901353768704
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -278,7 +375,12 @@
           }
         },
         {
+          "id": "stop_area:SA_130",
           "name": "Université Paul Sabatier",
+          "position": [
+            1.4635527444714813,
+            43.56064517884737
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -296,7 +398,12 @@
           }
         },
         {
+          "id": "stop_area:SA_977",
           "name": "Faculté de Pharmacie",
+          "position": [
+            1.4644867362522784,
+            43.567892137439344
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -308,7 +415,12 @@
           }
         },
         {
+          "id": "stop_area:SA_402",
           "name": "Rangueil",
+          "position": [
+            1.4623733549782671,
+            43.57448278544435
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -320,7 +432,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1910",
           "name": "Saouzelong",
+          "position": [
+            1.4593269515477083,
+            43.57946256414957
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -331,7 +448,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1045",
           "name": "Saint Agne-SNCF",
+          "position": [
+            1.4494811319556944,
+            43.58027512915966
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -345,7 +467,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1099",
           "name": "Empalot",
+          "position": [
+            1.4419450651739851,
+            43.57992249470679
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -358,7 +485,12 @@
           }
         },
         {
+          "id": "stop_area:SA_593",
           "name": "St-Michel - Marcel Langer",
+          "position": [
+            1.4469027550133982,
+            43.5860994927381
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -369,7 +501,12 @@
           }
         },
         {
+          "id": "stop_area:SA_774",
           "name": "Palais de Justice",
+          "position": [
+            1.4442340368830642,
+            43.592854387678045
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -383,7 +520,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1621",
           "name": "Carmes",
+          "position": [
+            1.4455316592402019,
+            43.59810784036587
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -396,7 +538,12 @@
           }
         },
         {
+          "id": "stop_area:SA_22",
           "name": "François Verdier",
+          "position": [
+            1.4522850926334725,
+            43.60106501181682
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -407,7 +554,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1707",
           "name": "Jean Jaurès",
+          "position": [
+            1.4490828635802229,
+            43.60592336728775
+          ],
           "correspondance": {
             "metro": [
               "ligne A"
@@ -427,7 +579,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1546",
           "name": "Jeanne d'Arc",
+          "position": [
+            1.4460812690121034,
+            43.6090947788295
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -448,7 +605,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1072",
           "name": "Compans-Caffarelli",
+          "position": [
+            1.435362027893449,
+            43.61048424348924
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -463,7 +625,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1459",
           "name": "Canal du Midi",
+          "position": [
+            1.4337187429269413,
+            43.61522249833649
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -476,7 +643,12 @@
           }
         },
         {
+          "id": "stop_area:SA_63",
           "name": "Minimes - Claude Nougaro",
+          "position": [
+            1.4358450433093028,
+            43.620554777190996
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -487,7 +659,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1152",
           "name": "Barrière de Paris",
+          "position": [
+            1.4337858328642137,
+            43.62662295379673
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -501,7 +678,12 @@
           }
         },
         {
+          "id": "stop_area:SA_332",
           "name": "La Vache",
+          "position": [
+            1.4349512265637498,
+            43.63361737926972
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -515,7 +697,12 @@
           }
         },
         {
+          "id": "stop_area:SA_801",
           "name": "Trois Cocus",
+          "position": [
+            1.4441288333035929,
+            43.638348875126205
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -527,7 +714,12 @@
           }
         },
         {
+          "id": "stop_area:SA_1298",
           "name": "Borderouge",
+          "position": [
+            1.4525910848521748,
+            43.64133044071267
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -551,11 +743,17 @@
   ],
   "Ilévia": [
     {
+      "id": "ME1",
       "type": "metro",
       "name": "ligne M1",
       "stations": [
         {
+          "id": "4703",
           "name": "4 Cantons Stade P. Mauroy",
+          "position": [
+            3.13866,
+            50.605423
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -564,7 +762,12 @@
           }
         },
         {
+          "id": "6415",
           "name": "Cité Scientifique",
+          "position": [
+            3.14236,
+            50.611992
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -575,7 +778,12 @@
           }
         },
         {
+          "id": "1903",
           "name": "Triolo",
+          "position": [
+            3.14164,
+            50.616294
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -584,7 +792,12 @@
           }
         },
         {
+          "id": "1942",
           "name": "V. D'Ascq Hotel De Ville",
+          "position": [
+            3.130941,
+            50.61909
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -600,7 +813,12 @@
           }
         },
         {
+          "id": "1971",
           "name": "Pont De Bois",
+          "position": [
+            3.128126,
+            50.624787
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -620,7 +838,12 @@
           }
         },
         {
+          "id": "492",
           "name": "Square Flandres",
+          "position": [
+            3.116047,
+            50.625204
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -633,7 +856,12 @@
           }
         },
         {
+          "id": "494",
           "name": "Mairie D'Hellemmes",
+          "position": [
+            3.109111,
+            50.627203
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -645,7 +873,12 @@
           }
         },
         {
+          "id": "820",
           "name": "Marbrerie",
+          "position": [
+            3.098633,
+            50.62995
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -656,7 +889,12 @@
           }
         },
         {
+          "id": "778",
           "name": "Fives",
+          "position": [
+            3.090669,
+            50.633049
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -667,7 +905,12 @@
           }
         },
         {
+          "id": "774",
           "name": "Madeleine Caulier",
+          "position": [
+            3.087491,
+            50.636522
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -678,7 +921,12 @@
           }
         },
         {
+          "id": "920",
           "name": "Gare Lille Flandres",
+          "position": [
+            3.070865,
+            50.637779
+          ],
           "correspondance": {
             "metro": [
               "ligne M2"
@@ -707,7 +955,12 @@
           }
         },
         {
+          "id": "942",
           "name": "Rihour",
+          "position": [
+            3.062306,
+            50.636062
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -718,7 +971,12 @@
           }
         },
         {
+          "id": "773",
           "name": "République Beaux-Arts",
+          "position": [
+            3.061793,
+            50.631769
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -734,7 +992,12 @@
           }
         },
         {
+          "id": "5456",
           "name": "Gambetta",
+          "position": [
+            3.054296,
+            50.626278
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -743,7 +1006,12 @@
           }
         },
         {
+          "id": "5457",
           "name": "Wazemmes",
+          "position": [
+            3.052386,
+            50.622907
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -752,7 +1020,12 @@
           }
         },
         {
+          "id": "7028",
           "name": "Porte Des Postes",
+          "position": [
+            3.049868,
+            50.618427
+          ],
           "correspondance": {
             "metro": [
               "ligne M2"
@@ -768,7 +1041,12 @@
           }
         },
         {
+          "id": "7214",
           "name": "Chu - Centre O. Lambret",
+          "position": [
+            3.036216,
+            50.613168
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -782,7 +1060,12 @@
           }
         },
         {
+          "id": "974",
           "name": "Chu - Eurasanté",
+          "position": [
+            3.039128,
+            50.607688
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -807,11 +1090,17 @@
       "color": "#FDC41F"
     },
     {
+      "id": "ME2",
       "type": "metro",
       "name": "ligne M2",
       "stations": [
         {
+          "id": "1736",
           "name": "C.H. Dron",
+          "position": [
+            3.180505,
+            50.743757
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -823,7 +1112,12 @@
           }
         },
         {
+          "id": "1719",
           "name": "Bourgogne",
+          "position": [
+            3.179473,
+            50.739549
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -834,7 +1128,12 @@
           }
         },
         {
+          "id": "8780",
           "name": "Pont De Neuville",
+          "position": [
+            3.170593,
+            50.736792
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -843,7 +1142,12 @@
           }
         },
         {
+          "id": "1818",
           "name": "Phalempins",
+          "position": [
+            3.158399,
+            50.731842
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -852,7 +1156,12 @@
           }
         },
         {
+          "id": "7904",
           "name": "Colbert",
+          "position": [
+            3.156923,
+            50.725484
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -861,7 +1170,12 @@
           }
         },
         {
+          "id": "6666",
           "name": "Tourcoing Centre",
+          "position": [
+            3.159657,
+            50.720703
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -872,7 +1186,12 @@
           }
         },
         {
+          "id": "1822",
           "name": "Gare De Tourcoing",
+          "position": [
+            3.162584,
+            50.71662
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -881,7 +1200,12 @@
           }
         },
         {
+          "id": "8811",
           "name": "Carliers",
+          "position": [
+            3.159885,
+            50.710566
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -890,7 +1214,12 @@
           }
         },
         {
+          "id": "1805",
           "name": "Mercure",
+          "position": [
+            3.160361,
+            50.705145
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -902,7 +1231,12 @@
           }
         },
         {
+          "id": "9194",
           "name": "Alsace Plaine Images",
+          "position": [
+            3.161274,
+            50.700591
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -911,7 +1245,12 @@
           }
         },
         {
+          "id": "6587",
           "name": "Gare Jean Lebas Roubaix",
+          "position": [
+            3.16399,
+            50.695739
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -926,7 +1265,12 @@
           }
         },
         {
+          "id": "7903",
           "name": "Roubaix Grand Place",
+          "position": [
+            3.173633,
+            50.691386
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -935,7 +1279,12 @@
           }
         },
         {
+          "id": "1508",
           "name": "Eurotéléport",
+          "position": [
+            3.180598,
+            50.691563
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -959,7 +1308,12 @@
           }
         },
         {
+          "id": "1453",
           "name": "Roubaix Charles De Gaulle",
+          "position": [
+            3.169236,
+            50.686806
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -968,7 +1322,12 @@
           }
         },
         {
+          "id": "7905",
           "name": "Epeule Montesquieu",
+          "position": [
+            3.163272,
+            50.683912
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -977,7 +1336,12 @@
           }
         },
         {
+          "id": "7017",
           "name": "Mairie De Croix",
+          "position": [
+            3.156608,
+            50.679588
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -988,7 +1352,12 @@
           }
         },
         {
+          "id": "302",
           "name": "Croix Centre",
+          "position": [
+            3.146203,
+            50.674374
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -999,7 +1368,12 @@
           }
         },
         {
+          "id": "2044",
           "name": "Wasquehal Hôtel De Ville",
+          "position": [
+            3.131809,
+            50.670188
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1012,7 +1386,12 @@
           }
         },
         {
+          "id": "2071",
           "name": "Wasquehal Pavé De Lille",
+          "position": [
+            3.130384,
+            50.663999
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -1026,7 +1405,12 @@
           }
         },
         {
+          "id": "6699",
           "name": "Jean Jaurès",
+          "position": [
+            3.135083,
+            50.658668
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1038,7 +1422,12 @@
           }
         },
         {
+          "id": "1968",
           "name": "Les Prés Edgard Pisani",
+          "position": [
+            3.126565,
+            50.650093
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1052,7 +1441,12 @@
           }
         },
         {
+          "id": "1222",
           "name": "Fort De Mons",
+          "position": [
+            3.119627,
+            50.642189
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1065,7 +1459,12 @@
           }
         },
         {
+          "id": "1231",
           "name": "Mairie De Mons",
+          "position": [
+            3.110922,
+            50.642119
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1077,7 +1476,12 @@
           }
         },
         {
+          "id": "1208",
           "name": "Mons Sarts",
+          "position": [
+            3.099298,
+            50.642155
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1088,7 +1492,12 @@
           }
         },
         {
+          "id": "797",
           "name": "Saint Maurice Pellevoisin",
+          "position": [
+            3.088299,
+            50.642393
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1099,7 +1508,12 @@
           }
         },
         {
+          "id": "7536",
           "name": "Gare Lille Europe",
+          "position": [
+            3.075697,
+            50.639284
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -1124,7 +1538,12 @@
           }
         },
         {
+          "id": "920",
           "name": "Gare Lille Flandres",
+          "position": [
+            3.070865,
+            50.637779
+          ],
           "correspondance": {
             "metro": [
               "ligne M1"
@@ -1153,7 +1572,12 @@
           }
         },
         {
+          "id": "935",
           "name": "Mairie De Lille",
+          "position": [
+            3.070189,
+            50.63206
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1162,7 +1586,12 @@
           }
         },
         {
+          "id": "6841",
           "name": "Lille Grand Palais",
+          "position": [
+            3.075996,
+            50.629899
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1173,7 +1602,12 @@
           }
         },
         {
+          "id": "965",
           "name": "Porte De Valenciennes",
+          "position": [
+            3.078982,
+            50.621046
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1185,7 +1619,12 @@
           }
         },
         {
+          "id": "9196",
           "name": "Porte De Douai",
+          "position": [
+            3.072479,
+            50.618035
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1194,7 +1633,12 @@
           }
         },
         {
+          "id": "866",
           "name": "Porte D'Arras",
+          "position": [
+            3.061886,
+            50.617792
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1206,7 +1650,12 @@
           }
         },
         {
+          "id": "7028",
           "name": "Porte Des Postes",
+          "position": [
+            3.049868,
+            50.618427
+          ],
           "correspondance": {
             "metro": [
               "ligne M1"
@@ -1222,7 +1671,12 @@
           }
         },
         {
+          "id": "946",
           "name": "Montebello",
+          "position": [
+            3.045577,
+            50.622076
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1231,7 +1685,12 @@
           }
         },
         {
+          "id": "809",
           "name": "Cormontaigne",
+          "position": [
+            3.040601,
+            50.626159
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1243,7 +1702,12 @@
           }
         },
         {
+          "id": "934",
           "name": "Port De Lille",
+          "position": [
+            3.035733,
+            50.630053
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1252,7 +1716,12 @@
           }
         },
         {
+          "id": "971",
           "name": "Bois Blancs",
+          "position": [
+            3.030672,
+            50.634253
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1263,7 +1732,12 @@
           }
         },
         {
+          "id": "9195",
           "name": "Canteleu Euratechnologies",
+          "position": [
+            3.024167,
+            50.63715
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1272,7 +1746,12 @@
           }
         },
         {
+          "id": "997",
           "name": "Lomme-Lambersart",
+          "position": [
+            3.01859,
+            50.640886
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1283,7 +1762,12 @@
           }
         },
         {
+          "id": "1003",
           "name": "Pont Supérieur",
+          "position": [
+            3.013817,
+            50.64468
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1294,7 +1778,12 @@
           }
         },
         {
+          "id": "1036",
           "name": "Mitterie",
+          "position": [
+            3.007639,
+            50.646857
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1305,7 +1794,12 @@
           }
         },
         {
+          "id": "1004",
           "name": "Maison Des Enfants",
+          "position": [
+            2.994949,
+            50.646333
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1318,7 +1812,12 @@
           }
         },
         {
+          "id": "1034",
           "name": "Bourg",
+          "position": [
+            2.985403,
+            50.64563
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1329,7 +1828,12 @@
           }
         },
         {
+          "id": "999",
           "name": "Saint Philibert",
+          "position": [
+            2.974745,
+            50.651767
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1360,11 +1864,17 @@
   ],
   "RTM": [
     {
+      "id": "RTM-116",
       "type": "metro",
       "name": "ligne M1",
       "stations": [
         {
+          "id": "RTM-00002275",
           "name": "La Rose",
+          "position": [
+            5.4296345,
+            43.333138
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1373,7 +1883,12 @@
           }
         },
         {
+          "id": "RTM-00002277",
           "name": "Frais Vallon",
+          "position": [
+            5.4232015,
+            43.3255405
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1382,7 +1897,12 @@
           }
         },
         {
+          "id": "RTM-00002278",
           "name": "Malpassé",
+          "position": [
+            5.4164315,
+            43.3209855
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1391,7 +1911,12 @@
           }
         },
         {
+          "id": "RTM-00002279",
           "name": "Saint-Just",
+          "position": [
+            5.406393,
+            43.315486
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1400,7 +1925,12 @@
           }
         },
         {
+          "id": "RTM-00002280",
           "name": "Chartreux",
+          "position": [
+            5.401397,
+            43.309159
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1409,7 +1939,12 @@
           }
         },
         {
+          "id": "RTM-00002281",
           "name": "Cinq Avenues Longchamp",
+          "position": [
+            5.396111,
+            43.3041025
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1418,7 +1953,12 @@
           }
         },
         {
+          "id": "RTM-00002282",
           "name": "Réformés Canebière",
+          "position": [
+            5.386163,
+            43.3004195
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1427,7 +1967,12 @@
           }
         },
         {
+          "id": "RTM-00002283",
           "name": "Saint-Charles",
+          "position": [
+            5.3801525,
+            43.3023705
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1438,7 +1983,12 @@
           }
         },
         {
+          "id": "RTM-00002284",
           "name": "Colbert",
+          "position": [
+            5.374338,
+            43.3003195
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1447,7 +1997,12 @@
           }
         },
         {
+          "id": "RTM-00002285",
           "name": "Vieux-Port",
+          "position": [
+            5.3741815,
+            43.295639
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1456,7 +2011,12 @@
           }
         },
         {
+          "id": "RTM-00002286",
           "name": "Estrangin",
+          "position": [
+            5.3779635,
+            43.29031
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1465,7 +2025,12 @@
           }
         },
         {
+          "id": "RTM-00002287",
           "name": "Castellane",
+          "position": [
+            5.384552,
+            43.2861185
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1474,7 +2039,12 @@
           }
         },
         {
+          "id": "RTM-00002302",
           "name": "Baille",
+          "position": [
+            5.3920085,
+            43.288089
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1483,7 +2053,12 @@
           }
         },
         {
+          "id": "RTM-00002303",
           "name": "La Timone",
+          "position": [
+            5.4004835,
+            43.291122
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1492,7 +2067,12 @@
           }
         },
         {
+          "id": "RTM-00003489",
           "name": "La Blancarde",
+          "position": [
+            5.406199,
+            43.295438
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1503,7 +2083,12 @@
           }
         },
         {
+          "id": "RTM-00003490",
           "name": "Louis Armand",
+          "position": [
+            5.41363,
+            43.299951
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1512,7 +2097,12 @@
           }
         },
         {
+          "id": "RTM-00003491",
           "name": "Saint-Barnabé",
+          "position": [
+            5.418618,
+            43.303241
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1521,7 +2111,12 @@
           }
         },
         {
+          "id": "RTM-00003493",
           "name": "La Fourragère",
+          "position": [
+            5.4242105,
+            43.303877
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1533,11 +2128,17 @@
       "color": "#009FE3"
     },
     {
+      "id": "RTM-125",
       "type": "metro",
       "name": "ligne M2",
       "stations": [
         {
+          "id": "RTM-00004263",
           "name": "Gèze",
+          "position": [
+            5.36724843,
+            43.32792836
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1546,7 +2147,12 @@
           }
         },
         {
+          "id": "RTM-00002304",
           "name": "Bougainville",
+          "position": [
+            5.371352,
+            43.3208465
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1555,7 +2161,12 @@
           }
         },
         {
+          "id": "RTM-00002305",
           "name": "National",
+          "position": [
+            5.372969,
+            43.3151235
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1564,7 +2175,12 @@
           }
         },
         {
+          "id": "RTM-00002306",
           "name": "Désirée Clary",
+          "position": [
+            5.3723195,
+            43.309399
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1573,7 +2189,12 @@
           }
         },
         {
+          "id": "RTM-00002307",
           "name": "Joliette",
+          "position": [
+            5.367867,
+            43.3038805
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1582,7 +2203,12 @@
           }
         },
         {
+          "id": "RTM-00002308",
           "name": "Jules Guesde",
+          "position": [
+            5.374025,
+            43.301957
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1591,7 +2217,12 @@
           }
         },
         {
+          "id": "RTM-00002309",
           "name": "Saint-Charles",
+          "position": [
+            5.380007,
+            43.302284
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1602,7 +2233,12 @@
           }
         },
         {
+          "id": "RTM-00002310",
           "name": "Noailles",
+          "position": [
+            5.381212,
+            43.2967805
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1611,7 +2247,12 @@
           }
         },
         {
+          "id": "RTM-00002311",
           "name": "Notre-Dame du Mont",
+          "position": [
+            5.3836365,
+            43.292812
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1620,7 +2261,12 @@
           }
         },
         {
+          "id": "RTM-00002313",
           "name": "Castellane",
+          "position": [
+            5.384331,
+            43.2851435
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1629,7 +2275,12 @@
           }
         },
         {
+          "id": "RTM-00002314",
           "name": "Périer",
+          "position": [
+            5.387588,
+            43.2793795
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1638,7 +2289,12 @@
           }
         },
         {
+          "id": "RTM-00002315",
           "name": "Rond-Point du Prado",
+          "position": [
+            5.392494,
+            43.271387
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1647,7 +2303,12 @@
           }
         },
         {
+          "id": "RTM-00002316",
           "name": "Sainte-Marguerite Dromel",
+          "position": [
+            5.4021975,
+            43.2705445
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1661,11 +2322,17 @@
   ],
   "STAR": [
     {
+      "id": "7-1001",
       "type": "metro",
       "name": "ligne a",
       "stations": [
         {
+          "id": "7-15001",
           "name": "J.F. Kennedy",
+          "position": [
+            -1.711261,
+            48.121299
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1674,7 +2341,12 @@
           }
         },
         {
+          "id": "7-15002",
           "name": "Villejean-Université",
+          "position": [
+            -1.703929,
+            48.121241
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1683,7 +2355,12 @@
           }
         },
         {
+          "id": "7-15003",
           "name": "Pontchaillou",
+          "position": [
+            -1.6934,
+            48.121557
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1692,7 +2369,12 @@
           }
         },
         {
+          "id": "7-15004",
           "name": "Anatole France",
+          "position": [
+            -1.6876,
+            48.118137
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1703,7 +2385,12 @@
           }
         },
         {
+          "id": "7-15005",
           "name": "Sainte-Anne",
+          "position": [
+            -1.680509,
+            48.114525
+          ],
           "correspondance": {
             "metro": [
               "ligne b"
@@ -1714,7 +2401,12 @@
           }
         },
         {
+          "id": "7-15006",
           "name": "République",
+          "position": [
+            -1.679182,
+            48.109759
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1723,7 +2415,12 @@
           }
         },
         {
+          "id": "7-15007",
           "name": "Charles de Gaulle",
+          "position": [
+            -1.676829,
+            48.10546
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1732,7 +2429,12 @@
           }
         },
         {
+          "id": "7-15008",
           "name": "Gares",
+          "position": [
+            -1.672245,
+            48.103847
+          ],
           "correspondance": {
             "metro": [
               "ligne b"
@@ -1745,7 +2447,12 @@
           }
         },
         {
+          "id": "7-15009",
           "name": "Jacques Cartier",
+          "position": [
+            -1.675452,
+            48.097543
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1754,7 +2461,12 @@
           }
         },
         {
+          "id": "7-15010",
           "name": "Clemenceau",
+          "position": [
+            -1.674418,
+            48.09348
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1763,7 +2475,12 @@
           }
         },
         {
+          "id": "7-15011",
           "name": "Henri Fréville",
+          "position": [
+            -1.674816,
+            48.087679
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1772,7 +2489,12 @@
           }
         },
         {
+          "id": "7-15012",
           "name": "Italie",
+          "position": [
+            -1.6679,
+            48.086564
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1781,7 +2503,12 @@
           }
         },
         {
+          "id": "7-15013",
           "name": "Triangle",
+          "position": [
+            -1.66036,
+            48.086437
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1790,7 +2517,12 @@
           }
         },
         {
+          "id": "7-15014",
           "name": "Le Blosne",
+          "position": [
+            -1.654278,
+            48.087732
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1799,7 +2531,12 @@
           }
         },
         {
+          "id": "7-15015",
           "name": "La Poterie",
+          "position": [
+            -1.644573,
+            48.08749
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1811,11 +2548,17 @@
       "color": "#EE1D23"
     },
     {
+      "id": "7-1002",
       "type": "metro",
       "name": "ligne b",
       "stations": [
         {
+          "id": "7-15050",
           "name": "Cesson - Viasilva",
+          "position": [
+            -1.620061,
+            48.131493
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1824,7 +2567,12 @@
           }
         },
         {
+          "id": "7-15051",
           "name": "Atalante",
+          "position": [
+            -1.628023,
+            48.127146
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1833,7 +2581,12 @@
           }
         },
         {
+          "id": "7-15052",
           "name": "Beaulieu - Université",
+          "position": [
+            -1.639116,
+            48.122129
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1842,7 +2595,12 @@
           }
         },
         {
+          "id": "7-15053",
           "name": "Joliot-Curie - Chateaubriand",
+          "position": [
+            -1.651502,
+            48.124113
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1851,7 +2609,12 @@
           }
         },
         {
+          "id": "7-15054",
           "name": "Les Gayeulles",
+          "position": [
+            -1.6573,
+            48.129395
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1860,7 +2623,12 @@
           }
         },
         {
+          "id": "7-15055",
           "name": "Gros-Chêne",
+          "position": [
+            -1.664468,
+            48.125093
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1869,7 +2637,12 @@
           }
         },
         {
+          "id": "7-15056",
           "name": "Jules Ferry",
+          "position": [
+            -1.670766,
+            48.118659
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1878,7 +2651,12 @@
           }
         },
         {
+          "id": "7-15005",
           "name": "Sainte-Anne",
+          "position": [
+            -1.680509,
+            48.114525
+          ],
           "correspondance": {
             "metro": [
               "ligne a"
@@ -1889,7 +2667,12 @@
           }
         },
         {
+          "id": "7-15058",
           "name": "Saint-Germain",
+          "position": [
+            -1.676273,
+            48.110616
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1898,7 +2681,12 @@
           }
         },
         {
+          "id": "7-15008",
           "name": "Gares",
+          "position": [
+            -1.672245,
+            48.103847
+          ],
           "correspondance": {
             "metro": [
               "ligne a"
@@ -1911,7 +2699,12 @@
           }
         },
         {
+          "id": "7-15060",
           "name": "Colombier",
+          "position": [
+            -1.682154,
+            48.10589
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1920,7 +2713,12 @@
           }
         },
         {
+          "id": "7-15061",
           "name": "Mabilais",
+          "position": [
+            -1.692651,
+            48.105059
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1929,7 +2727,12 @@
           }
         },
         {
+          "id": "7-15062",
           "name": "Cleunay",
+          "position": [
+            -1.706408,
+            48.101002
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1938,7 +2741,12 @@
           }
         },
         {
+          "id": "7-15063",
           "name": "La Courrouze",
+          "position": [
+            -1.698399,
+            48.096522
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1947,7 +2755,12 @@
           }
         },
         {
+          "id": "7-15064",
           "name": "Saint-Jacques - Gaîté",
+          "position": [
+            -1.70362,
+            48.092047
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -1961,11 +2774,17 @@
   ],
   "IDFM": [
     {
+      "id": "IDFM:C01371",
       "type": "metro",
       "name": "ligne 1",
       "stations": [
         {
+          "id": "IDFM:71517",
           "name": "La Défense",
+          "position": [
+            2.2396005529059826,
+            48.89161227591195
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -1997,7 +2816,12 @@
           }
         },
         {
+          "id": "IDFM:71485",
           "name": "Esplanade de la Défense",
+          "position": [
+            2.2504078044589906,
+            48.88744455000016
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2008,7 +2832,12 @@
           }
         },
         {
+          "id": "IDFM:71442",
           "name": "Pont de Neuilly",
+          "position": [
+            2.2595197373456806,
+            48.88490216571754
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2028,7 +2857,12 @@
           }
         },
         {
+          "id": "IDFM:425779",
           "name": "Les Sablons",
+          "position": [
+            2.271555618195403,
+            48.87993071209903
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2041,7 +2875,12 @@
           }
         },
         {
+          "id": "IDFM:71379",
           "name": "Neuilly - Porte Maillot",
+          "position": [
+            2.2826738303832257,
+            48.87806426540321
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -2062,7 +2901,12 @@
           }
         },
         {
+          "id": "IDFM:71348",
           "name": "Argentine",
+          "position": [
+            2.28940207146607,
+            48.875613218140764
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2075,7 +2919,12 @@
           }
         },
         {
+          "id": "IDFM:71347",
           "name": "Charles de Gaulle - Étoile",
+          "position": [
+            2.2955859602211413,
+            48.87354530730615
+          ],
           "correspondance": {
             "metro": [
               "ligne 2",
@@ -2101,7 +2950,12 @@
           }
         },
         {
+          "id": "IDFM:71328",
           "name": "George V",
+          "position": [
+            2.3010013682632318,
+            48.87181434057314
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2114,7 +2968,12 @@
           }
         },
         {
+          "id": "IDFM:71318",
           "name": "Franklin D. Roosevelt",
+          "position": [
+            2.30996645232141,
+            48.8691548351732
+          ],
           "correspondance": {
             "metro": [
               "ligne 9"
@@ -2136,7 +2995,12 @@
           }
         },
         {
+          "id": "IDFM:71305",
           "name": "Champs-Élysées - Clemenceau",
+          "position": [
+            2.31366529702459,
+            48.86778661381369
+          ],
           "correspondance": {
             "metro": [
               "ligne 13"
@@ -2153,7 +3017,12 @@
           }
         },
         {
+          "id": "IDFM:71298",
           "name": "Concorde",
+          "position": [
+            2.321675919601415,
+            48.865565929741614
+          ],
           "correspondance": {
             "metro": [
               "ligne 12",
@@ -2174,7 +3043,12 @@
           }
         },
         {
+          "id": "IDFM:71284",
           "name": "Tuileries",
+          "position": [
+            2.330831367313905,
+            48.86436737805995
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2188,7 +3062,12 @@
           }
         },
         {
+          "id": "IDFM:71297",
           "name": "Palais Royal - Musée du Louvre",
+          "position": [
+            2.336000628674303,
+            48.862530023999376
+          ],
           "correspondance": {
             "metro": [
               "ligne 7"
@@ -2210,7 +3089,12 @@
           }
         },
         {
+          "id": "IDFM:73630",
           "name": "Louvre - Rivoli",
+          "position": [
+            2.340635366012601,
+            48.86089635195878
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2230,7 +3114,12 @@
           }
         },
         {
+          "id": "IDFM:71264",
           "name": "Châtelet",
+          "position": [
+            2.348491031653374,
+            48.85835374843885
+          ],
           "correspondance": {
             "metro": [
               "ligne 11",
@@ -2270,7 +3159,12 @@
           }
         },
         {
+          "id": "IDFM:415852",
           "name": "Hôtel de Ville",
+          "position": [
+            2.351538406665096,
+            48.85662106401504
+          ],
           "correspondance": {
             "metro": [
               "ligne 11"
@@ -2292,7 +3186,12 @@
           }
         },
         {
+          "id": "IDFM:71222",
           "name": "Saint-Paul (Le Marais)",
+          "position": [
+            2.3615003363185156,
+            48.855042312263656
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2307,7 +3206,12 @@
           }
         },
         {
+          "id": "IDFM:463564",
           "name": "Bastille",
+          "position": [
+            2.368726105936876,
+            48.85258944629183
+          ],
           "correspondance": {
             "metro": [
               "ligne 5",
@@ -2330,7 +3234,12 @@
           }
         },
         {
+          "id": "IDFM:73626",
           "name": "Gare de Lyon",
+          "position": [
+            2.3751457799393743,
+            48.84456941572047
+          ],
           "correspondance": {
             "metro": [
               "ligne 14"
@@ -2371,7 +3280,12 @@
           }
         },
         {
+          "id": "IDFM:71654",
           "name": "Reuilly - Diderot",
+          "position": [
+            2.386233890112332,
+            48.84718548495672
+          ],
           "correspondance": {
             "metro": [
               "ligne 8"
@@ -2387,7 +3301,12 @@
           }
         },
         {
+          "id": "IDFM:71673",
           "name": "Nation",
+          "position": [
+            2.3963326474955293,
+            48.848837716955956
+          ],
           "correspondance": {
             "metro": [
               "ligne 2",
@@ -2409,7 +3328,12 @@
           }
         },
         {
+          "id": "IDFM:71663",
           "name": "Porte de Vincennes",
+          "position": [
+            2.4091953997807645,
+            48.847152684415924
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -2427,7 +3351,12 @@
           }
         },
         {
+          "id": "IDFM:71647",
           "name": "Saint-Mandé",
+          "position": [
+            2.418799948466727,
+            48.846138490294756
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2440,7 +3369,12 @@
           }
         },
         {
+          "id": "IDFM:71650",
           "name": "Bérault",
+          "position": [
+            2.4282430395276546,
+            48.84552296774358
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2454,7 +3388,12 @@
           }
         },
         {
+          "id": "IDFM:71634",
           "name": "Château de Vincennes",
+          "position": [
+            2.4402544470591128,
+            48.84427121047469
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2479,11 +3418,17 @@
       "color": "#FFBE00"
     },
     {
+      "id": "IDFM:C01380",
       "type": "metro",
       "name": "ligne 10",
       "stations": [
         {
+          "id": "IDFM:71135",
           "name": "Gare d'Austerlitz",
+          "position": [
+            2.3668334950792076,
+            48.84235421610177
+          ],
           "correspondance": {
             "metro": [
               "ligne 5"
@@ -2510,7 +3455,12 @@
           }
         },
         {
+          "id": "IDFM:71148",
           "name": "Jussieu",
+          "position": [
+            2.3546663051780934,
+            48.84616947973491
+          ],
           "correspondance": {
             "metro": [
               "ligne 7"
@@ -2524,7 +3474,12 @@
           }
         },
         {
+          "id": "IDFM:71153",
           "name": "Cardinal Lemoine",
+          "position": [
+            2.3514670575552037,
+            48.846475950203825
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2539,7 +3494,12 @@
           }
         },
         {
+          "id": "IDFM:71190",
           "name": "Maubert - Mutualité",
+          "position": [
+            2.348632191462436,
+            48.84978817523936
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2555,7 +3515,12 @@
           }
         },
         {
+          "id": "IDFM:73619",
           "name": "Cluny - La Sorbonne",
+          "position": [
+            2.344724126976086,
+            48.85063021717734
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2572,7 +3537,12 @@
           }
         },
         {
+          "id": "IDFM:73618",
           "name": "Odéon",
+          "position": [
+            2.33964909087104,
+            48.852140214714126
+          ],
           "correspondance": {
             "metro": [
               "ligne 4"
@@ -2592,7 +3562,12 @@
           }
         },
         {
+          "id": "IDFM:73639",
           "name": "Mabillon",
+          "position": [
+            2.336158575421104,
+            48.85280890798883
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2609,7 +3584,12 @@
           }
         },
         {
+          "id": "IDFM:71203",
           "name": "Sèvres - Babylone",
+          "position": [
+            2.326961924012207,
+            48.85156138487256
+          ],
           "correspondance": {
             "metro": [
               "ligne 12"
@@ -2628,7 +3608,12 @@
           }
         },
         {
+          "id": "IDFM:71170",
           "name": "Vaneau",
+          "position": [
+            2.3213954108247927,
+            48.848903815089436
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2640,7 +3625,12 @@
           }
         },
         {
+          "id": "IDFM:71159",
           "name": "Duroc",
+          "position": [
+            2.3159256625249243,
+            48.847222336748466
+          ],
           "correspondance": {
             "metro": [
               "ligne 13"
@@ -2658,7 +3648,12 @@
           }
         },
         {
+          "id": "IDFM:71157",
           "name": "Ségur",
+          "position": [
+            2.3072176527414325,
+            48.846740534557185
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2667,7 +3662,12 @@
           }
         },
         {
+          "id": "IDFM:71199",
           "name": "La Motte-Picquet - Grenelle",
+          "position": [
+            2.2984077121284154,
+            48.84918377697637
+          ],
           "correspondance": {
             "metro": [
               "ligne 6",
@@ -2682,7 +3682,12 @@
           }
         },
         {
+          "id": "IDFM:71158",
           "name": "Avenue Émile Zola",
+          "position": [
+            2.2940439983762047,
+            48.8469872962231
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2694,7 +3699,12 @@
           }
         },
         {
+          "id": "IDFM:71156",
           "name": "Charles Michels",
+          "position": [
+            2.2863536203253294,
+            48.846343591787985
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2709,7 +3719,12 @@
           }
         },
         {
+          "id": "IDFM:71150",
           "name": "Javel",
+          "position": [
+            2.277652302724888,
+            48.84639030128108
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2723,7 +3738,12 @@
           }
         },
         {
+          "id": "IDFM:71166",
           "name": "Église d'Auteuil",
+          "position": [
+            2.2697642383686474,
+            48.84771844593106
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2736,7 +3756,12 @@
           }
         },
         {
+          "id": "IDFM:71206",
           "name": "Michel-Ange - Auteuil",
+          "position": [
+            2.264593788674957,
+            48.84812746551894
+          ],
           "correspondance": {
             "metro": [
               "ligne 9"
@@ -2750,7 +3775,12 @@
           }
         },
         {
+          "id": "IDFM:71169",
           "name": "Porte d'Auteuil",
+          "position": [
+            2.2588784625367975,
+            48.84755707524257
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2766,7 +3796,12 @@
           }
         },
         {
+          "id": "IDFM:71147",
           "name": "Boulogne Jean Jaurès",
+          "position": [
+            2.2385104880852364,
+            48.843049226948445
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2778,7 +3813,12 @@
           }
         },
         {
+          "id": "IDFM:70721",
           "name": "Boulogne Pont de Saint-Cloud",
+          "position": [
+            2.2283871891914253,
+            48.8406954476992
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2800,11 +3840,17 @@
       "color": "#DC9600"
     },
     {
+      "id": "IDFM:C01381",
       "type": "metro",
       "name": "ligne 11",
       "stations": [
         {
+          "id": "IDFM:71909",
           "name": "Mairie des Lilas",
+          "position": [
+            2.4160538107865652,
+            48.87961655436696
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2820,7 +3866,12 @@
           }
         },
         {
+          "id": "IDFM:490779",
           "name": "Serge Gainsbourg",
+          "position": [
+            2.4275905327202585,
+            48.88135850555815
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2833,7 +3884,12 @@
           }
         },
         {
+          "id": "IDFM:71947",
           "name": "Romainville - Carnot",
+          "position": [
+            2.4409424577774663,
+            48.883022392821864
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2849,7 +3905,12 @@
           }
         },
         {
+          "id": "IDFM:71897",
           "name": "Montreuil - Hôpital",
+          "position": [
+            2.4547647778277257,
+            48.877609260556824
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2863,7 +3924,12 @@
           }
         },
         {
+          "id": "IDFM:490782",
           "name": "La Dhuys",
+          "position": [
+            2.4654442321112975,
+            48.87793171869931
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2875,7 +3941,12 @@
           }
         },
         {
+          "id": "IDFM:490783",
           "name": "Coteaux Beauclair",
+          "position": [
+            2.468381063623135,
+            48.882081677851524
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2886,7 +3957,12 @@
           }
         },
         {
+          "id": "IDFM:426280",
           "name": "Rosny Bois Perrier",
+          "position": [
+            2.481180788491328,
+            48.88319902655102
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2905,11 +3981,17 @@
       "color": "#6E491E"
     },
     {
+      "id": "IDFM:C01382",
       "type": "metro",
       "name": "ligne 12",
       "stations": [
         {
+          "id": "IDFM:72524",
           "name": "Mairie d'Aubervilliers",
+          "position": [
+            2.3805858588157554,
+            48.91422832760932
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2922,7 +4004,12 @@
           }
         },
         {
+          "id": "IDFM:72491",
           "name": "Aimé Césaire",
+          "position": [
+            2.3777509654431186,
+            48.90826024316105
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2935,7 +4022,12 @@
           }
         },
         {
+          "id": "IDFM:74041",
           "name": "Front Populaire",
+          "position": [
+            2.365643446765684,
+            48.906542009304765
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2947,7 +4039,12 @@
           }
         },
         {
+          "id": "IDFM:72064",
           "name": "Porte de la Chapelle",
+          "position": [
+            2.3591979829833956,
+            48.89763147802292
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -2968,7 +4065,12 @@
           }
         },
         {
+          "id": "IDFM:71510",
           "name": "Marx Dormoy",
+          "position": [
+            2.3596404262414667,
+            48.890493244316794
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -2983,7 +4085,12 @@
           }
         },
         {
+          "id": "IDFM:71511",
           "name": "Marcadet - Poissonniers",
+          "position": [
+            2.3502735372703913,
+            48.89138257895435
+          ],
           "correspondance": {
             "metro": [
               "ligne 4"
@@ -3002,7 +4109,12 @@
           }
         },
         {
+          "id": "IDFM:71521",
           "name": "Jules Joffrin",
+          "position": [
+            2.3446733099971144,
+            48.89259762416229
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3017,7 +4129,12 @@
           }
         },
         {
+          "id": "IDFM:71492",
           "name": "Lamarck - Caulaincourt",
+          "position": [
+            2.3396790610076796,
+            48.88956644668994
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3029,7 +4146,12 @@
           }
         },
         {
+          "id": "IDFM:71432",
           "name": "Abbesses",
+          "position": [
+            2.338228264699696,
+            48.884607637679835
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3040,7 +4162,12 @@
           }
         },
         {
+          "id": "IDFM:71409",
           "name": "Pigalle",
+          "position": [
+            2.337343281109085,
+            48.88235441614312
+          ],
           "correspondance": {
             "metro": [
               "ligne 2"
@@ -3057,7 +4184,12 @@
           }
         },
         {
+          "id": "IDFM:71366",
           "name": "Saint-Georges",
+          "position": [
+            2.337539769035678,
+            48.87869971450386
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3069,7 +4201,12 @@
           }
         },
         {
+          "id": "IDFM:71350",
           "name": "Notre-Dame-de-Lorette",
+          "position": [
+            2.337916634442789,
+            48.87586889279014
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3085,7 +4222,12 @@
           }
         },
         {
+          "id": "IDFM:71355",
           "name": "Trinité - d'Estienne d'Orves",
+          "position": [
+            2.33205844561569,
+            48.876573804419024
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3100,7 +4242,12 @@
           }
         },
         {
+          "id": "IDFM:71370",
           "name": "Gare Saint-Lazare",
+          "position": [
+            2.325351594334675,
+            48.875942631522264
+          ],
           "correspondance": {
             "metro": [
               "ligne 13",
@@ -3146,7 +4293,12 @@
           }
         },
         {
+          "id": "IDFM:71324",
           "name": "Madeleine",
+          "position": [
+            2.3250135681878303,
+            48.869937628240834
+          ],
           "correspondance": {
             "metro": [
               "ligne 14",
@@ -3164,7 +4316,12 @@
           }
         },
         {
+          "id": "IDFM:71298",
           "name": "Concorde",
+          "position": [
+            2.321675919601415,
+            48.865565929741614
+          ],
           "correspondance": {
             "metro": [
               "ligne 1",
@@ -3185,7 +4342,12 @@
           }
         },
         {
+          "id": "IDFM:73642",
           "name": "Assemblée Nationale",
+          "position": [
+            2.3208836888649578,
+            48.86150537509582
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3203,7 +4365,12 @@
           }
         },
         {
+          "id": "IDFM:71270",
           "name": "Solférino",
+          "position": [
+            2.323244397611488,
+            48.858681295529145
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3221,7 +4388,12 @@
           }
         },
         {
+          "id": "IDFM:71227",
           "name": "Rue du Bac",
+          "position": [
+            2.3257925610724497,
+            48.856096548848335
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3238,7 +4410,12 @@
           }
         },
         {
+          "id": "IDFM:71203",
           "name": "Sèvres - Babylone",
+          "position": [
+            2.326961924012207,
+            48.85156138487256
+          ],
           "correspondance": {
             "metro": [
               "ligne 10"
@@ -3257,7 +4434,12 @@
           }
         },
         {
+          "id": "IDFM:73640",
           "name": "Rennes",
+          "position": [
+            2.3283213627340222,
+            48.848650605150944
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3278,7 +4460,12 @@
           }
         },
         {
+          "id": "IDFM:71138",
           "name": "Notre-Dame-des-Champs",
+          "position": [
+            2.3287510292962232,
+            48.844916170203646
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3291,7 +4478,12 @@
           }
         },
         {
+          "id": "IDFM:71139",
           "name": "Gare Montparnasse",
+          "position": [
+            2.319342991047202,
+            48.84067243107856
+          ],
           "correspondance": {
             "metro": [
               "ligne 13",
@@ -3331,7 +4523,12 @@
           }
         },
         {
+          "id": "IDFM:73641",
           "name": "Falguière",
+          "position": [
+            2.3173864588147706,
+            48.84545443887064
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3345,7 +4542,12 @@
           }
         },
         {
+          "id": "IDFM:71125",
           "name": "Pasteur",
+          "position": [
+            2.312520692327382,
+            48.8424406851028
+          ],
           "correspondance": {
             "metro": [
               "ligne 6"
@@ -3362,7 +4564,12 @@
           }
         },
         {
+          "id": "IDFM:71113",
           "name": "Volontaires",
+          "position": [
+            2.3080842500043595,
+            48.84151124233301
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3378,7 +4585,12 @@
           }
         },
         {
+          "id": "IDFM:71091",
           "name": "Vaugirard",
+          "position": [
+            2.3008908887652866,
+            48.84043064844705
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3395,7 +4607,12 @@
           }
         },
         {
+          "id": "IDFM:71075",
           "name": "Convention",
+          "position": [
+            2.297294906137799,
+            48.83732023959481
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3411,7 +4628,12 @@
           }
         },
         {
+          "id": "IDFM:71045",
           "name": "Porte de Versailles",
+          "position": [
+            2.287799445023973,
+            48.83278069559856
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -3426,7 +4648,12 @@
           }
         },
         {
+          "id": "IDFM:70990",
           "name": "Corentin Celton",
+          "position": [
+            2.2790851950948383,
+            48.82703091593385
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3441,7 +4668,12 @@
           }
         },
         {
+          "id": "IDFM:70671",
           "name": "Mairie d'Issy",
+          "position": [
+            2.2736366921941396,
+            48.824574107789964
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3463,11 +4695,17 @@
       "color": "#00643C"
     },
     {
+      "id": "IDFM:C01383",
       "type": "metro",
       "name": "ligne 13",
       "stations": [
         {
+          "id": "IDFM:72358",
           "name": "Saint-Denis - Université",
+          "position": [
+            2.364505525118904,
+            48.946109359265456
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3485,7 +4723,12 @@
           }
         },
         {
+          "id": "IDFM:72326",
           "name": "Basilique de Saint-Denis",
+          "position": [
+            2.3600074774079762,
+            48.93774460502899
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -3501,7 +4744,12 @@
           }
         },
         {
+          "id": "IDFM:72285",
           "name": "Saint-Denis - Porte de Paris",
+          "position": [
+            2.3563539039278965,
+            48.92963594957094
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -3521,7 +4769,12 @@
           }
         },
         {
+          "id": "IDFM:72217",
           "name": "Carrefour Pleyel",
+          "position": [
+            2.3434408586388535,
+            48.91948928288773
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3536,7 +4789,12 @@
           }
         },
         {
+          "id": "IDFM:72168",
           "name": "Mairie de Saint-Ouen",
+          "position": [
+            2.334284945557004,
+            48.91252311011162
+          ],
           "correspondance": {
             "metro": [
               "ligne 14"
@@ -3558,7 +4816,12 @@
           }
         },
         {
+          "id": "IDFM:72128",
           "name": "Garibaldi",
+          "position": [
+            2.331925149706413,
+            48.906097892986054
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3573,7 +4836,12 @@
           }
         },
         {
+          "id": "IDFM:72078",
           "name": "Porte de Saint-Ouen",
+          "position": [
+            2.329250609553739,
+            48.897678834343054
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -3588,7 +4856,12 @@
           }
         },
         {
+          "id": "IDFM:71528",
           "name": "Guy Môquet",
+          "position": [
+            2.32749205217676,
+            48.89284860718066
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3601,7 +4874,12 @@
           }
         },
         {
+          "id": "IDFM:71474",
           "name": "La Fourche",
+          "position": [
+            2.325399430830626,
+            48.88751282465547
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3616,7 +4894,12 @@
           }
         },
         {
+          "id": "IDFM:71435",
           "name": "Place de Clichy",
+          "position": [
+            2.3284922316648795,
+            48.88403631400503
+          ],
           "correspondance": {
             "metro": [
               "ligne 2"
@@ -3639,7 +4922,12 @@
           }
         },
         {
+          "id": "IDFM:71382",
           "name": "Liège",
+          "position": [
+            2.328180571460079,
+            48.879654813413545
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3652,7 +4940,12 @@
           }
         },
         {
+          "id": "IDFM:71370",
           "name": "Gare Saint-Lazare",
+          "position": [
+            2.325351594334675,
+            48.875942631522264
+          ],
           "correspondance": {
             "metro": [
               "ligne 12",
@@ -3698,7 +4991,12 @@
           }
         },
         {
+          "id": "IDFM:71346",
           "name": "Miromesnil",
+          "position": [
+            2.3145874437246032,
+            48.87385347157552
+          ],
           "correspondance": {
             "metro": [
               "ligne 9"
@@ -3721,7 +5019,12 @@
           }
         },
         {
+          "id": "IDFM:71305",
           "name": "Champs-Élysées - Clemenceau",
+          "position": [
+            2.31366529702459,
+            48.86778661381369
+          ],
           "correspondance": {
             "metro": [
               "ligne 1"
@@ -3738,7 +5041,12 @@
           }
         },
         {
+          "id": "IDFM:71274",
           "name": "Invalides",
+          "position": [
+            2.313775847715638,
+            48.86146482876898
+          ],
           "correspondance": {
             "metro": [
               "ligne 8"
@@ -3756,7 +5064,12 @@
           }
         },
         {
+          "id": "IDFM:71232",
           "name": "Varenne",
+          "position": [
+            2.3150079185348305,
+            48.856395040459304
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3765,7 +5078,12 @@
           }
         },
         {
+          "id": "IDFM:71204",
           "name": "Saint-François-Xavier",
+          "position": [
+            2.3143529548883706,
+            48.8512739486678
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3778,7 +5096,12 @@
           }
         },
         {
+          "id": "IDFM:71159",
           "name": "Duroc",
+          "position": [
+            2.3159256625249243,
+            48.847222336748466
+          ],
           "correspondance": {
             "metro": [
               "ligne 10"
@@ -3796,7 +5119,12 @@
           }
         },
         {
+          "id": "IDFM:71139",
           "name": "Gare Montparnasse",
+          "position": [
+            2.319342991047202,
+            48.84067243107856
+          ],
           "correspondance": {
             "metro": [
               "ligne 12",
@@ -3836,7 +5164,12 @@
           }
         },
         {
+          "id": "IDFM:73675",
           "name": "Gaîté",
+          "position": [
+            2.322325665939697,
+            48.83814818964033
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3852,7 +5185,12 @@
           }
         },
         {
+          "id": "IDFM:412687",
           "name": "Pernety",
+          "position": [
+            2.319243937083795,
+            48.83313018761141
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3865,7 +5203,12 @@
           }
         },
         {
+          "id": "IDFM:71039",
           "name": "Plaisance",
+          "position": [
+            2.3143037907166617,
+            48.831707936663335
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3878,7 +5221,12 @@
           }
         },
         {
+          "id": "IDFM:71006",
           "name": "Porte de Vanves",
+          "position": [
+            2.305443566618193,
+            48.8269980349395
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -3896,7 +5244,12 @@
           }
         },
         {
+          "id": "IDFM:73766",
           "name": "Malakoff - Plateau de Vanves",
+          "position": [
+            2.2988628583970145,
+            48.822548165690456
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3907,7 +5260,12 @@
           }
         },
         {
+          "id": "IDFM:70562",
           "name": "Malakoff - Rue Étienne Dolet",
+          "position": [
+            2.2966523149053093,
+            48.81476897726171
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3921,7 +5279,12 @@
           }
         },
         {
+          "id": "IDFM:461505",
           "name": "Châtillon - Montrouge",
+          "position": [
+            2.3026794607873935,
+            48.810622111384355
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -3945,11 +5308,17 @@
       "color": "#82C8E6"
     },
     {
+      "id": "IDFM:C01384",
       "type": "metro",
       "name": "ligne 14",
       "stations": [
         {
+          "id": "IDFM:63284",
           "name": "Aéroport d’Orly (Terminaux 1-2-3)",
+          "position": [
+            2.3610573306937104,
+            48.728894332702176
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -3969,7 +5338,12 @@
           }
         },
         {
+          "id": "IDFM:69677",
           "name": "Thiais - Orly (Pont de Rungis)",
+          "position": [
+            2.3716721518865116,
+            48.747281339706916
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -3987,7 +5361,12 @@
           }
         },
         {
+          "id": "IDFM:73753",
           "name": "Chevilly-Larue (Marché International)",
+          "position": [
+            2.367037614361141,
+            48.75934972348831
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -4008,7 +5387,12 @@
           }
         },
         {
+          "id": "IDFM:69974",
           "name": "L'Haÿ-les-Roses",
+          "position": [
+            2.3536375843078448,
+            48.775845306167334
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4020,7 +5404,12 @@
           }
         },
         {
+          "id": "IDFM:478860",
           "name": "Villejuif - Gustave Roussy",
+          "position": [
+            2.348840582572321,
+            48.79330376910499
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4032,7 +5421,12 @@
           }
         },
         {
+          "id": "IDFM:70445",
           "name": "Hôpital Bicêtre",
+          "position": [
+            2.350097572103361,
+            48.8104171092843
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4045,7 +5439,12 @@
           }
         },
         {
+          "id": "IDFM:70645",
           "name": "Maison Blanche",
+          "position": [
+            2.3586768341654425,
+            48.82201151799757
+          ],
           "correspondance": {
             "metro": [
               "ligne 7"
@@ -4062,7 +5461,12 @@
           }
         },
         {
+          "id": "IDFM:71557",
           "name": "Olympiades",
+          "position": [
+            2.3675520198181905,
+            48.82693340454113
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4075,7 +5479,12 @@
           }
         },
         {
+          "id": "IDFM:71572",
           "name": "Bibliothèque François Mitterrand",
+          "position": [
+            2.376726373626266,
+            48.82976062816677
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4095,7 +5504,12 @@
           }
         },
         {
+          "id": "IDFM:71576",
           "name": "Cour Saint-Emilion",
+          "position": [
+            2.3865612183879477,
+            48.83326954822598
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4104,7 +5518,12 @@
           }
         },
         {
+          "id": "IDFM:71607",
           "name": "Bercy",
+          "position": [
+            2.3812821470487995,
+            48.839016279762596
+          ],
           "correspondance": {
             "metro": [
               "ligne 6"
@@ -4125,7 +5544,12 @@
           }
         },
         {
+          "id": "IDFM:73626",
           "name": "Gare de Lyon",
+          "position": [
+            2.3751457799393743,
+            48.84456941572047
+          ],
           "correspondance": {
             "metro": [
               "ligne 1"
@@ -4166,7 +5590,12 @@
           }
         },
         {
+          "id": "IDFM:71264",
           "name": "Châtelet",
+          "position": [
+            2.348491031653374,
+            48.85835374843885
+          ],
           "correspondance": {
             "metro": [
               "ligne 1",
@@ -4206,7 +5635,12 @@
           }
         },
         {
+          "id": "IDFM:73788",
           "name": "Pyramides",
+          "position": [
+            2.3341730775971237,
+            48.86634209294821
+          ],
           "correspondance": {
             "metro": [
               "ligne 7"
@@ -4222,7 +5656,12 @@
           }
         },
         {
+          "id": "IDFM:71324",
           "name": "Madeleine",
+          "position": [
+            2.3250135681878303,
+            48.869937628240834
+          ],
           "correspondance": {
             "metro": [
               "ligne 12",
@@ -4240,7 +5679,12 @@
           }
         },
         {
+          "id": "IDFM:71370",
           "name": "Gare Saint-Lazare",
+          "position": [
+            2.325351594334675,
+            48.875942631522264
+          ],
           "correspondance": {
             "metro": [
               "ligne 12",
@@ -4286,7 +5730,12 @@
           }
         },
         {
+          "id": "IDFM:71475",
           "name": "Pont Cardinet",
+          "position": [
+            2.315061435598804,
+            48.88809265718686
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4305,7 +5754,12 @@
           }
         },
         {
+          "id": "IDFM:71545",
           "name": "Porte de Clichy",
+          "position": [
+            2.313811250330742,
+            48.8944797112822
+          ],
           "correspondance": {
             "metro": [
               "ligne 13"
@@ -4327,7 +5781,12 @@
           }
         },
         {
+          "id": "IDFM:72126",
           "name": "Saint-Ouen",
+          "position": [
+            2.3206691446014895,
+            48.904092064398235
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4343,7 +5802,12 @@
           }
         },
         {
+          "id": "IDFM:72168",
           "name": "Mairie de Saint-Ouen",
+          "position": [
+            2.334284945557004,
+            48.91252311011162
+          ],
           "correspondance": {
             "metro": [
               "ligne 13"
@@ -4365,7 +5829,12 @@
           }
         },
         {
+          "id": "IDFM:490784",
           "name": "Saint-Denis - Pleyel",
+          "position": [
+            2.3450114763655767,
+            48.917213654096166
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4382,11 +5851,17 @@
       "color": "#640082"
     },
     {
+      "id": "IDFM:C01372",
       "type": "metro",
       "name": "ligne 2",
       "stations": [
         {
+          "id": "IDFM:474152",
           "name": "Porte Dauphine",
+          "position": [
+            2.276084338825033,
+            48.87097823798126
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -4400,7 +5875,12 @@
           }
         },
         {
+          "id": "IDFM:71315",
           "name": "Victor Hugo",
+          "position": [
+            2.2852695426422143,
+            48.8697473717344
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4412,7 +5892,12 @@
           }
         },
         {
+          "id": "IDFM:71347",
           "name": "Charles de Gaulle - Étoile",
+          "position": [
+            2.2955859602211413,
+            48.87354530730615
+          ],
           "correspondance": {
             "metro": [
               "ligne 1",
@@ -4438,7 +5923,12 @@
           }
         },
         {
+          "id": "IDFM:71367",
           "name": "Ternes",
+          "position": [
+            2.29814025359363,
+            48.878250372427516
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4451,7 +5941,12 @@
           }
         },
         {
+          "id": "IDFM:71376",
           "name": "Courcelles",
+          "position": [
+            2.303200306302588,
+            48.8791612828857
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4463,7 +5958,12 @@
           }
         },
         {
+          "id": "IDFM:73671",
           "name": "Monceau",
+          "position": [
+            2.3089440054773767,
+            48.880458144643214
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4474,7 +5974,12 @@
           }
         },
         {
+          "id": "IDFM:71403",
           "name": "Villiers",
+          "position": [
+            2.3155842101583417,
+            48.88152153069055
+          ],
           "correspondance": {
             "metro": [
               "ligne 3"
@@ -4489,7 +5994,12 @@
           }
         },
         {
+          "id": "IDFM:71408",
           "name": "Rome",
+          "position": [
+            2.320703831767569,
+            48.8820947855925
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4503,7 +6013,12 @@
           }
         },
         {
+          "id": "IDFM:71435",
           "name": "Place de Clichy",
+          "position": [
+            2.3284922316648795,
+            48.88403631400503
+          ],
           "correspondance": {
             "metro": [
               "ligne 13"
@@ -4526,7 +6041,12 @@
           }
         },
         {
+          "id": "IDFM:71420",
           "name": "Blanche",
+          "position": [
+            2.3326102064601364,
+            48.883524236583995
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4542,7 +6062,12 @@
           }
         },
         {
+          "id": "IDFM:71409",
           "name": "Pigalle",
+          "position": [
+            2.337343281109085,
+            48.88235441614312
+          ],
           "correspondance": {
             "metro": [
               "ligne 12"
@@ -4559,7 +6084,12 @@
           }
         },
         {
+          "id": "IDFM:71419",
           "name": "Anvers",
+          "position": [
+            2.344134387443545,
+            48.88286845680266
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4572,7 +6102,12 @@
           }
         },
         {
+          "id": "IDFM:71426",
           "name": "Barbès - Rochechouart",
+          "position": [
+            2.349754642627376,
+            48.88378944954332
+          ],
           "correspondance": {
             "metro": [
               "ligne 4"
@@ -4593,7 +6128,12 @@
           }
         },
         {
+          "id": "IDFM:71434",
           "name": "La Chapelle",
+          "position": [
+            2.3604444136425804,
+            48.88444058549895
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4611,7 +6151,12 @@
           }
         },
         {
+          "id": "IDFM:71961",
           "name": "Stalingrad",
+          "position": [
+            2.3669741254612737,
+            48.884061596624164
+          ],
           "correspondance": {
             "metro": [
               "ligne 5",
@@ -4630,7 +6175,12 @@
           }
         },
         {
+          "id": "IDFM:71940",
           "name": "Jaurès",
+          "position": [
+            2.370791254786869,
+            48.88245843109808
+          ],
           "correspondance": {
             "metro": [
               "ligne 5",
@@ -4650,7 +6200,12 @@
           }
         },
         {
+          "id": "IDFM:71893",
           "name": "Colonel Fabien",
+          "position": [
+            2.37050679184217,
+            48.87778941125399
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4663,7 +6218,12 @@
           }
         },
         {
+          "id": "IDFM:71853",
           "name": "Belleville",
+          "position": [
+            2.377072057241327,
+            48.872081506275414
+          ],
           "correspondance": {
             "metro": [
               "ligne 11"
@@ -4680,7 +6240,12 @@
           }
         },
         {
+          "id": "IDFM:71834",
           "name": "Couronnes",
+          "position": [
+            2.3805857167861584,
+            48.868956556425495
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4696,7 +6261,12 @@
           }
         },
         {
+          "id": "IDFM:71815",
           "name": "Ménilmontant",
+          "position": [
+            2.383426203456212,
+            48.86681280848364
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4712,7 +6282,12 @@
           }
         },
         {
+          "id": "IDFM:71787",
           "name": "Père Lachaise",
+          "position": [
+            2.387366642053465,
+            48.86268708031447
+          ],
           "correspondance": {
             "metro": [
               "ligne 3"
@@ -4730,7 +6305,12 @@
           }
         },
         {
+          "id": "IDFM:71751",
           "name": "Philippe Auguste",
+          "position": [
+            2.390263446486178,
+            48.85800729410263
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4741,7 +6321,12 @@
           }
         },
         {
+          "id": "IDFM:71728",
           "name": "Alexandre Dumas",
+          "position": [
+            2.394318694907607,
+            48.85621120743892
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4752,7 +6337,12 @@
           }
         },
         {
+          "id": "IDFM:71697",
           "name": "Avron",
+          "position": [
+            2.3984560893388505,
+            48.85140707005263
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4763,7 +6353,12 @@
           }
         },
         {
+          "id": "IDFM:71673",
           "name": "Nation",
+          "position": [
+            2.3963326474955293,
+            48.848837716955956
+          ],
           "correspondance": {
             "metro": [
               "ligne 1",
@@ -4788,11 +6383,17 @@
       "color": "#0055C8"
     },
     {
+      "id": "IDFM:C01373",
       "type": "metro",
       "name": "ligne 3",
       "stations": [
         {
+          "id": "IDFM:71450",
           "name": "Porte de Champerret",
+          "position": [
+            2.292973355963153,
+            48.885724929783194
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -4811,7 +6412,12 @@
           }
         },
         {
+          "id": "IDFM:71453",
           "name": "Péreire Levallois",
+          "position": [
+            2.297399832075865,
+            48.88512595030771
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4829,7 +6435,12 @@
           }
         },
         {
+          "id": "IDFM:71423",
           "name": "Wagram",
+          "position": [
+            2.3039946988656568,
+            48.88348721213494
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4841,7 +6452,12 @@
           }
         },
         {
+          "id": "IDFM:71416",
           "name": "Malesherbes",
+          "position": [
+            2.3093210800890596,
+            48.88287053732094
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4850,7 +6466,12 @@
           }
         },
         {
+          "id": "IDFM:71403",
           "name": "Villiers",
+          "position": [
+            2.3155842101583417,
+            48.88152153069055
+          ],
           "correspondance": {
             "metro": [
               "ligne 2"
@@ -4865,7 +6486,12 @@
           }
         },
         {
+          "id": "IDFM:73617",
           "name": "Europe",
+          "position": [
+            2.3229011862490134,
+            48.87879768179647
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4886,7 +6512,12 @@
           }
         },
         {
+          "id": "IDFM:71370",
           "name": "Gare Saint-Lazare",
+          "position": [
+            2.325351594334675,
+            48.875942631522264
+          ],
           "correspondance": {
             "metro": [
               "ligne 12",
@@ -4932,7 +6563,12 @@
           }
         },
         {
+          "id": "IDFM:482368",
           "name": "Havre - Caumartin",
+          "position": [
+            2.3271544966132858,
+            48.87357402758874
+          ],
           "correspondance": {
             "metro": [
               "ligne 9"
@@ -4955,7 +6591,12 @@
           }
         },
         {
+          "id": "IDFM:71337",
           "name": "Opéra",
+          "position": [
+            2.331888034563735,
+            48.87125775980426
+          ],
           "correspondance": {
             "metro": [
               "ligne 7",
@@ -4980,7 +6621,12 @@
           }
         },
         {
+          "id": "IDFM:71313",
           "name": "Quatre Septembre",
+          "position": [
+            2.3377299689559874,
+            48.86963993389458
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -4997,7 +6643,12 @@
           }
         },
         {
+          "id": "IDFM:73635",
           "name": "Bourse",
+          "position": [
+            2.3407473307833064,
+            48.868743758980536
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5014,7 +6665,12 @@
           }
         },
         {
+          "id": "IDFM:73634",
           "name": "Sentier",
+          "position": [
+            2.3466459313534656,
+            48.867454069617565
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5026,7 +6682,12 @@
           }
         },
         {
+          "id": "IDFM:73636",
           "name": "Réaumur - Sébastopol",
+          "position": [
+            2.351856718715776,
+            48.866092916070166
+          ],
           "correspondance": {
             "metro": [
               "ligne 4"
@@ -5045,7 +6706,12 @@
           }
         },
         {
+          "id": "IDFM:71293",
           "name": "Arts et Métiers",
+          "position": [
+            2.3571323317470423,
+            48.86553230056115
+          ],
           "correspondance": {
             "metro": [
               "ligne 11"
@@ -5061,7 +6727,12 @@
           }
         },
         {
+          "id": "IDFM:71296",
           "name": "Temple",
+          "position": [
+            2.3613263844149426,
+            48.86645409771216
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5075,7 +6746,12 @@
           }
         },
         {
+          "id": "IDFM:71311",
           "name": "République",
+          "position": [
+            2.3641535175879786,
+            48.86769225425708
+          ],
           "correspondance": {
             "metro": [
               "ligne 11",
@@ -5100,7 +6776,12 @@
           }
         },
         {
+          "id": "IDFM:71801",
           "name": "Parmentier",
+          "position": [
+            2.374504790575915,
+            48.86563334660995
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5115,7 +6796,12 @@
           }
         },
         {
+          "id": "IDFM:71795",
           "name": "Rue Saint-Maur",
+          "position": [
+            2.3799741218132193,
+            48.86421836194402
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5124,7 +6810,12 @@
           }
         },
         {
+          "id": "IDFM:71787",
           "name": "Père Lachaise",
+          "position": [
+            2.387366642053465,
+            48.86268708031447
+          ],
           "correspondance": {
             "metro": [
               "ligne 2"
@@ -5142,7 +6833,12 @@
           }
         },
         {
+          "id": "IDFM:71808",
           "name": "Gambetta",
+          "position": [
+            2.3986801681736405,
+            48.865055765835464
+          ],
           "correspondance": {
             "metro": [
               "ligne 3B"
@@ -5163,7 +6859,12 @@
           }
         },
         {
+          "id": "IDFM:71799",
           "name": "Porte de Bagnolet",
+          "position": [
+            2.4092157025109944,
+            48.86399305542616
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -5183,7 +6884,12 @@
           }
         },
         {
+          "id": "IDFM:71817",
           "name": "Gallieni",
+          "position": [
+            2.416719818042584,
+            48.864988091832906
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5202,11 +6908,17 @@
       "color": "#6E6E00"
     },
     {
+      "id": "IDFM:C01386",
       "type": "metro",
       "name": "ligne 3B",
       "stations": [
         {
+          "id": "IDFM:71808",
           "name": "Gambetta",
+          "position": [
+            2.3986801681736405,
+            48.865055765835464
+          ],
           "correspondance": {
             "metro": [
               "ligne 3"
@@ -5227,7 +6939,12 @@
           }
         },
         {
+          "id": "IDFM:71828",
           "name": "Pelleport",
+          "position": [
+            2.4014435576736393,
+            48.86835220456264
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5244,7 +6961,12 @@
           }
         },
         {
+          "id": "IDFM:71860",
           "name": "Saint-Fargeau",
+          "position": [
+            2.404409520802737,
+            48.87184742776555
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5257,7 +6979,12 @@
           }
         },
         {
+          "id": "IDFM:71889",
           "name": "Porte des Lilas",
+          "position": [
+            2.4082282894845704,
+            48.8771184656046
+          ],
           "correspondance": {
             "metro": [
               "ligne 11"
@@ -5285,11 +7012,17 @@
       "color": "#82C8E6"
     },
     {
+      "id": "IDFM:C01374",
       "type": "metro",
       "name": "ligne 4",
       "stations": [
         {
+          "id": "IDFM:70657",
           "name": "Porte d'Orléans",
+          "position": [
+            2.325567466692253,
+            48.82241845693561
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -5325,7 +7058,12 @@
           }
         },
         {
+          "id": "IDFM:71030",
           "name": "Alésia",
+          "position": [
+            2.326847942004922,
+            48.828208677561626
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5343,7 +7081,12 @@
           }
         },
         {
+          "id": "IDFM:73653",
           "name": "Mouton-Duvernet",
+          "position": [
+            2.329772805749866,
+            48.83115706736058
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5357,7 +7100,12 @@
           }
         },
         {
+          "id": "IDFM:71056",
           "name": "Denfert-Rochereau",
+          "position": [
+            2.332768069685228,
+            48.83395287656148
+          ],
           "correspondance": {
             "metro": [
               "ligne 6"
@@ -5379,7 +7127,12 @@
           }
         },
         {
+          "id": "IDFM:71088",
           "name": "Raspail",
+          "position": [
+            2.3306488959684195,
+            48.838784140035365
+          ],
           "correspondance": {
             "metro": [
               "ligne 6"
@@ -5392,7 +7145,12 @@
           }
         },
         {
+          "id": "IDFM:71117",
           "name": "Vavin",
+          "position": [
+            2.329260107356068,
+            48.841888168772634
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5408,7 +7166,12 @@
           }
         },
         {
+          "id": "IDFM:71139",
           "name": "Gare Montparnasse",
+          "position": [
+            2.319342991047202,
+            48.84067243107856
+          ],
           "correspondance": {
             "metro": [
               "ligne 12",
@@ -5448,7 +7211,12 @@
           }
         },
         {
+          "id": "IDFM:71184",
           "name": "Saint-Placide",
+          "position": [
+            2.326635899713811,
+            48.84673448609149
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5467,7 +7235,12 @@
           }
         },
         {
+          "id": "IDFM:71202",
           "name": "Saint-Sulpice",
+          "position": [
+            2.3319848170653725,
+            48.851486107532125
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5488,7 +7261,12 @@
           }
         },
         {
+          "id": "IDFM:71216",
           "name": "Saint-Germain-des-Prés",
+          "position": [
+            2.3334243570371873,
+            48.85347721656853
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5509,7 +7287,12 @@
           }
         },
         {
+          "id": "IDFM:73618",
           "name": "Odéon",
+          "position": [
+            2.33964909087104,
+            48.852140214714126
+          ],
           "correspondance": {
             "metro": [
               "ligne 10"
@@ -5529,7 +7312,12 @@
           }
         },
         {
+          "id": "IDFM:73620",
           "name": "Saint-Michel Notre-Dame",
+          "position": [
+            2.3442552503120875,
+            48.85323577985779
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5552,7 +7340,12 @@
           }
         },
         {
+          "id": "IDFM:71223",
           "name": "Cité",
+          "position": [
+            2.3469478462543782,
+            48.85533251026324
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5575,7 +7368,12 @@
           }
         },
         {
+          "id": "IDFM:71264",
           "name": "Châtelet",
+          "position": [
+            2.348491031653374,
+            48.85835374843885
+          ],
           "correspondance": {
             "metro": [
               "ligne 1",
@@ -5615,7 +7413,12 @@
           }
         },
         {
+          "id": "IDFM:73794",
           "name": "Les Halles",
+          "position": [
+            2.345928231577985,
+            48.862728589107256
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5624,7 +7427,12 @@
           }
         },
         {
+          "id": "IDFM:479068",
           "name": "Étienne Marcel",
+          "position": [
+            2.3499446739974927,
+            48.86364981981673
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5640,7 +7448,12 @@
           }
         },
         {
+          "id": "IDFM:73636",
           "name": "Réaumur - Sébastopol",
+          "position": [
+            2.351856718715776,
+            48.866092916070166
+          ],
           "correspondance": {
             "metro": [
               "ligne 3"
@@ -5659,7 +7472,12 @@
           }
         },
         {
+          "id": "IDFM:73633",
           "name": "Strasbourg - Saint-Denis",
+          "position": [
+            2.3530172012436292,
+            48.869242395613824
+          ],
           "correspondance": {
             "metro": [
               "ligne 8",
@@ -5678,7 +7496,12 @@
           }
         },
         {
+          "id": "IDFM:71333",
           "name": "Château d'Eau",
+          "position": [
+            2.3565717222257883,
+            48.87229233055739
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5693,7 +7516,12 @@
           }
         },
         {
+          "id": "IDFM:71359",
           "name": "Gare de l'Est",
+          "position": [
+            2.358644807091585,
+            48.87720933215212
+          ],
           "correspondance": {
             "metro": [
               "ligne 5",
@@ -5736,7 +7564,12 @@
           }
         },
         {
+          "id": "IDFM:71410",
           "name": "Gare du Nord",
+          "position": [
+            2.355687439691836,
+            48.88095669783061
+          ],
           "correspondance": {
             "metro": [
               "ligne 5"
@@ -5769,7 +7602,12 @@
           }
         },
         {
+          "id": "IDFM:71426",
           "name": "Barbès - Rochechouart",
+          "position": [
+            2.349754642627376,
+            48.88378944954332
+          ],
           "correspondance": {
             "metro": [
               "ligne 2"
@@ -5790,7 +7628,12 @@
           }
         },
         {
+          "id": "IDFM:71469",
           "name": "Château Rouge",
+          "position": [
+            2.349579721479082,
+            48.887421784622255
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5804,7 +7647,12 @@
           }
         },
         {
+          "id": "IDFM:71511",
           "name": "Marcadet - Poissonniers",
+          "position": [
+            2.3502735372703913,
+            48.89138257895435
+          ],
           "correspondance": {
             "metro": [
               "ligne 12"
@@ -5823,7 +7671,12 @@
           }
         },
         {
+          "id": "IDFM:71556",
           "name": "Simplon",
+          "position": [
+            2.346811317659651,
+            48.8950329772659
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5837,7 +7690,12 @@
           }
         },
         {
+          "id": "IDFM:478883",
           "name": "Porte de Clignancourt",
+          "position": [
+            2.3451622535485326,
+            48.89818274359901
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -5860,11 +7718,17 @@
       "color": "#A0006E"
     },
     {
+      "id": "IDFM:C01375",
       "type": "metro",
       "name": "ligne 5",
       "stations": [
         {
+          "id": "IDFM:71063",
           "name": "Campo-Formio",
+          "position": [
+            2.358703750405518,
+            48.83587999169447
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5876,7 +7740,12 @@
           }
         },
         {
+          "id": "IDFM:71092",
           "name": "Saint-Marcel",
+          "position": [
+            2.3609465709574886,
+            48.83907575035707
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5892,7 +7761,12 @@
           }
         },
         {
+          "id": "IDFM:71135",
           "name": "Gare d'Austerlitz",
+          "position": [
+            2.3668334950792076,
+            48.84235421610177
+          ],
           "correspondance": {
             "metro": [
               "ligne 10"
@@ -5919,7 +7793,12 @@
           }
         },
         {
+          "id": "IDFM:71637",
           "name": "Quai de la Rapée",
+          "position": [
+            2.3677171032066013,
+            48.845892913210584
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5939,7 +7818,12 @@
           }
         },
         {
+          "id": "IDFM:463564",
           "name": "Bastille",
+          "position": [
+            2.368726105936876,
+            48.85258944629183
+          ],
           "correspondance": {
             "metro": [
               "ligne 1",
@@ -5962,7 +7846,12 @@
           }
         },
         {
+          "id": "IDFM:73621",
           "name": "Bréguet-Sabin",
+          "position": [
+            2.3702229035177056,
+            48.856163261805726
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5971,7 +7860,12 @@
           }
         },
         {
+          "id": "IDFM:73648",
           "name": "Richard-Lenoir",
+          "position": [
+            2.371607439001938,
+            48.858891070221716
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -5982,7 +7876,12 @@
           }
         },
         {
+          "id": "IDFM:71803",
           "name": "Oberkampf",
+          "position": [
+            2.3695528985943537,
+            48.8642283660879
+          ],
           "correspondance": {
             "metro": [
               "ligne 9"
@@ -5996,7 +7895,12 @@
           }
         },
         {
+          "id": "IDFM:71311",
           "name": "République",
+          "position": [
+            2.3641535175879786,
+            48.86769225425708
+          ],
           "correspondance": {
             "metro": [
               "ligne 11",
@@ -6021,7 +7925,12 @@
           }
         },
         {
+          "id": "IDFM:71322",
           "name": "Jacques Bonsergent",
+          "position": [
+            2.3608082117310687,
+            48.87091170003845
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6035,7 +7944,12 @@
           }
         },
         {
+          "id": "IDFM:71359",
           "name": "Gare de l'Est",
+          "position": [
+            2.358644807091585,
+            48.87720933215212
+          ],
           "correspondance": {
             "metro": [
               "ligne 4",
@@ -6078,7 +7992,12 @@
           }
         },
         {
+          "id": "IDFM:71410",
           "name": "Gare du Nord",
+          "position": [
+            2.355687439691836,
+            48.88095669783061
+          ],
           "correspondance": {
             "metro": [
               "ligne 4"
@@ -6111,7 +8030,12 @@
           }
         },
         {
+          "id": "IDFM:71961",
           "name": "Stalingrad",
+          "position": [
+            2.3669741254612737,
+            48.884061596624164
+          ],
           "correspondance": {
             "metro": [
               "ligne 2",
@@ -6130,7 +8054,12 @@
           }
         },
         {
+          "id": "IDFM:71940",
           "name": "Jaurès",
+          "position": [
+            2.370791254786869,
+            48.88245843109808
+          ],
           "correspondance": {
             "metro": [
               "ligne 2",
@@ -6150,7 +8079,12 @@
           }
         },
         {
+          "id": "IDFM:71957",
           "name": "Laumière",
+          "position": [
+            2.3796895517120946,
+            48.88483086655546
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6161,7 +8095,12 @@
           }
         },
         {
+          "id": "IDFM:71972",
           "name": "Ourcq",
+          "position": [
+            2.3871469927328595,
+            48.88715231174162
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6175,7 +8114,12 @@
           }
         },
         {
+          "id": "IDFM:71989",
           "name": "Porte de Pantin",
+          "position": [
+            2.394027727579697,
+            48.88884658098577
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -6193,7 +8137,12 @@
           }
         },
         {
+          "id": "IDFM:72004",
           "name": "Hoche",
+          "position": [
+            2.401949999647263,
+            48.89132806364068
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6208,7 +8157,12 @@
           }
         },
         {
+          "id": "IDFM:72024",
           "name": "Église de Pantin",
+          "position": [
+            2.4134761035853325,
+            48.89346699175861
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6223,7 +8177,12 @@
           }
         },
         {
+          "id": "IDFM:72039",
           "name": "Bobigny - Pantin - Raymond Queneau",
+          "position": [
+            2.426263820188867,
+            48.895340829348676
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6238,7 +8197,12 @@
           }
         },
         {
+          "id": "IDFM:72486",
           "name": "Bobigny - Pablo Picasso",
+          "position": [
+            2.448513114634325,
+            48.90723998786464
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -6266,11 +8230,17 @@
       "color": "#FF5A00"
     },
     {
+      "id": "IDFM:C01376",
       "type": "metro",
       "name": "ligne 6",
       "stations": [
         {
+          "id": "IDFM:71347",
           "name": "Charles de Gaulle - Étoile",
+          "position": [
+            2.2955859602211413,
+            48.87354530730615
+          ],
           "correspondance": {
             "metro": [
               "ligne 1",
@@ -6296,7 +8266,12 @@
           }
         },
         {
+          "id": "IDFM:73656",
           "name": "Kléber",
+          "position": [
+            2.2932648783320673,
+            48.87127876802819
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6305,7 +8280,12 @@
           }
         },
         {
+          "id": "IDFM:71301",
           "name": "Boissière",
+          "position": [
+            2.290158839553604,
+            48.867105405198515
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6319,7 +8299,12 @@
           }
         },
         {
+          "id": "IDFM:71285",
           "name": "Trocadéro",
+          "position": [
+            2.287223474647482,
+            48.8634455913546
+          ],
           "correspondance": {
             "metro": [
               "ligne 9"
@@ -6337,7 +8322,12 @@
           }
         },
         {
+          "id": "IDFM:71237",
           "name": "Passy",
+          "position": [
+            2.285371349647822,
+            48.857867542087384
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6349,7 +8339,12 @@
           }
         },
         {
+          "id": "IDFM:473829",
           "name": "Bir-Hakeim",
+          "position": [
+            2.289762954220385,
+            48.85414786198107
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6361,7 +8356,12 @@
           }
         },
         {
+          "id": "IDFM:71197",
           "name": "Dupleix",
+          "position": [
+            2.2925971594209917,
+            48.851178775596054
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6373,7 +8373,12 @@
           }
         },
         {
+          "id": "IDFM:71199",
           "name": "La Motte-Picquet - Grenelle",
+          "position": [
+            2.2984077121284154,
+            48.84918377697637
+          ],
           "correspondance": {
             "metro": [
               "ligne 10",
@@ -6388,7 +8393,12 @@
           }
         },
         {
+          "id": "IDFM:71167",
           "name": "Cambronne",
+          "position": [
+            2.301698037878076,
+            48.84781466221392
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6402,7 +8412,12 @@
           }
         },
         {
+          "id": "IDFM:71144",
           "name": "Sèvres-Lecourbe",
+          "position": [
+            2.3103523809078896,
+            48.84515328125336
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6419,7 +8434,12 @@
           }
         },
         {
+          "id": "IDFM:71125",
           "name": "Pasteur",
+          "position": [
+            2.312520692327382,
+            48.8424406851028
+          ],
           "correspondance": {
             "metro": [
               "ligne 12"
@@ -6436,7 +8456,12 @@
           }
         },
         {
+          "id": "IDFM:71139",
           "name": "Gare Montparnasse",
+          "position": [
+            2.319342991047202,
+            48.84067243107856
+          ],
           "correspondance": {
             "metro": [
               "ligne 12",
@@ -6476,7 +8501,12 @@
           }
         },
         {
+          "id": "IDFM:71108",
           "name": "Edgar Quinet",
+          "position": [
+            2.3255868962154276,
+            48.84092318253115
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6485,7 +8515,12 @@
           }
         },
         {
+          "id": "IDFM:71088",
           "name": "Raspail",
+          "position": [
+            2.3306488959684195,
+            48.838784140035365
+          ],
           "correspondance": {
             "metro": [
               "ligne 4"
@@ -6498,7 +8533,12 @@
           }
         },
         {
+          "id": "IDFM:71056",
           "name": "Denfert-Rochereau",
+          "position": [
+            2.332768069685228,
+            48.83395287656148
+          ],
           "correspondance": {
             "metro": [
               "ligne 4"
@@ -6520,7 +8560,12 @@
           }
         },
         {
+          "id": "IDFM:71041",
           "name": "Saint-Jacques",
+          "position": [
+            2.337125463269374,
+            48.832886815191124
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6529,7 +8574,12 @@
           }
         },
         {
+          "id": "IDFM:71026",
           "name": "Glacière",
+          "position": [
+            2.3438687884909264,
+            48.8308934672617
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6541,7 +8591,12 @@
           }
         },
         {
+          "id": "IDFM:71013",
           "name": "Corvisart",
+          "position": [
+            2.3490452140907094,
+            48.82981552503299
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6552,7 +8607,12 @@
           }
         },
         {
+          "id": "IDFM:71033",
           "name": "Place d'Italie",
+          "position": [
+            2.3558642657633815,
+            48.8313813779218
+          ],
           "correspondance": {
             "metro": [
               "ligne 5",
@@ -6577,7 +8637,12 @@
           }
         },
         {
+          "id": "IDFM:71043",
           "name": "Nationale",
+          "position": [
+            2.362667865096406,
+            48.83257283076859
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6591,7 +8656,12 @@
           }
         },
         {
+          "id": "IDFM:73651",
           "name": "Chevaleret",
+          "position": [
+            2.367707693401592,
+            48.83487566790488
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6602,7 +8672,12 @@
           }
         },
         {
+          "id": "IDFM:71597",
           "name": "Quai de la Gare",
+          "position": [
+            2.37326090526581,
+            48.83700941107376
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6619,7 +8694,12 @@
           }
         },
         {
+          "id": "IDFM:71607",
           "name": "Bercy",
+          "position": [
+            2.3812821470487995,
+            48.839016279762596
+          ],
           "correspondance": {
             "metro": [
               "ligne 14"
@@ -6640,7 +8720,12 @@
           }
         },
         {
+          "id": "IDFM:71606",
           "name": "Dugommier",
+          "position": [
+            2.388771773409719,
+            48.83877148531613
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6655,7 +8740,12 @@
           }
         },
         {
+          "id": "IDFM:71614",
           "name": "Daumesnil",
+          "position": [
+            2.395719004371989,
+            48.839472309769995
+          ],
           "correspondance": {
             "metro": [
               "ligne 8"
@@ -6672,7 +8762,12 @@
           }
         },
         {
+          "id": "IDFM:73650",
           "name": "Bel-Air",
+          "position": [
+            2.4010088455783483,
+            48.8415449585754
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6681,7 +8776,12 @@
           }
         },
         {
+          "id": "IDFM:71639",
           "name": "Picpus",
+          "position": [
+            2.402166703548908,
+            48.84513469069732
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6693,7 +8793,12 @@
           }
         },
         {
+          "id": "IDFM:71673",
           "name": "Nation",
+          "position": [
+            2.3963326474955293,
+            48.848837716955956
+          ],
           "correspondance": {
             "metro": [
               "ligne 1",
@@ -6718,11 +8823,17 @@
       "color": "#82DC73"
     },
     {
+      "id": "IDFM:C01377",
       "type": "metro",
       "name": "ligne 7",
       "stations": [
         {
+          "id": "IDFM:70143",
           "name": "Villejuif - Louis Aragon",
+          "position": [
+            2.366497079427331,
+            48.787637992956924
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -6743,7 +8854,12 @@
           }
         },
         {
+          "id": "IDFM:70248",
           "name": "Villejuif Paul Vaillant-Couturier",
+          "position": [
+            2.36765134973329,
+            48.79628285804868
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6758,7 +8874,12 @@
           }
         },
         {
+          "id": "IDFM:70375",
           "name": "Villejuif Léo Lagrange",
+          "position": [
+            2.3639027157317005,
+            48.80505904831141
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6772,7 +8893,12 @@
           }
         },
         {
+          "id": "IDFM:70452",
           "name": "Le Kremlin-Bicêtre",
+          "position": [
+            2.36218344915433,
+            48.810369776117064
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6788,7 +8914,12 @@
           }
         },
         {
+          "id": "IDFM:70645",
           "name": "Maison Blanche",
+          "position": [
+            2.3586768341654425,
+            48.82201151799757
+          ],
           "correspondance": {
             "metro": [
               "ligne 14"
@@ -6805,7 +8936,12 @@
           }
         },
         {
+          "id": "IDFM:71001",
           "name": "Tolbiac",
+          "position": [
+            2.3570290934509583,
+            48.82585200318776
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6820,7 +8956,12 @@
           }
         },
         {
+          "id": "IDFM:71033",
           "name": "Place d'Italie",
+          "position": [
+            2.3558642657633815,
+            48.8313813779218
+          ],
           "correspondance": {
             "metro": [
               "ligne 5",
@@ -6845,7 +8986,12 @@
           }
         },
         {
+          "id": "IDFM:71076",
           "name": "Les Gobelins",
+          "position": [
+            2.3515836627720326,
+            48.83655660385071
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6865,7 +9011,12 @@
           }
         },
         {
+          "id": "IDFM:71100",
           "name": "Censier - Daubenton",
+          "position": [
+            2.351742220181727,
+            48.84045621319383
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6879,7 +9030,12 @@
           }
         },
         {
+          "id": "IDFM:71133",
           "name": "Place Monge",
+          "position": [
+            2.352135848945632,
+            48.84314744143787
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6892,7 +9048,12 @@
           }
         },
         {
+          "id": "IDFM:71148",
           "name": "Jussieu",
+          "position": [
+            2.3546663051780934,
+            48.84616947973491
+          ],
           "correspondance": {
             "metro": [
               "ligne 10"
@@ -6906,7 +9067,12 @@
           }
         },
         {
+          "id": "IDFM:71201",
           "name": "Sully - Morland",
+          "position": [
+            2.3625979871213705,
+            48.85110000440534
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6920,7 +9086,12 @@
           }
         },
         {
+          "id": "IDFM:71217",
           "name": "Pont Marie (Cité des Arts)",
+          "position": [
+            2.356384677097186,
+            48.85379178700276
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6932,7 +9103,12 @@
           }
         },
         {
+          "id": "IDFM:71264",
           "name": "Châtelet",
+          "position": [
+            2.348491031653374,
+            48.85835374843885
+          ],
           "correspondance": {
             "metro": [
               "ligne 1",
@@ -6972,7 +9148,12 @@
           }
         },
         {
+          "id": "IDFM:71253",
           "name": "Pont Neuf",
+          "position": [
+            2.3430105472597145,
+            48.858998297777845
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -6995,7 +9176,12 @@
           }
         },
         {
+          "id": "IDFM:71297",
           "name": "Palais Royal - Musée du Louvre",
+          "position": [
+            2.336000628674303,
+            48.862530023999376
+          ],
           "correspondance": {
             "metro": [
               "ligne 1"
@@ -7017,7 +9203,12 @@
           }
         },
         {
+          "id": "IDFM:73788",
           "name": "Pyramides",
+          "position": [
+            2.3341730775971237,
+            48.86634209294821
+          ],
           "correspondance": {
             "metro": [
               "ligne 14"
@@ -7033,7 +9224,12 @@
           }
         },
         {
+          "id": "IDFM:71337",
           "name": "Opéra",
+          "position": [
+            2.331888034563735,
+            48.87125775980426
+          ],
           "correspondance": {
             "metro": [
               "ligne 3",
@@ -7058,7 +9254,12 @@
           }
         },
         {
+          "id": "IDFM:73689",
           "name": "Chaussée d'Antin - La Fayette",
+          "position": [
+            2.3332137022912565,
+            48.873666389956384
+          ],
           "correspondance": {
             "metro": [
               "ligne 9"
@@ -7073,7 +9274,12 @@
           }
         },
         {
+          "id": "IDFM:478885",
           "name": "Le Peletier",
+          "position": [
+            2.3396428499181225,
+            48.87467781169745
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7087,7 +9293,12 @@
           }
         },
         {
+          "id": "IDFM:71351",
           "name": "Cadet",
+          "position": [
+            2.343538211825432,
+            48.876075223258525
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7102,7 +9313,12 @@
           }
         },
         {
+          "id": "IDFM:71363",
           "name": "Poissonnière",
+          "position": [
+            2.3488649437227536,
+            48.87751177409279
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7113,7 +9329,12 @@
           }
         },
         {
+          "id": "IDFM:71359",
           "name": "Gare de l'Est",
+          "position": [
+            2.358644807091585,
+            48.87720933215212
+          ],
           "correspondance": {
             "metro": [
               "ligne 4",
@@ -7156,7 +9377,12 @@
           }
         },
         {
+          "id": "IDFM:474149",
           "name": "Château Landon",
+          "position": [
+            2.3625820870882213,
+            48.8796945331669
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7173,7 +9399,12 @@
           }
         },
         {
+          "id": "IDFM:71407",
           "name": "Louis Blanc",
+          "position": [
+            2.365252204189606,
+            48.881570333073654
+          ],
           "correspondance": {
             "metro": [
               "ligne 7B"
@@ -7192,7 +9423,12 @@
           }
         },
         {
+          "id": "IDFM:71961",
           "name": "Stalingrad",
+          "position": [
+            2.3669741254612737,
+            48.884061596624164
+          ],
           "correspondance": {
             "metro": [
               "ligne 2",
@@ -7211,7 +9447,12 @@
           }
         },
         {
+          "id": "IDFM:71977",
           "name": "Riquet",
+          "position": [
+            2.3739057158394337,
+            48.888243933351895
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7223,7 +9464,12 @@
           }
         },
         {
+          "id": "IDFM:72013",
           "name": "Crimée",
+          "position": [
+            2.37703855546864,
+            48.89084132782932
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7235,7 +9481,12 @@
           }
         },
         {
+          "id": "IDFM:72031",
           "name": "Corentin Cariou",
+          "position": [
+            2.3821114831047407,
+            48.8949055544676
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7248,7 +9499,12 @@
           }
         },
         {
+          "id": "IDFM:72430",
           "name": "Porte de la Villette",
+          "position": [
+            2.386213565562821,
+            48.89750318822357
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -7267,7 +9523,12 @@
           }
         },
         {
+          "id": "IDFM:72460",
           "name": "Aubervilliers - Pantin - Quatre Chemins",
+          "position": [
+            2.3922859424263963,
+            48.90370793006415
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7283,7 +9544,12 @@
           }
         },
         {
+          "id": "IDFM:73695",
           "name": "Fort d'Aubervilliers",
+          "position": [
+            2.4039997190547426,
+            48.91481023663181
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7301,7 +9567,12 @@
           }
         },
         {
+          "id": "IDFM:73696",
           "name": "La Courneuve - 8 Mai 1945",
+          "position": [
+            2.409931143159883,
+            48.9199700828327
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -7321,11 +9592,17 @@
       "color": "#FF82B4"
     },
     {
+      "id": "IDFM:C01387",
       "type": "metro",
       "name": "ligne 7B",
       "stations": [
         {
+          "id": "IDFM:71407",
           "name": "Louis Blanc",
+          "position": [
+            2.365252204189606,
+            48.881570333073654
+          ],
           "correspondance": {
             "metro": [
               "ligne 7"
@@ -7344,7 +9621,12 @@
           }
         },
         {
+          "id": "IDFM:71940",
           "name": "Jaurès",
+          "position": [
+            2.370791254786869,
+            48.88245843109808
+          ],
           "correspondance": {
             "metro": [
               "ligne 2",
@@ -7364,7 +9646,12 @@
           }
         },
         {
+          "id": "IDFM:71920",
           "name": "Bolivar",
+          "position": [
+            2.373927167224922,
+            48.88078863015127
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7375,7 +9662,12 @@
           }
         },
         {
+          "id": "IDFM:71900",
           "name": "Buttes Chaumont",
+          "position": [
+            2.3817350000419477,
+            48.87836953851414
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7386,7 +9678,12 @@
           }
         },
         {
+          "id": "IDFM:71906",
           "name": "Botzaris",
+          "position": [
+            2.389261973389804,
+            48.87949186800839
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7399,7 +9696,12 @@
           }
         },
         {
+          "id": "IDFM:71885",
           "name": "Place des Fêtes",
+          "position": [
+            2.3933519582766216,
+            48.877201384850586
+          ],
           "correspondance": {
             "metro": [
               "ligne 11"
@@ -7413,7 +9715,12 @@
           }
         },
         {
+          "id": "IDFM:71911",
           "name": "Pré-Saint-Gervais",
+          "position": [
+            2.3984571624615114,
+            48.879646342655
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7427,11 +9734,17 @@
       "color": "#82DC73"
     },
     {
+      "id": "IDFM:C01378",
       "type": "metro",
       "name": "ligne 8",
       "stations": [
         {
+          "id": "IDFM:71614",
           "name": "Daumesnil",
+          "position": [
+            2.395719004371989,
+            48.839472309769995
+          ],
           "correspondance": {
             "metro": [
               "ligne 6"
@@ -7448,7 +9761,12 @@
           }
         },
         {
+          "id": "IDFM:71631",
           "name": "Montgallet",
+          "position": [
+            2.390158153415885,
+            48.84429613431412
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7459,7 +9777,12 @@
           }
         },
         {
+          "id": "IDFM:71654",
           "name": "Reuilly - Diderot",
+          "position": [
+            2.386233890112332,
+            48.84718548495672
+          ],
           "correspondance": {
             "metro": [
               "ligne 1"
@@ -7475,7 +9798,12 @@
           }
         },
         {
+          "id": "IDFM:74001",
           "name": "Faidherbe - Chaligny",
+          "position": [
+            2.385064498025339,
+            48.84985955714189
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7487,7 +9815,12 @@
           }
         },
         {
+          "id": "IDFM:71693",
           "name": "Ledru-Rollin",
+          "position": [
+            2.3759161615561943,
+            48.85135458016637
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7502,7 +9835,12 @@
           }
         },
         {
+          "id": "IDFM:463564",
           "name": "Bastille",
+          "position": [
+            2.368726105936876,
+            48.85258944629183
+          ],
           "correspondance": {
             "metro": [
               "ligne 1",
@@ -7525,7 +9863,12 @@
           }
         },
         {
+          "id": "IDFM:73622",
           "name": "Chemin Vert",
+          "position": [
+            2.3679933601043524,
+            48.857383615830855
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7540,7 +9883,12 @@
           }
         },
         {
+          "id": "IDFM:71777",
           "name": "Saint-Sébastien - Froissart",
+          "position": [
+            2.367247910158567,
+            48.8609680736927
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7549,7 +9897,12 @@
           }
         },
         {
+          "id": "IDFM:71277",
           "name": "Filles du Calvaire",
+          "position": [
+            2.366064254383943,
+            48.86246821352985
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7563,7 +9916,12 @@
           }
         },
         {
+          "id": "IDFM:71311",
           "name": "République",
+          "position": [
+            2.3641535175879786,
+            48.86769225425708
+          ],
           "correspondance": {
             "metro": [
               "ligne 11",
@@ -7588,7 +9946,12 @@
           }
         },
         {
+          "id": "IDFM:73633",
           "name": "Strasbourg - Saint-Denis",
+          "position": [
+            2.3530172012436292,
+            48.869242395613824
+          ],
           "correspondance": {
             "metro": [
               "ligne 4",
@@ -7607,7 +9970,12 @@
           }
         },
         {
+          "id": "IDFM:71320",
           "name": "Bonne Nouvelle",
+          "position": [
+            2.3479422245282207,
+            48.87062232408059
+          ],
           "correspondance": {
             "metro": [
               "ligne 9"
@@ -7622,7 +9990,12 @@
           }
         },
         {
+          "id": "IDFM:71326",
           "name": "Grands Boulevards",
+          "position": [
+            2.343641272682872,
+            48.871142917705654
+          ],
           "correspondance": {
             "metro": [
               "ligne 9"
@@ -7641,7 +10014,12 @@
           }
         },
         {
+          "id": "IDFM:71330",
           "name": "Richelieu - Drouot",
+          "position": [
+            2.3390090080720753,
+            48.87198079363347
+          ],
           "correspondance": {
             "metro": [
               "ligne 9"
@@ -7661,7 +10039,12 @@
           }
         },
         {
+          "id": "IDFM:71337",
           "name": "Opéra",
+          "position": [
+            2.331888034563735,
+            48.87125775980426
+          ],
           "correspondance": {
             "metro": [
               "ligne 3",
@@ -7686,7 +10069,12 @@
           }
         },
         {
+          "id": "IDFM:71324",
           "name": "Madeleine",
+          "position": [
+            2.3250135681878303,
+            48.869937628240834
+          ],
           "correspondance": {
             "metro": [
               "ligne 12",
@@ -7704,7 +10092,12 @@
           }
         },
         {
+          "id": "IDFM:71298",
           "name": "Concorde",
+          "position": [
+            2.321675919601415,
+            48.865565929741614
+          ],
           "correspondance": {
             "metro": [
               "ligne 1",
@@ -7725,7 +10118,12 @@
           }
         },
         {
+          "id": "IDFM:71274",
           "name": "Invalides",
+          "position": [
+            2.313775847715638,
+            48.86146482876898
+          ],
           "correspondance": {
             "metro": [
               "ligne 13"
@@ -7743,7 +10141,12 @@
           }
         },
         {
+          "id": "IDFM:71242",
           "name": "La Tour-Maubourg",
+          "position": [
+            2.3098421346514524,
+            48.857444583739024
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7755,7 +10158,12 @@
           }
         },
         {
+          "id": "IDFM:71224",
           "name": "École Militaire",
+          "position": [
+            2.305724672459346,
+            48.85447537483774
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7770,7 +10178,12 @@
           }
         },
         {
+          "id": "IDFM:71199",
           "name": "La Motte-Picquet - Grenelle",
+          "position": [
+            2.2984077121284154,
+            48.84918377697637
+          ],
           "correspondance": {
             "metro": [
               "ligne 10",
@@ -7785,7 +10198,12 @@
           }
         },
         {
+          "id": "IDFM:71132",
           "name": "Commerce",
+          "position": [
+            2.294504747342932,
+            48.844157012110244
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7794,7 +10212,12 @@
           }
         },
         {
+          "id": "IDFM:71137",
           "name": "Félix Faure",
+          "position": [
+            2.2925719898179917,
+            48.84299440812691
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7807,7 +10230,12 @@
           }
         },
         {
+          "id": "IDFM:412992",
           "name": "Boucicaut",
+          "position": [
+            2.288081000562114,
+            48.84109258135611
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7818,7 +10246,12 @@
           }
         },
         {
+          "id": "IDFM:71086",
           "name": "Lourmel",
+          "position": [
+            2.2823318753272557,
+            48.83856247217328
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7829,7 +10262,12 @@
           }
         },
         {
+          "id": "IDFM:71073",
           "name": "Balard",
+          "position": [
+            2.2781029709215312,
+            48.83648195600811
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -7854,11 +10292,17 @@
       "color": "#D282BE"
     },
     {
+      "id": "IDFM:C01379",
       "type": "metro",
       "name": "ligne 9",
       "stations": [
         {
+          "id": "IDFM:71710",
           "name": "Porte de Montreuil",
+          "position": [
+            2.41094855344792,
+            48.853596184217714
+          ],
           "correspondance": {
             "metro": [],
             "tram": [
@@ -7875,7 +10319,12 @@
           }
         },
         {
+          "id": "IDFM:71703",
           "name": "Maraîchers",
+          "position": [
+            2.4060937208674664,
+            48.85267283664598
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7888,7 +10337,12 @@
           }
         },
         {
+          "id": "IDFM:479928",
           "name": "Buzenval",
+          "position": [
+            2.4014802697487627,
+            48.85210574161963
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7900,7 +10354,12 @@
           }
         },
         {
+          "id": "IDFM:71673",
           "name": "Nation",
+          "position": [
+            2.3963326474955293,
+            48.848837716955956
+          ],
           "correspondance": {
             "metro": [
               "ligne 1",
@@ -7922,7 +10381,12 @@
           }
         },
         {
+          "id": "IDFM:71694",
           "name": "Rue des Boulets",
+          "position": [
+            2.3895553014039312,
+            48.85213992819131
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7933,7 +10397,12 @@
           }
         },
         {
+          "id": "IDFM:73647",
           "name": "Charonne",
+          "position": [
+            2.38557433703385,
+            48.85458377271398
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7945,7 +10414,12 @@
           }
         },
         {
+          "id": "IDFM:71750",
           "name": "Voltaire",
+          "position": [
+            2.3798759984809505,
+            48.85814727623618
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7961,7 +10435,12 @@
           }
         },
         {
+          "id": "IDFM:71781",
           "name": "Saint-Ambroise",
+          "position": [
+            2.3753874025876054,
+            48.86192816533339
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -7973,7 +10452,12 @@
           }
         },
         {
+          "id": "IDFM:71803",
           "name": "Oberkampf",
+          "position": [
+            2.3695528985943537,
+            48.8642283660879
+          ],
           "correspondance": {
             "metro": [
               "ligne 5"
@@ -7987,7 +10471,12 @@
           }
         },
         {
+          "id": "IDFM:71311",
           "name": "République",
+          "position": [
+            2.3641535175879786,
+            48.86769225425708
+          ],
           "correspondance": {
             "metro": [
               "ligne 11",
@@ -8012,7 +10501,12 @@
           }
         },
         {
+          "id": "IDFM:73633",
           "name": "Strasbourg - Saint-Denis",
+          "position": [
+            2.3530172012436292,
+            48.869242395613824
+          ],
           "correspondance": {
             "metro": [
               "ligne 4",
@@ -8031,7 +10525,12 @@
           }
         },
         {
+          "id": "IDFM:71320",
           "name": "Bonne Nouvelle",
+          "position": [
+            2.3479422245282207,
+            48.87062232408059
+          ],
           "correspondance": {
             "metro": [
               "ligne 8"
@@ -8046,7 +10545,12 @@
           }
         },
         {
+          "id": "IDFM:71326",
           "name": "Grands Boulevards",
+          "position": [
+            2.343641272682872,
+            48.871142917705654
+          ],
           "correspondance": {
             "metro": [
               "ligne 8"
@@ -8065,7 +10569,12 @@
           }
         },
         {
+          "id": "IDFM:71330",
           "name": "Richelieu - Drouot",
+          "position": [
+            2.3390090080720753,
+            48.87198079363347
+          ],
           "correspondance": {
             "metro": [
               "ligne 8"
@@ -8085,7 +10594,12 @@
           }
         },
         {
+          "id": "IDFM:73689",
           "name": "Chaussée d'Antin - La Fayette",
+          "position": [
+            2.3332137022912565,
+            48.873666389956384
+          ],
           "correspondance": {
             "metro": [
               "ligne 7"
@@ -8100,7 +10614,12 @@
           }
         },
         {
+          "id": "IDFM:482368",
           "name": "Havre - Caumartin",
+          "position": [
+            2.3271544966132858,
+            48.87357402758874
+          ],
           "correspondance": {
             "metro": [
               "ligne 3"
@@ -8123,7 +10642,12 @@
           }
         },
         {
+          "id": "IDFM:73690",
           "name": "Saint-Augustin",
+          "position": [
+            2.3196495886458997,
+            48.87459282954179
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -8145,7 +10669,12 @@
           }
         },
         {
+          "id": "IDFM:71346",
           "name": "Miromesnil",
+          "position": [
+            2.3145874437246032,
+            48.87385347157552
+          ],
           "correspondance": {
             "metro": [
               "ligne 13"
@@ -8168,7 +10697,12 @@
           }
         },
         {
+          "id": "IDFM:71334",
           "name": "Saint-Philippe-du-Roule",
+          "position": [
+            2.310928262297524,
+            48.87270828636942
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -8183,7 +10717,12 @@
           }
         },
         {
+          "id": "IDFM:71318",
           "name": "Franklin D. Roosevelt",
+          "position": [
+            2.30996645232141,
+            48.8691548351732
+          ],
           "correspondance": {
             "metro": [
               "ligne 1"
@@ -8205,7 +10744,12 @@
           }
         },
         {
+          "id": "IDFM:71290",
           "name": "Alma - Marceau",
+          "position": [
+            2.3016915456037386,
+            48.86456963401637
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -8220,7 +10764,12 @@
           }
         },
         {
+          "id": "IDFM:71294",
           "name": "Iéna",
+          "position": [
+            2.2941247882632076,
+            48.86466464469911
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -8233,7 +10782,12 @@
           }
         },
         {
+          "id": "IDFM:71285",
           "name": "Trocadéro",
+          "position": [
+            2.287223474647482,
+            48.8634455913546
+          ],
           "correspondance": {
             "metro": [
               "ligne 6"
@@ -8251,7 +10805,12 @@
           }
         },
         {
+          "id": "IDFM:71292",
           "name": "Rue de la Pompe",
+          "position": [
+            2.2782024321511316,
+            48.864718067726685
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -8263,7 +10822,12 @@
           }
         },
         {
+          "id": "IDFM:474150",
           "name": "La Muette",
+          "position": [
+            2.273869241020442,
+            48.858243480448024
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -8278,7 +10842,12 @@
           }
         },
         {
+          "id": "IDFM:71243",
           "name": "Ranelagh",
+          "position": [
+            2.270416875330411,
+            48.855609843598934
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -8291,7 +10860,12 @@
           }
         },
         {
+          "id": "IDFM:73657",
           "name": "Jasmin",
+          "position": [
+            2.2680786507284356,
+            48.852272422659006
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -8302,7 +10876,12 @@
           }
         },
         {
+          "id": "IDFM:71206",
           "name": "Michel-Ange - Auteuil",
+          "position": [
+            2.264593788674957,
+            48.84812746551894
+          ],
           "correspondance": {
             "metro": [
               "ligne 10"
@@ -8316,7 +10895,12 @@
           }
         },
         {
+          "id": "IDFM:73658",
           "name": "Michel-Ange - Molitor",
+          "position": [
+            2.2618699915493634,
+            48.84512478925029
+          ],
           "correspondance": {
             "metro": [
               "ligne 10"
@@ -8329,7 +10913,12 @@
           }
         },
         {
+          "id": "IDFM:71124",
           "name": "Exelmans",
+          "position": [
+            2.260115916310656,
+            48.84294197400378
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -8341,7 +10930,12 @@
           }
         },
         {
+          "id": "IDFM:71084",
           "name": "Porte de Saint-Cloud",
+          "position": [
+            2.257159748720551,
+            48.83811650162235
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -8362,7 +10956,12 @@
           }
         },
         {
+          "id": "IDFM:71054",
           "name": "Marcel Sembat",
+          "position": [
+            2.2434967637251,
+            48.83371834976639
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -8381,7 +10980,12 @@
           }
         },
         {
+          "id": "IDFM:71034",
           "name": "Billancourt",
+          "position": [
+            2.238194520131341,
+            48.832038826816394
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -8394,7 +10998,12 @@
           }
         },
         {
+          "id": "IDFM:70698",
           "name": "Pont de Sèvres",
+          "position": [
+            2.230741596967063,
+            48.82980561919347
+          ],
           "correspondance": {
             "metro": [],
             "tram": [],
@@ -8417,6 +11026,997 @@
         }
       ],
       "color": "#D2D200"
+    }
+  ],
+  "TCL": [
+    {
+      "id": "A",
+      "type": "metro",
+      "name": "ligne A",
+      "stations": [
+        {
+          "id": "S5085",
+          "name": "Perrache",
+          "position": [
+            4.826929892041,
+            45.749553817296
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T1",
+              "tram T2"
+            ],
+            "bus": [
+              "bus 108",
+              "bus 220",
+              "bus 31",
+              "bus 34",
+              "bus 41",
+              "bus 46",
+              "bus 49",
+              "bus 55",
+              "bus 60",
+              "bus 63",
+              "bus C21"
+            ],
+            "gare": [
+              "Lyon Perrache"
+            ]
+          }
+        },
+        {
+          "id": "S5000",
+          "name": "Ampère - Victor Hugo",
+          "position": [
+            4.829026519591,
+            45.752470229187
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 133"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5002",
+          "name": "Bellecour",
+          "position": [
+            4.833467067525,
+            45.757117725291
+          ],
+          "correspondance": {
+            "metro": [
+              "ligne D"
+            ],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5021",
+          "name": "Cordeliers",
+          "position": [
+            4.835812796707,
+            45.76344908481
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 109",
+              "bus 127",
+              "bus 59",
+              "bus A32",
+              "bus A71",
+              "bus C23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5046",
+          "name": "Hôtel de Ville L. Pradel",
+          "position": [
+            4.836010790986,
+            45.767592381066
+          ],
+          "correspondance": {
+            "metro": [
+              "ligne C"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 109",
+              "bus 133",
+              "bus 141",
+              "bus 59",
+              "bus A32",
+              "bus A71",
+              "bus C23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5182",
+          "name": "Foch",
+          "position": [
+            4.84390151799,
+            45.768690999162
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 127",
+              "bus C5"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5081",
+          "name": "Masséna",
+          "position": [
+            4.85337111277,
+            45.769584397
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 38"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5102",
+          "name": "Charpennes Charles Hernu",
+          "position": [
+            4.863481370249,
+            45.770648393994
+          ],
+          "correspondance": {
+            "metro": [
+              "ligne B"
+            ],
+            "tram": [
+              "tram T1",
+              "tram T4"
+            ],
+            "bus": [
+              "bus 127",
+              "bus 37",
+              "bus 70",
+              "bus C16"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5183",
+          "name": "République Villeurbanne",
+          "position": [
+            4.873671105903,
+            45.7706085657
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5042",
+          "name": "Gratte Ciel",
+          "position": [
+            4.882184024522,
+            45.769036091451
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T6"
+            ],
+            "bus": [
+              "bus 69"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5024",
+          "name": "Flachet - Alain Gilles",
+          "position": [
+            4.88971,
+            45.76798
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 69"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5023",
+          "name": "Cusset",
+          "position": [
+            4.90027564618,
+            45.765708446357
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus C26"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5101",
+          "name": "Laurent Bonnevay",
+          "position": [
+            4.908743073679,
+            45.764943547644
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 107",
+              "bus 57",
+              "bus 67",
+              "bus C15",
+              "bus C17",
+              "bus C26",
+              "bus C27",
+              "bus C8"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5564",
+          "name": "Vaulx-en-Velin La Soie",
+          "position": [
+            4.921197646079,
+            45.761209283916
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram RX",
+              "tram T3",
+              "tram T7",
+              "tram TS"
+            ],
+            "bus": [
+              "bus 116",
+              "bus 147",
+              "bus 148",
+              "bus 149",
+              "bus 52",
+              "bus 52EX",
+              "bus 68",
+              "bus BRT3",
+              "bus C15",
+              "bus C200",
+              "bus C8"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#E8308A"
+    },
+    {
+      "id": "B",
+      "type": "metro",
+      "name": "ligne B",
+      "stations": [
+        {
+          "id": "S5102",
+          "name": "Charpennes Charles Hernu",
+          "position": [
+            4.863481370249,
+            45.770648393994
+          ],
+          "correspondance": {
+            "metro": [
+              "ligne A"
+            ],
+            "tram": [
+              "tram T1",
+              "tram T4"
+            ],
+            "bus": [
+              "bus 127",
+              "bus 37",
+              "bus 70",
+              "bus C16"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5004",
+          "name": "Brotteaux",
+          "position": [
+            4.859200656781,
+            45.766768452512
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 70",
+              "bus C6"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5520",
+          "name": "Gare Part-Dieu V.Merle",
+          "position": [
+            4.857828126598,
+            45.761525088437
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T1"
+            ],
+            "bus": [
+              "bus 125",
+              "bus 36",
+              "bus 38",
+              "bus 70",
+              "bus BRMB",
+              "bus C25",
+              "bus C6",
+              "bus C9"
+            ],
+            "gare": [
+              "Lyon Part Dieu"
+            ]
+          }
+        },
+        {
+          "id": "S5043",
+          "name": "Place Guichard",
+          "position": [
+            4.847607670448,
+            45.759401214971
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5092",
+          "name": "Saxe - Gambetta",
+          "position": [
+            4.847045557118,
+            45.75382821644
+          ],
+          "correspondance": {
+            "metro": [
+              "ligne D"
+            ],
+            "tram": [],
+            "bus": [
+              "bus BRMB",
+              "bus C12",
+              "bus C27",
+              "bus C5"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5160",
+          "name": "Jean Macé",
+          "position": [
+            4.842331509228,
+            45.746003004981
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T2"
+            ],
+            "bus": [
+              "bus 35",
+              "bus 36",
+              "bus 64",
+              "bus BRMB",
+              "bus C12",
+              "bus C5"
+            ],
+            "gare": [
+              "Lyon Jean Macé"
+            ]
+          }
+        },
+        {
+          "id": "S5221",
+          "name": "Place Jean Jaurès",
+          "position": [
+            4.837491135881,
+            45.737850350924
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 36",
+              "bus 64",
+              "bus BRMB"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5220",
+          "name": "Debourg",
+          "position": [
+            4.834373270688,
+            45.731497588356
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T1",
+              "tram T6"
+            ],
+            "bus": [
+              "bus 34",
+              "bus 60",
+              "bus 64",
+              "bus BRMB"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5200",
+          "name": "Stade de Gerland Le LOU",
+          "position": [
+            4.831271275394,
+            45.727397019501
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 60",
+              "bus BRMB"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5904",
+          "name": "Gare d'Oullins",
+          "position": [
+            4.814932325308,
+            45.716328454648
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 106",
+              "bus 106.",
+              "bus 106EX",
+              "bus 111",
+              "bus 112",
+              "bus 114",
+              "bus 115",
+              "bus 117",
+              "bus 165",
+              "bus 245",
+              "bus 88"
+            ],
+            "gare": [
+              "Oullins"
+            ]
+          }
+        },
+        {
+          "id": "S5936",
+          "name": "Oullins Centre",
+          "position": [
+            4.805413254887,
+            45.714358164512
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5937",
+          "name": "St-Genis-Laval Hôp. Sud",
+          "position": [
+            4.805050586489,
+            45.70082878124
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 112",
+              "bus 117",
+              "bus 118",
+              "bus 144",
+              "bus 214",
+              "bus 36",
+              "bus 78",
+              "bus 88",
+              "bus BRMB",
+              "bus C205"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#0075BF"
+    },
+    {
+      "id": "C",
+      "type": "metro",
+      "name": "ligne C",
+      "stations": [
+        {
+          "id": "S5046",
+          "name": "Hôtel de Ville L. Pradel",
+          "position": [
+            4.836010790986,
+            45.767592381066
+          ],
+          "correspondance": {
+            "metro": [
+              "ligne A"
+            ],
+            "tram": [],
+            "bus": [
+              "bus 109",
+              "bus 133",
+              "bus 141",
+              "bus 59",
+              "bus A32",
+              "bus A71",
+              "bus C23"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5222",
+          "name": "Croix-Paquet",
+          "position": [
+            4.836238360208,
+            45.770943330601
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5223",
+          "name": "Croix-Rousse",
+          "position": [
+            4.832494849061,
+            45.774577217651
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 102",
+              "bus 104A",
+              "bus 104B",
+              "bus 141",
+              "bus 33",
+              "bus 45"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5045",
+          "name": "Hénon",
+          "position": [
+            4.827686957586,
+            45.778716160931
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 102",
+              "bus 104A",
+              "bus 104B",
+              "bus 33"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5022",
+          "name": "Cuire",
+          "position": [
+            4.833375057742,
+            45.785879778046
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 140",
+              "bus 33",
+              "bus 38"
+            ],
+            "gare": []
+          }
+        }
+      ],
+      "color": "#EC6608"
+    },
+    {
+      "id": "D",
+      "type": "metro",
+      "name": "ligne D",
+      "stations": [
+        {
+          "id": "S5103",
+          "name": "Gare de Vaise-G.Collomb",
+          "position": [
+            4.804748801736,
+            45.780793013523
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 102",
+              "bus 110",
+              "bus 110EX",
+              "bus 120",
+              "bus 121",
+              "bus 122",
+              "bus 123",
+              "bus 135",
+              "bus 215",
+              "bus 31",
+              "bus 43",
+              "bus 61",
+              "bus 71",
+              "bus 84",
+              "bus 89",
+              "bus 89EX",
+              "bus C204",
+              "bus C6"
+            ],
+            "gare": [
+              "Lyon Vaise"
+            ]
+          }
+        },
+        {
+          "id": "S5094",
+          "name": "Valmy",
+          "position": [
+            4.805428113976,
+            45.774779864545
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 102",
+              "bus 105",
+              "bus 31",
+              "bus 90",
+              "bus C6"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5040",
+          "name": "Gorge de Loup",
+          "position": [
+            4.80533,
+            45.76656
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 103",
+              "bus 114",
+              "bus 119",
+              "bus 216",
+              "bus 247",
+              "bus 45",
+              "bus 65",
+              "bus 66",
+              "bus 72",
+              "bus 86",
+              "bus 90",
+              "bus 98",
+              "bus 98EX",
+              "bus C202",
+              "bus C203",
+              "bus C21",
+              "bus C22",
+              "bus C22EX",
+              "bus C24"
+            ],
+            "gare": [
+              "Lyon Gorge de Loup"
+            ]
+          }
+        },
+        {
+          "id": "S5095",
+          "name": "Vieux Lyon Cat. St-Jean",
+          "position": [
+            4.82694,
+            45.7601
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 127",
+              "bus 31",
+              "bus C20",
+              "bus C20EX"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5002",
+          "name": "Bellecour",
+          "position": [
+            4.833467067525,
+            45.757117725291
+          ],
+          "correspondance": {
+            "metro": [
+              "ligne A"
+            ],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5044",
+          "name": "Guillotière Gabriel Péri",
+          "position": [
+            4.842522562068,
+            45.755181409653
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T1"
+            ],
+            "bus": [
+              "bus C12",
+              "bus C9"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5092",
+          "name": "Saxe - Gambetta",
+          "position": [
+            4.847045557118,
+            45.75382821644
+          ],
+          "correspondance": {
+            "metro": [
+              "ligne B"
+            ],
+            "tram": [],
+            "bus": [
+              "bus BRMB",
+              "bus C12",
+              "bus C27",
+              "bus C5"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5181",
+          "name": "Garibaldi",
+          "position": [
+            4.854206535802,
+            45.751426085686
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5091",
+          "name": "Sans Souci",
+          "position": [
+            4.864823512074,
+            45.747769496982
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 69"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5083",
+          "name": "Monplaisir Lumière",
+          "position": [
+            4.871365292938,
+            45.745523617712
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus C16"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5041",
+          "name": "Grange Blanche",
+          "position": [
+            4.878806583249,
+            45.742933160503
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T2",
+              "tram T5"
+            ],
+            "bus": [
+              "bus 124",
+              "bus 34",
+              "bus C16",
+              "bus C201",
+              "bus C26",
+              "bus C8"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5062",
+          "name": "Laennec",
+          "position": [
+            4.886982492425,
+            45.737956994582
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5082",
+          "name": "Mermoz - Pinel",
+          "position": [
+            4.887220759775,
+            45.730740320512
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T6"
+            ],
+            "bus": [
+              "bus 126",
+              "bus 32",
+              "bus 79",
+              "bus C15",
+              "bus C201"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5084",
+          "name": "Parilly",
+          "position": [
+            4.887454362254,
+            45.719763672732
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [],
+            "bus": [
+              "bus 113",
+              "bus 126",
+              "bus 211",
+              "bus 212",
+              "bus 213",
+              "bus 39",
+              "bus 79",
+              "bus C25",
+              "bus T36"
+            ],
+            "gare": []
+          }
+        },
+        {
+          "id": "S5104",
+          "name": "Gare de Vénissieux",
+          "position": [
+            4.887881476678,
+            45.705629179427
+          ],
+          "correspondance": {
+            "metro": [],
+            "tram": [
+              "tram T4"
+            ],
+            "bus": [
+              "bus 113",
+              "bus 145",
+              "bus 211",
+              "bus 212",
+              "bus 213",
+              "bus 35",
+              "bus 39",
+              "bus 54",
+              "bus 62",
+              "bus 87",
+              "bus 93"
+            ],
+            "gare": [
+              "Vénissieux"
+            ]
+          }
+        }
+      ],
+      "color": "#009E3D"
     }
   ]
 }

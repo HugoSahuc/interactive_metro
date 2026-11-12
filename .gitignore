@@ -1,3 +1,14 @@
+# Environnements et caches Python
 .venv/
 __pycache__/
 *.py[cod]
+.ruff_cache/
+
+# Données sources volumineuses (GTFS)
+gtfs/
+
+# Données géographiques générées ou téléchargées
+*.geojson
+
+# Rendus générés
+post_*.png

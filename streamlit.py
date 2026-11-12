@@ -1,15 +1,20 @@
 import json
+import re
 from html import escape
 from pathlib import Path
 
 import streamlit as st
 
+from scoring import (
+    DEFAULT_BUS_POINTS,
+    DEFAULT_METRO_POINTS,
+    DEFAULT_TRAIN_POINTS,
+    DEFAULT_TRAM_POINTS,
+    station_score,
+)
+
 
 DATA_FILE = Path(__file__).with_name("correspondance.json")
-DEFAULT_METRO_POINTS = 2.0
-DEFAULT_TRAIN_POINTS = 3.0
-DEFAULT_TRAM_POINTS = 1.0
-DEFAULT_BUS_POINTS = 0.1
 FALLBACK_LINE_COLORS = ["#e11d48", "#2563eb", "#7c3aed", "#0891b2"]
 
 
@@ -29,19 +34,6 @@ def load_networks(path: Path) -> dict[str, list[dict]]:
         return {"Tisséo": data["toulouse"]}
     return data
 
-
-def station_score(station: dict, points: dict[str, float]) -> float:
-    connections = station["correspondance"]
-    score = len(connections["bus"]) * points["bus"]
-
-    if connections["metro"]:
-        score += points["metro"]
-    if connections["gare"]:
-        score += points["gare"]
-    if connections["tram"]:
-        score += points["tram"]
-
-    return round(score, 1)
 
 
 def line_connection_counts(line: dict) -> dict[str, int]:
@@ -64,14 +56,28 @@ def format_score(score: float) -> str:
     return f"{score:.1f}".replace(".", ",")
 
 
+def natural_line_sort_key(line: dict) -> tuple:
+    parts = re.split(r"(\d+)", line["name"].casefold())
+    return tuple(
+        (0, int(part)) if part.isdigit() else (1, part)
+        for part in parts
+        if part
+    )
+
+
 def connection_badge(icon: str, label: str, values: list[str], kind: str) -> str:
     if not values:
         return ""
 
     details = escape(", ".join(values), quote=True)
+    count = (
+        f'<span class="connection-count">{len(values)}</span>'
+        if kind == "metro" and len(values) > 1
+        else ""
+    )
     return (
         f'<span class="connection-badge {kind}" title="{details}">'
-        f'<span aria-hidden="true">{icon}</span>'
+        f'<span aria-hidden="true">{icon}</span>{count}'
         f'<span class="sr-only">{label} : {details}</span>'
         "</span>"
     )
@@ -251,6 +257,11 @@ st.markdown(
             cursor: help;
         }
         .connection-badge.metro { background: #2563eb; }
+        .connection-count {
+            margin-left: 0.15rem;
+            font-size: 0.55rem;
+            line-height: 1;
+        }
         .connection-badge.tram { background: #7c3aed; }
         .connection-badge.train { background: #0891b2; }
         .connection-badge.bus { background: #475569; }
@@ -260,6 +271,38 @@ st.markdown(
             font-size: 0.68rem;
             font-weight: 700;
             color: var(--line-color);
+        }
+        .station-ranking {
+            display: grid;
+            grid-template-columns: repeat(5, minmax(8rem, 1fr));
+            gap: 0.65rem;
+            margin-bottom: 1.2rem;
+        }
+        .station-rank {
+            padding: 0.8rem 0.9rem;
+            border: 1px solid rgba(128, 128, 128, 0.20);
+            border-radius: 0.8rem;
+            background: rgba(255, 255, 255, 0.035);
+        }
+        .station-rank-position {
+            font-size: 0.75rem;
+            font-weight: 750;
+            opacity: 0.65;
+        }
+        .station-rank-name {
+            min-height: 2.8rem;
+            margin: 0.2rem 0;
+            font-weight: 700;
+            line-height: 1.2;
+        }
+        .station-rank-score {
+            color: #e11d48;
+            font-size: 1.2rem;
+            font-weight: 750;
+        }
+        .station-rank-network {
+            font-size: 0.75rem;
+            opacity: 0.7;
         }
         .map-legend {
             font-size: 0.75rem;
@@ -281,6 +324,9 @@ st.markdown(
             .line-stats {
                 grid-template-columns: repeat(3, 1fr);
             }
+            .station-ranking {
+                grid-template-columns: repeat(2, 1fr);
+            }
         }
     </style>
     """,
@@ -288,7 +334,6 @@ st.markdown(
 )
 
 st.title("🚇 Score des correspondances")
-st.caption("Comparaison des réseaux de métro · Les scores suivent le barème choisi.")
 
 st.sidebar.header("⚙️ Système de points")
 st.sidebar.caption("Modifiez les valeurs pour recalculer tous les scores.")
@@ -297,22 +342,22 @@ points = {
         "Correspondance métro",
         min_value=0.0,
         value=DEFAULT_METRO_POINTS,
-        step=0.1,
-        format="%.1f",
+        step=1.0,
+        format="%.0f",
     ),
     "gare": st.sidebar.number_input(
         "Correspondance gare",
         min_value=0.0,
         value=DEFAULT_TRAIN_POINTS,
-        step=0.1,
-        format="%.1f",
+        step=1.0,
+        format="%.0f",
     ),
     "tram": st.sidebar.number_input(
         "Correspondance tram",
         min_value=0.0,
         value=DEFAULT_TRAM_POINTS,
-        step=0.1,
-        format="%.1f",
+        step=1.0,
+        format="%.0f",
     ),
     "bus": st.sidebar.number_input(
         "Par ligne de bus",
@@ -323,15 +368,6 @@ points = {
     ),
 }
 
-with st.expander("Barème utilisé"):
-    st.markdown(
-        f"""
-        **Métro :** {format_score(points['metro'])} pts ·
-        **Gare :** {format_score(points['gare'])} pts ·
-        **Tram :** {format_score(points['tram'])} pts ·
-        **Bus :** {format_score(points['bus'])} pt par ligne
-        """
-    )
 
 try:
     networks = load_networks(DATA_FILE)
@@ -350,6 +386,10 @@ network_scores = {
     )
     for network_name, lines in networks.items()
 }
+ordered_networks = sorted(
+    networks.items(),
+    key=lambda item: (-network_scores[item[0]], item[0].casefold()),
+)
 total_score = round(sum(network_scores.values()), 1)
 total_lines = sum(len(lines) for lines in networks.values())
 total_stations = sum(
@@ -370,8 +410,42 @@ metric_columns[3].metric("Stations connectées", f"{connected_stations} / {total
 
 st.subheader("Scores par réseau")
 network_columns = st.columns(len(network_scores))
-for column, (network_name, score) in zip(network_columns, network_scores.items()):
-    column.metric(network_name, f"{format_score(score)} pts")
+for column, (network_name, _) in zip(network_columns, ordered_networks):
+    column.metric(network_name, f"{format_score(network_scores[network_name])} pts")
+
+stations_by_network_and_name = {}
+for network_name, lines in ordered_networks:
+    for line in lines:
+        for station in line["stations"]:
+            key = (network_name, station["name"])
+            score = station_score(station, points)
+            stations_by_network_and_name[key] = max(
+                score,
+                stations_by_network_and_name.get(key, 0.0),
+            )
+
+top_stations = sorted(
+    (
+        (station_name, network_name, score)
+        for (network_name, station_name), score in stations_by_network_and_name.items()
+    ),
+    key=lambda item: (-item[2], item[0].casefold(), item[1].casefold()),
+)[:5]
+
+st.subheader("Scores par station · Top 5")
+station_ranking_html = "".join(
+    '<div class="station-rank">'
+    f'<div class="station-rank-position">N° {rank}</div>'
+    f'<div class="station-rank-name">{escape(station_name)}</div>'
+    f'<div class="station-rank-score">{format_score(score)} pts</div>'
+    f'<div class="station-rank-network">{escape(network_name)}</div>'
+    "</div>"
+    for rank, (station_name, network_name, score) in enumerate(top_stations, start=1)
+)
+st.markdown(
+    f'<div class="station-ranking">{station_ranking_html}</div>',
+    unsafe_allow_html=True,
+)
 
 st.markdown(
     '<div class="map-legend">'
@@ -380,12 +454,12 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-for network_name, lines in networks.items():
+for network_name, lines in ordered_networks:
     st.markdown(
         f"## {escape(network_name)} · {format_score(network_scores[network_name])} pts"
     )
 
-    for line_index, line in enumerate(lines):
+    for line_index, line in enumerate(sorted(lines, key=natural_line_sort_key)):
         score = round(
             sum(station_score(station, points) for station in line["stations"]), 1
         )
